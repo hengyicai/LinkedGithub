@@ -2,12 +2,13 @@
 from mongo_client import MyMongoClient
 import networkx as nx
 import pickle
+import config
 
-IP = '112.74.50.127'
-PORT = 27017
+IP = config.MONGO_IP
+PORT = config.MONGO_PORT
 
-graph_data = {}
-bad_projects = ["pytest","ansible","ansible-modules-core", "pip","ansible-modules-extras","easybuild-easyblocks","pytest-cov","travis-ci","ipython","sh","conda"]
+BAD_PRJS = ["pytest", "ansible", "ansible-modules-core", "pip", "ansible-modules-extras", "easybuild-easyblocks",
+            "pytest-cov", "travis-ci", "ipython", "sh", "conda"]
 
 
 def writeG2csv(G, node2id, path_id2id, path_node2id):
@@ -21,7 +22,7 @@ def writeG2csv(G, node2id, path_id2id, path_node2id):
         f.write(','.join(['Label', 'Id']))
         f.write('\n')
         for node, id in dict(node2id).iteritems():
-            if node not in bad_projects:
+            if node not in BAD_PRJS:
                 f.write(node)
                 f.write(',')
                 f.write(str(id))
@@ -93,27 +94,39 @@ def construct_G_from_collection(collection_names, vertex_is_project=True, cross_
     return G
 
 
-if __name__ == '__main__':
-    # G = construct_G_from_collection(['i_i', 'i_p'], vertex_is_project=False, cross_project=True)
-    # pickle.dump(G, open('./MultiDiGraph.vertexIsIssueUnit.txt', 'w'))
-    G = pickle.load(open('./AllMultiDiGraph.txt'))
-    # nodes = G.nodes()
-    # node2id = {}
-    # index = 1
-    # for node in nodes:
-    #     node2id[node] = index
-    #     index += 1
-    # pickle.dump(node2id, open('./AllMultiDiGraph.Node2ID','w'))
-    # G.remove_node('pytest')
-    # node2id = pickle.load(open('./AllMultiDiGraph.Node2ID'))
-    # writeG2csv(G, node2id, './AllMultiDiGraph.id2id.rmPytest.csv', './AllMultiDiGraph.node2id.rmPytest.csv')
-    sort_by_in_degree(G)
+def gen_node2id_dic(G):
+    node2id = {}
+    index = 1
+    for node in G.nodes():
+        node2id[node] = index
+        index += 1
+    return node2id
 
-    #################################################
-    '''
-    G = pickle.load(open('./AllMultiDiGraph.txt'))
-    for b_proj in bad_projects:
-        G.remove_node(b_proj)
-    node2id = pickle.load(open('./AllMultiDiGraph.Node2ID'))
-    writeG2csv(G, node2id, './AllMultiDiGraph.id2id.rmBadProjects.csv', './AllMultiDiGraph.node2id.rmBadProjects.csv')
-    '''
+
+if __name__ == '__main__':
+    dump_file_G = config.DATA_DIR + 'AllMultiDiGraph.txt'
+    dump_file_node2id = config.DATA_DIR + 'AllMultiDiGraph.Node2ID'
+    res_id2id = config.DATA_DIR + './AllMultiDiGraph.id2id.rmBadPrj.csv'
+    res_node2id = config.DATA_DIR + './AllMultiDiGraph.node2id.rmBadPrj.csv'
+
+    # Construct graph then dump it
+    # G = construct_G_from_collection(['i_i', 'i_p'], vertex_is_project=False, cross_project=True)
+    # pickle.dump(G, open(dump_file_G, 'w'))
+
+    # Load dumped graph into G
+    G = pickle.load(open(dump_file_G))
+
+    # Generate the node->id dict then dump it
+    # node2id = gen_node2id_dic(G)
+    # pickle.dump(node2id, open(dump_file_node2id,'w'))
+
+    # Load dumped node2id and write result to disk
+    node2id = pickle.load(open(dump_file_node2id))
+    # Remove some nodes in G
+    for bad_prj in BAD_PRJS:
+        G.remove_node(bad_prj)
+
+    writeG2csv(G, node2id, res_id2id, res_node2id)
+
+    # Check the degree
+    sort_by_in_degree(G)

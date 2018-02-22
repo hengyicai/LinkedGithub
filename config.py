@@ -1,0 +1,3 @@
+DATA_DIR = './result/'
+MONGO_IP = '112.74.50.127'
+MONGO_PORT = 27017

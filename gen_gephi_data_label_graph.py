@@ -3,12 +3,9 @@ from mongo_client import MyMongoClient
 import networkx as nx
 import pickle
 from gen_gephi_data import sort_by_out_degree, sort_by_in_degree
-
-IP = '112.74.50.127'
-PORT = 27017
+import config
 
 graph_data = {}
-
 
 def writeG2csv(G, node2id, path_id2id, path_node2id):
     with open(path_id2id, 'w') as f:
@@ -37,7 +34,7 @@ def should_merge(u, v):
 
 
 def construct_label_graph_from_collection(merge=False):
-    mongo_client = MyMongoClient(ip=IP, port=PORT)
+    mongo_client = MyMongoClient(ip=config.MONGO_IP, port=config.MONGO_PORT)
 
     collections = []
     for col in ['different_label_link']:
