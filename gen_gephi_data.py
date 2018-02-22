@@ -121,7 +121,8 @@ if __name__ == '__main__':
     # pickle.dump(node2id, open(dump_file_node2id,'w'))
 
     # Load dumped node2id and write result to disk
-    node2id = pickle.load(open(dump_file_node2id))
+    # node2id = pickle.load(open(dump_file_node2id))
+    node2id = gen_node2id_dic(G)
     # Remove some nodes in G
     for bad_prj in BAD_PRJS:
         G.remove_node(bad_prj)
