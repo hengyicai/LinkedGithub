@@ -2,10 +2,9 @@
 from mongo_client import MyMongoClient
 import networkx as nx
 import pickle
-from gen_gephi_data import sort_by_out_degree, sort_by_in_degree
+from graph_utils import sort_by_out_degree, sort_by_in_degree, gen_node2id_dic
 import config
 
-graph_data = {}
 
 def writeG2csv(G, node2id, path_id2id, path_node2id):
     with open(path_id2id, 'w') as f:
@@ -33,7 +32,7 @@ def should_merge(u, v):
     return False
 
 
-def construct_label_graph_from_collection(merge=False):
+def construct_label_graph_from_collection():
     mongo_client = MyMongoClient(ip=config.MONGO_IP, port=config.MONGO_PORT)
 
     collections = []
@@ -48,28 +47,33 @@ def construct_label_graph_from_collection(merge=False):
             target_v = item['_id']['target_label']
             e_weight = int(item['count'])
             G.add_edge(source_v, target_v, weight=e_weight)
-
-    if merge:
-        merged_G = G
-        for u in G.nodes():
-            for v in G.nodes():
-                if should_merge(u, v) and merged_G.has_node(u) and merged_G.has_node(v):
-                    merged_G = nx.contracted_nodes(merged_G, u, v)
-        return merged_G
     return G
 
 
+def merge_graph(G):
+    merged_G = G
+    for u in G.nodes():
+        for v in G.nodes():
+            if should_merge(u, v) and merged_G.has_node(u) and merged_G.has_node(v):
+                merged_G = nx.contracted_nodes(merged_G, u, v)
+    return merged_G
+
+
 if __name__ == '__main__':
-    G = construct_label_graph_from_collection(merge=True)
-    pickle.dump(G, open('./DiGraph.labelGraph.merged.txt', 'w'))
-    G = pickle.load(open('./DiGraph.labelGraph.merged.txt'))
-    nodes = G.nodes()
-    node2id = {}
-    index = 1
-    for node in nodes:
-        node2id[node] = index
-        index += 1
-    pickle.dump(node2id, open('./DiGraph.labelGraph.merged.Node2ID', 'w'))
-    node2id = pickle.load(open('./DiGraph.labelGraph.merged.Node2ID'))
-    writeG2csv(G, node2id, './DiGraph.labelGraph.id2id.merged.csv', './DiGraph.labelGraph.node2id.merged.csv')
-    sort_by_in_degree(G)
+    dumped_graph = config.DATA_DIR + 'DiGraph.labelGraph.txt'
+    dumped_node2id = config.DATA_DIR + 'DiGraph.labelGraph.merged.Node2ID'
+    dumped_merged_graph = config.DATA_DIR + 'DiGraph.labelGraph.merged.txt'
+    res_G_id2id = config.DATA_DIR + 'DiGraph.labelGraph.id2id.merged.csv'
+    res_G_node2id = config.DATA_DIR + 'DiGraph.labelGraph.node2id.merged.csv'
+
+    # G = construct_label_graph_from_collection()
+    # pickle.dump(G, open(dumped_graph, 'w'))
+    G = pickle.load(open(dumped_graph))
+    merged_G = merge_graph(G)
+
+    merged_G_node2id = gen_node2id_dic(merged_G)
+    pickle.dump(merged_G_node2id, open(dumped_node2id, 'w'))
+    # merged_G_node2id = pickle.load(open(dumped_node2id))
+
+    writeG2csv(merged_G, merged_G_node2id, res_G_id2id, res_G_node2id)
+    sort_by_in_degree(merged_G)

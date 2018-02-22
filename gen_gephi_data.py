@@ -3,6 +3,7 @@ from mongo_client import MyMongoClient
 import networkx as nx
 import pickle
 import config
+import graph_utils
 
 IP = config.MONGO_IP
 PORT = config.MONGO_PORT
@@ -27,24 +28,6 @@ def writeG2csv(G, node2id, path_id2id, path_node2id):
                 f.write(',')
                 f.write(str(id))
                 f.write('\n')
-
-
-def sort_by_in_degree(G):
-    from operator import itemgetter
-
-    prj_lst = []
-    for item in sorted(G.in_degree_iter(), key=itemgetter(1), reverse=True):
-        prj_lst.append('"' + item[0] + '"')
-    print(','.join(prj_lst[:20]))
-
-
-def sort_by_out_degree(G):
-    from operator import itemgetter
-
-    prj_lst = []
-    for item in sorted(G.out_degree_iter(), key=itemgetter(1), reverse=True):
-        prj_lst.append('"' + item[0] + '"')
-    print(','.join(prj_lst[:20]))
 
 
 def construct_G_from_collection(collection_names, vertex_is_project=True, cross_project=True):
@@ -94,15 +77,6 @@ def construct_G_from_collection(collection_names, vertex_is_project=True, cross_
     return G
 
 
-def gen_node2id_dic(G):
-    node2id = {}
-    index = 1
-    for node in G.nodes():
-        node2id[node] = index
-        index += 1
-    return node2id
-
-
 if __name__ == '__main__':
     dump_file_G = config.DATA_DIR + 'AllMultiDiGraph.txt'
     dump_file_node2id = config.DATA_DIR + 'AllMultiDiGraph.Node2ID'
@@ -122,7 +96,7 @@ if __name__ == '__main__':
 
     # Load dumped node2id and write result to disk
     # node2id = pickle.load(open(dump_file_node2id))
-    node2id = gen_node2id_dic(G)
+    node2id = graph_utils.gen_node2id_dic(G)
     # Remove some nodes in G
     for bad_prj in BAD_PRJS:
         G.remove_node(bad_prj)
@@ -130,4 +104,4 @@ if __name__ == '__main__':
     writeG2csv(G, node2id, res_id2id, res_node2id)
 
     # Check the degree
-    sort_by_in_degree(G)
+    graph_utils.sort_by_in_degree(G)
