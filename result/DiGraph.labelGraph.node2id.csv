@@ -1,0 +1,8765 @@
+Label,Id
+development version,1
+yellow,2
+paramfile,4387
+c:font,4
+pafy,5
+area:configuration,6
+c:inventory/expand_hosts,7
+3 - working <= 5,8
+component:pylint,9
+waiting contributor feedback,10
+parsing/yaml/,11
+language / all,12
+c:common segments,13
+result: duplicate,14
+pr: changes requested,15
+os:linux,16
+medium difficult,17
+platform: sensor.zwave,18
+component: blink,2919
+bug/probably,20
+on deck,21
+old_async,22
+libgpuarray,23
+should_be_in_mvp?,24
+bugsets,25
+talk-to: @jaredsilver,26
+platform: binary_sensor.mqtt,27
+2 - working <= 5,28
+requires-manual-testing,7271
+comments welcome,30
+easy pick,31
+dependency parsing,32
+scraped,33
+priority 2,34
+priority 3,35
+priority 1,36
+checkedin,37
+difficulty-medium,38
+seeking-review,39
+area: performance,40
+c:plugins/terminal,5801
+stage-development,42
+status: cla signed,43
+chromium-fix,44
+skyview,45
+platform: sensor.cups,46
+hero,47
+reporter,48
+plugin: pillow,49
+formats,1464
+remote-services,51
+area/secrets,52
+board-opsis,53
+road blocked,54
+gridengine,55
+f: security,56
+platform: zwave.discovery_schemas,58
+reports,59
+type: design,60
+sprint:arnhem2017,61
+platform support,62
+component: conversation,63
+phishing scenarios,64
+guake 3 rewrite,65
+feature needed,66
+c-api,67
+blocked: cla needed,2934
+do-not-reap,69
+reso: duplicate,70
+c-unpackers/default,71
+needs grooming,72
+project organization,73
+urlvalidated,74
+dnm,75
+no response,76
+cruft,77
+needs prioritization,78
+risk management,79
+requires sponsorship,80
+1 star,1468
+phase 2e - sponsors,82
+adjustments needed,83
+cont_game_designe,84
+correctness-middec2016,7277
+hold,86
+size/xxl,87
+addon,88
+http frontend,89
+teacher registration,90
+tag: component: server,91
+wroong!,92
+example,93
+kind/documentation,94
+★,95
+platform: sensor.fido,96
+reviewing,97
+priority: blocks release,98
+dev-mode,99
+win8,100
+needs security revision,101
+feature,102
+revisit,103
+project: firefox 57 compatibility,104
+hot,105
+help wanted,106
+backend/ps,107
+difficulty/low,108
+✿ front-end,109
+hgcwa,110
+platform: sensor.eight_sleep,111
+engine request,112
+area: stream settings,113
+opsys-freebsd,2946
+design / ui,1475
+component: switch,2860
+platform: cover.myq,116
+back end,117
+promotion,2949
+constants,119
+period,7434
+错误,120
+priority:lowest,121
+c-manual,122
+ready-to-ship,123
+wine,124
+feedback,125
+needs: ux,126
+f: platform support,4408
+concurrency,128
+loe high,129
+platform: device_tracker.mikrotik,4409
+player issue,131
+fix,132
+resource model,133
+ready?,134
+section: site admin,135
+fallout3,2952
+need info,137
+plat: linux,138
+easier,139
+accepting pull-requests,140
+tool: contours,141
+dep-numpy,142
+needs review,143
+slackapi-featurerequest,144
+component: pyart.map,145
+prj-rb,146
+io_model,147
+statsmodels-request,148
+c-tracer (python),149
+dev completed,150
+documentation issue,151
+ready to merge,152
+plugin: warnings,153
+prio_low,154
+sev:4-low,155
+platform: telegram_bot.telegram_poll,156
+timeout,157
+tests-unit,158
+f4m,159
+queued,160
+need additional information,161
+kind/technical-debt,162
+series,163
+teamx ★,1041
+spider,165
+phase 2,166
+phase 3,167
+phase 6,168
+phase 7,169
+reproducible:always,170
+phase 5,171
+gyp upstream issue / floating patch,172
+phase 8,173
+phase 9,174
+message,2957
+area/bears,176
+5.4.0,177
+rs,178
+smt,179
+new administration,180
+job/executor,181
+rd,182
+under-review,183
+qtconsole,184
+tag:solver,185
+needs investigation,186
+qchem,187
+platform: switch.rainmachine,188
+type: cleanup,189
+os: macos,1485
+tag:cli-conda-info,4416
+gameplay,192
+tests-integration,193
+xsdk,194
+area: dns,1486
+unit test,196
+r+,197
+area: security,198
+keep-open,199
+feature:api,200
+state: pull request ready,201
+customization,202
+platform: notify.pushbullet,1257
+area:package-building,204
+@@kmtracey,205
+classification:feature (new),206
+priority: 3 - wishlist,207
+tag:cli-conda-install,208
+master,209
+moar information required (said in robot voice),210
+listen,211
+projectaddresssanitizer,212
+release critical,213
+epic-project,4421
+needs input,215
+milestone-1.0.0,216
+talk-to: @kevintab95,217
+build-and-test,218
+work: design,219
+recordtool,220
+performance improvement,221
+pootle_fs,222
+component: keyboard_remote,223
+area: error handling,224
+difficulty:moderate,225
+might do,226
+approximations,227
+iteration,228
+project,229
+not-urgent,230
+idle,231
+plugin: avbin,232
+component: monitoring,233
+noncompatible,234
+websocket,235
+missing feature,236
+language / chinese,237
+status: on hold,238
+closed: won't fix,239
+parsers,240
+increment,241
+reengineering,242
+platform-android,244
+re-check,245
+api: bigquery,246
+reviewed-waiting-updates,247
+technical debt,248
+component:comms,249
+plex issue,5836
+stupid behavior,251
+topic-weights,252
+three.js,253
+platform: tts.google,254
+contrib: good first bug,255
+kind/proposal,256
+target: support,7306
+metrics,258
+simplify,259
+errors,260
+contributor friendly,261
+pending-validation,262
+mustfix,263
+platform: camera.doorbird,264
+v0.0.1,4427
+st:ready-for-review,266
+jupyter,267
+affects/2.1,7308
+ready for review and merge!,269
+platform: switch.rflink,270
+cherrypick_candidate,271
+tech,272
+incomplete,273
+advisory,274
+reactor,275
+last-before-release,277
+tweb,278
+area/docs/content,279
+component: publishing,280
+third-party integration,281
+dev: backend,282
+status: in review,283
+cosmosdb,7312
+component:cloudformation,4430
+area/gies,286
+theme,287
+area: docs,288
+api: storage,289
+feature: planned,290
+status:openkomodo-related,291
+new-syntax,292
+r=sleevi,293
+type:meta,294
+to-close,295
+jaguar,296
+c:playbook/role_include,297
+patch,298
+needs reindex,299
+dead code,300
+ifyouwantitdiy,301
+mercator,302
+release,303
+bug-directmode,304
+area/ci,305
+tag: regression,306
+module: uas,307
+.io,308
+est_simple,309
+branding,310
+component: microsoft_face,311
+platform: camera.mqtt,312
+group/windows,313
+fixed-in-dev,314
+cookiecutters/scaffolds,315
+3 - review,316
+exception handling,4437
+needmoreinfo,318
+in-flight,319
+experience-needed: high,320
+conceptual,321
+irc,322
+account wanted,323
+feature/ssl,324
+state: blocked by upstream,325
+area:settings,326
+platform: cloud.util,327
+status/wontfix/not happening,328
+component: mongodb broker,329
+new_collector,330
+module: projects,331
+test-coverage,332
+adiumtextbox,333
+mod: vobject,7321
+platform: camera.uvc,335
+c:plugins/cache,336
+debt,337
+adapter,338
+area:coredevice,339
+component/clouddriver,2257
+not-a-bug,341
+logic,342
+platform: image_processing.dlib_face_identify,343
+needs external javascript rewrite,344
+prio-high,345
+platform: switch.xknx,346
+snag,5852
+platform: sensor.fitbit,348
+a-pr-exists,349
+billing,350
+priority : high,5853
+chrome,352
+area: provision,353
+decision needed,354
+need confirm,355
+extraction,356
+kind - support,357
+area: webpack,358
+platform: sensor.vasttrafik,359
+platform: switch.homematic,360
+component: website,361
+next_release,362
+web-interface,363
+legacy browsers,364
+worker,365
+prio-critical,367
+comp:lib,368
+needs tests,369
+scope: mobile,370
+brainstorm,5859
+platform: sensor.tado_v1,372
+moreinfoneeded,373
+weirdness,374
+cmdline,375
+community_review,376
+e: medium,377
+multi-author,378
+component: commands,379
+credit,4442
+docs / examples,381
+backend/pdf,383
+platform: media_player.pioneer,384
+waiting feedback,385
+kind/docs,386
+work: fec review,387
+templates,388
+up for review,389
+no repro,390
+issue-needs-clarification,391
+3 - done,6564
+c:executor/task_result,393
+tag: component: examples,394
+needs: tests failures fixed,395
+★★★,396
+★★☆,397
+possible-duplicate,398
+linkify,399
+size-small,400
+staging vms,401
+collector: mdstat,402
+mopac,403
+c:playbook/included_file,404
+status-fixed,405
+app-feedvalidator,406
+trond,407
+hal,408
+tvdb,409
+t: 小程序,410
+frage,411
+status: duplicate,412
+projects,1522
+easy,414
+book creation,415
+code generation,416
+physics.optics,4447
+backends/virtualbox,418
+template packs,419
+roadmap_candidate,420
+platform: camera.onvif,2994
+need-more-info,422
+component: remote,423
+apps.related_content,5658
+jitclass,424
+phase 5.1,425
+reviewed/ready for merge,426
+completed in beta,427
+device_platforms,428
+status.urgent,429
+transient-problem,430
+trigger: cron,431
+corner case,432
+old,433
+talk-to: @anmolshkl,434
+api: speech,435
+submitter_not_replying,436
+config revolution,437
+priority: low,438
+affects: tests,439
+x: mh96dx,440
+needs the best merge!,441
+c-qt-gui,442
+design flaw,443
+possible student task,444
+further details needed,445
+contributing,446
+subject:algorithms,447
+uma,448
+platform: light.hyperion,449
+area: tests,450
+c:inventory/inventory,451
+st:needs-discussion,452
+@high,453
+[needs] research,454
+platform: sensor.yr,455
+updatenotifier,456
+kind: using flocker,457
+cli/pull,458
+gui/osx,459
+epic: unified-cobrapy-cameo,460
+stat:deferred,461
+主动调用,463
+dev/2.11.x,464
+ios link,465
+tests needed,466
+changelog not needed,467
+state:cannot-reproduce,468
+need contributors,4452
+c:cli/pull,470
+feature-wsgi,471
+utils/display,472
+combinatorics,473
+support,474
+area:gui,475
+wordpress,476
+gsoc-idea,478
+area: fedora / redhat / centos,479
+platform: device_tracker.owntracks,480
+after-release,481
+needsomeonetofinish,482
+vendor:espressif,483
+bite-size,1537
+notifications,485
+cartopy experience needed: high,486
+platform: device_tracker.ubus,487
+afl-multicore,488
+area/docs/demo,489
+love it!,490
+extension-compatibility,491
+platform: cover.template,492
+pull request wanted,493
+(1) investigated,494
+area/subworkflows,495
+information-leak,496
+bug: stable,497
+component: demo,5875
+stable/2.2.x,499
+aspect: parser,500
+needs revision,501
+pri:low,502
+py3.6,503
+severity: moderate,504
+partially done,505
+spam checks,506
+cannot-reproduce,507
+accounting,508
+irsa,509
+tag.encodings,510
+scipy.special,511
+area: pkging,512
+platform: notify.html5,513
+chit chat,514
+glacier,515
+platform: light.mochad,516
+language / dutch,4459
+component: juicenet,518
+role,519
+developers,520
+status: paused,521
+type:tooling,522
+feature approved,523
+models,524
+t: unit-testing,525
+provider/gce,526
+☁ bug,527
+component: history,528
+platform: macos,529
+issue-style,530
+release: master,531
+platform: climate.mqtt,532
+c:players,533
+major bug,1543
+time,535
+push,536
+serializer,537
+osx,538
+newbie,539
+platform:mobile,540
+osp,541
+gpu - new back-end,542
+component:projects,543
+p-minor,544
+zmq-console,545
+popularity/significant,546
+exchange's fault,547
+fix-locator-or-text,548
+backends/hetzner,549
+carddav,550
+component: influxdb,551
+mediacontrol,552
+platform: media_player.aquostv,7357
+status/qa,554
+oversight,555
+enhancement-for-developers,556
+needs: more triage,557
+bug:invalid,558
+airbnb_roadmap,559
+5 - deploying,560
+@@slinkp,561
+type_patch,562
+committer_review,563
+broken-ie,564
+status: will not fix,565
+solved,566
+platform: desktop,567
+defaults,568
+team,569
+multipleissues,570
+setup,4473
+topic-query,572
+attic,573
+vendor:arduino,574
+operating system : windows,575
+account recovery go live,576
+do-in-parallel,7359
+mentored,578
+check python 3,579
+component:ami,580
+status: fix-submitted,581
+stat:awaiting tensorflower,582
+forwarded-upstream,583
+current,584
+component: configuration,585
+component: device_tracker,1550
+s1:dev,587
+needs resubmit,588
+frappe-support,589
+[priority] high,2028
+pure python mode,591
+g2p,592
+vectors,593
+funded,594
+component: calendar,595
+component: gl,596
+pull request is welcome,597
+breadcrumbs,3017
+unusual-merge-dealt-with,599
+c-unpackers/docker,601
+ipc,602
+tasks,603
+python 3.5,604
+python 3.6,605
+vmaccess,606
+onion-services,607
+log parsing,608
+feature suggestion,609
+language / japanese,610
+bug high,611
+area: hotkeys,612
+area/logs,3021
+data-model-centric,614
+platform: notify.xmpp,615
+needs-changelog,616
+good-for-first-timers,617
+log/console output,618
+has test case,619
+python 3.x,620
+component-luxi,621
+openlibrary metadata standard (olms),622
+priority: major,3833
+component: pyart.graph,624
+infrastructure and config,625
+c-vtk,626
+parameterize,627
+try_scheduler,628
+needs: design,629
+stat:needs-decision,631
+printing,632
+easy-pick,633
+waiting_for_validation,634
+use-case,635
+migration: automatic,7367
+c-subworkflows,637
+project: style refresh,638
+lowlevelnetworking,1556
+awesome,641
+bug: medium,642
+component-ui,643
+kind - bug,644
+priority low,645
+error handling,646
+monitoring,647
+s3,648
+i - support,649
+keepkey,650
+raspberry pi,651
+fps,652
+pebkac,653
+has unit test,654
+broken csp,655
+tag:encoding-error,656
+gci-task,657
+by-core-dev,658
+protobuf,659
+platform: switch.flux,660
+★★,661
+status: completed,662
+watchlist,1559
+area: macos,664
+data,665
+pandas-integration,666
+area: uploads,7372
+.io.zmap,668
+pending-user-input,669
+v1.21,7373
+ss,671
+p2: urgent,672
+exp/advanced,673
+feature/web,4965
+no programming required,674
+status: works for me,675
+sandbox,676
+ready-for-merge,7375
+could-not-reproduce,678
+sf,679
+ssh,2292
+needs design,681
+domain: test,682
+topic: python,683
+non-coding,684
+c:plugins/connection/ssh,685
+feature-change,686
+activity:current,687
+ttk,688
+exp/beginner,689
+platform: sensor.bh1750,690
+waiting-for-updated-pr,691
+jia,692
+log in with,693
+easyhack,694
+payment methods,695
+platform: sensor.pilight,696
+caa signed,697
+component: asterisk_mbox,698
+executors,699
+chromatic,700
+sphinx extension,701
+depends-on-tropo,702
+template/safe_eval,703
+old bug - might be invalid now,704
+deprecate,3033
+status/opaque-fix,706
+runners,707
+boundaryconditions,708
+platform: media_player.emby,709
+revert,710
+upstream-rfc,711
+win32,712
+infoneeded,713
+platform: climate.maxcube,714
+linux-only,715
+state: invalid,716
+dont-merge,717
+upstream fix required,718
+component: docs,719
+pynipap,720
+abstraction,721
+pri:feature,722
+target-android-old,723
+platform: camera.blink,724
+hotdeployment,725
+effort-medium,726
+component: curaengine,727
+component: fan,7386
+container,729
+api bug,730
+review ok,731
+waiting for contributor,732
+jottalib,733
+stage-review-fix,734
+backport,2908
+investigation,735
+maybe fixed,736
+olefile,737
+patch: config change,738
+c: release scripts,739
+presets,740
+plex,741
+platform: docker,743
+c: hashindex,744
+bootloader,745
+changes requested,746
+training,747
+programming,748
+browser: ie,749
+raet,750
+minor: added config check,751
+routes,752
+1.2 release,753
+subject:opf,754
+needs-consensus,755
+process/pending review,756
+major enhancement,757
+official clients,758
+vote,759
+open,760
+priority: 1. high,761
+solr-doc-manager,762
+not urgent,763
+linting,7390
+platform: media_player.mpd,765
+operating system : os x,766
+core.arm_wells,767
+e:linux,768
+2,769
+draft,770
+types,771
+area: webroot,772
+blocket o_o,773
+u: recipient,774
+component: amcrest,775
+awaiting user feedback,776
+proxy mode,777
+for paulus,779
+sympy live,780
+component: reviewer tools,781
+needs-lint,782
+discuss before doing,4508
+c:utils/listify,784
+smpp,785
+future,786
+renderer,6485
+platform-osx,788
+need-help,789
+module enhancement,203
+can't reproduce,790
+c: backend,791
+playbook/play_context,3052
+plasma parameters,793
+component: languages,795
+update status,7399
+c-db,797
+area/infra,798
+classflags,799
+platform: fan.isy994,800
+waiting_on_contributor,801
+component/deck,802
+note,803
+zos,804
+limited to: osx,805
+bump version,806
+to-do,807
+area/pathod,808
+fixed-in-next-release,809
+beta compatibility,810
+fixed in next release,4623
+student applications,811
+platform: media_player.sonos,812
+needs: info,813
+platform: binary_sensor.satel_integra,814
+pages,815
+configuration profiles,816
+autorest issue,817
+testcase,818
+app:inboxen,819
+platform: sensor.octoprint,820
+experience-needed: low,821
+component: beacon,7403
+platform: sensor.blockchain,823
+worker crashes,824
+datetime,825
+needs doc,826
+area:analysis server,827
+f: exception notification,828
+install help,829
+2.enhancement,830
+governance and rollout,5925
+pull: reviewed,832
+xml,833
+platform: alarm_control_panel.spc,834
+appliance,3254
+unittested,835
+dynamodb,836
+fix-it,837
+platform: sensor.juicenet,838
+zk3.5,839
+requires-production,840
+holy cr*p,841
+please test,843
+long-term-project,845
+tag.cygwin,846
+freezing,847
+clang,848
+fix in testing,7406
+gwpy.io,850
+need-testcase,852
+needs better patch,853
+resource,854
+settings,855
+a-packages,856
+lv: medium,857
+a: in progress,858
+platform: cloud.const,859
+platform: camera.amcrest,860
+type: rfc,861
+component: hdmi_cec,862
+update needed,5107
+area/lambda,4518
+cla: no,865
+domain: docs,866
+status: confirmed,867
+rfc-compliance,5139
+status-invalid,869
+platform: recorder.const,5936
+est_medium,871
+notanissue,872
+papyon,1600
+screed,874
+scoring,4520
+type:bug/performance,876
+area: core,877
+level:medium,878
+serialization,879
+web ui,880
+type: support/question,881
+component: zoneminder,882
+won't fix,883
+stale_ci,884
+s,885
+integrations: django,886
+current sprint,887
+platform: sensor.homematic,888
+pr: ready for review,889
+0.8.x,890
+long-term plan,891
+worker hangs,5319
+waiting-for-reply,893
+usecase,894
+component:find in files,895
+cmd: check,896
+server update,897
+better,4527
+wunderlist bug,899
+stretch,900
+milestone-release0.73,5946
+design-fixes,901
+platform: sensor.ecobee,902
+display-bug,903
+low priority,904
+needed by: openstack tools,905
+motives,906
+scipy.weave,4529
+test improvement,908
+shortlist,909
+p3 - normal,910
+api: pubsub,911
+pentest,912
+platform: light.template,913
+x: publeaks,914
+gamess,915
+type.admin,1606
+ntheory,917
+myanimelist import,918
+core/calico,919
+needs changes,920
+policies,921
+language / english,922
+c:template/templar,923
+complexity-medium,924
+trello,925
+pr: for current release,926
+refactoring - code quality,927
+dubious,928
+c:cli/adhoc,929
+domain: devops,7421
+package-intermediate,931
+documentation_only,932
+sourceforge,5953
+alfred3,934
+docs_report,935
+libclang upstream,937
+collector: elasticsearch,938
+component: ui tests,939
+32 bit,940
+component: downloads,941
+c:executor/stats,5956
+bug: need confirmation,943
+type: feature,944
+tracking,945
+type:internal,946
+new corpus,947
+component: core,948
+talk-to: @benhenning,949
+put()/get(),950
+area: markdown,951
+.clients.filesystem,952
+v - pro 1.4.1,4541
+platform: recorder.purge,3083
+gh review: accepted,955
+n - range cards,956
+area/volumes,957
+not yet,958
+3 - in progress,959
+authentication/keys,960
+component: other,961
+platform: sensor.ebox,7431
+shrink-quality,3086
+needs-unittest,5959
+i - oa2020,965
+state compiler,966
+o-distributed,967
+dart,5830
+template module,969
+atcd,970
+component: process,971
+zreleased - boron,972
+io parquet,973
+swag reward,974
+breakage,975
+cat: ui,977
+no-changelog-entry-needed,978
+intel,979
+module: exports,1621
+discarded,981
+component: hints,982
+component: frontend,983
+integrals,984
+input needed,985
+✈︎,3091
+platform: sensor.arlo,987
+need help,988
+component-dispatching,989
+component: config,990
+area/config,991
+platform: switch.xiaomi_vacuum,992
+needs-sample,993
+clouder core,994
+post-build plugin,995
+sdk-later,996
+want pull request,997
+simplate bug/feature,998
+ng-storagedriver,999
+ddn,1000
+gardenia,1627
+nddata,1002
+waiting for response,1003
+effort high,1004
+low hanging,6469
+priority: p2+,1005
+known-issue,1006
+asciidoc,5968
+platform: notify.twitter,1008
+fucking blizzard,1009
+milestone-release1.0,1010
+work needed,1011
+contributor/production-tested,1012
+package,1013
+ack,1014
+component:code completion,1015
+aci,1016
+process/approved,1017
+acs,1018
+acr,1019
+component: snips,1020
+long-term goal,1021
+domain: web-client,1022
+autotools,1023
+topic - logging,1024
+component: tutorials,1025
+component: firefox accounts,1026
+new viewer,1027
+topic:ui,1028
+hdmi2ethernet,1634
+waiting for reply,1030
+needs-fix,1031
+docs & demos,3101
+moderate fix,1034
+component: automation,7319
+platform: light.vera,1035
+provider/aws,1036
+lisp-python-interop,1037
+generated-client-updated,1038
+area/addons,1039
+level-hardware,1040
+design discussions,164
+local backend,1042
+complete,1043
+@@nickgrossman,1044
+cloudfront,1045
+pr/awaiting review,1046
+platform: camera.usps,1047
+:internal,1048
+size-large,1049
+buying,1050
+c:module_utils/facts,1052
+needs_discussion,1053
+s-minor,1054
+project: devhub landing page v1,1055
+gamess-uk,8688
+shell-support,1056
+followup,7446
+phase 4,1058
+idle-add,1641
+area: right-sidebar,1060
+difficulty: medium,1062
+it's huge!,1063
+platform: climate.xknx,3106
+design question,1065
+example-request,1066
+lsst,1068
+p-critical,1069
+u: custodian,1070
+priority.deferred,1071
+noresponse,1072
+difficulty-expert,1073
+c:playbook/attribute,1074
+vocabulary,1075
+p-work in progress,1076
+v.1.7.2-beta,1077
+kind - crash,1078
+2.0-prototyped,1079
+webservice,1080
+on hold - input required,1081
+waiting on response from originator,8441
+mast,1082
+data_model,1083
+tag: bep,1084
+student registration,1085
+whatsnew-needed,7707
+new dev friendly,1087
+kind/help wanted,1088
+☠ security ☠,1089
+platform: switch.zha,4557
+area/protocols,1091
+tw,1092
+resolution: invalid,1093
+chewing,1094
+v1.4,1095
+01 type: bug,1096
+zmq,1097
+homepage,1098
+g-testing,1099
+needs testing,1100
+game-server,1101
+pr requested,1102
+area: documentation (api and integrations),1103
+milestone-0.4.0,1104
+feedback requested,1105
+regression-test-needed,1106
+size: md,6778
+area/languages,1107
+wting-cares,1108
+large,1109
+needs update,1110
+small,1111
+new plugin,1112
+for our information,1113
+merging-to-master,1114
+has conflicts,1115
+component: wink,1116
+interactive api documentation,1117
+sync,1118
+pull-request,1119
+language support,1120
+handparser,7455
+plugin fixup,1122
+component: modbus,1123
+unreleased fix,1124
+m3u backend,7457
+won't fix for now,1126
+enhancement-proposal,1127
+copter-wiki,1128
+contributor-friendly,1129
+undecided,1130
+need-info,1132
+area: catalog,1133
+fixed in branch,3120
+cython,1651
+quality of implementation,1137
+resource/asg,1138
+no module,7709
+shouldtotallyusepython3,1139
+status: invalid,1140
+low-hanging-fruit,1653
+component: persistent_notification,1142
+s-wishlist,7460
+to-fix,1144
+scope/epic,1145
+platform: notify.discord,1146
+emulator,1147
+plugin: cache,1148
+social,1149
+vmencryption,1150
+scope: core,1151
+component: canvas,1152
+tokenizer,1153
+viewer-histogram,1154
+requires triaging,1155
+cloudformation,1156
+tag: py2,1157
+display model,1158
+platform: binary_sensor.enocean,1159
+already-fixed,1160
+fix-in-progress,1161
+platform: camera.zoneminder,1162
+difficulty-beginner,1163
+archived,1164
+new iconset,1166
+needs verification,1167
+mecab,1168
+c:plugins/connection,1169
+translation-memory,1170
+kind/test,1171
+talk-to: @anthkris,6482
+platform: light.isy994,1172
+unmergeable,1173
+fixed in master,1174
+source control,1175
+tested,1176
+component: __init__,1177
+vendor:microchip,1178
+in_progress,1179
+bad usability,1180
+science,1181
+somebody else do it. please!,1182
+awaiting feedback on fix,1183
+autocomplete,1184
+cla-rejected,1185
+status: not started,1186
+cherrypy documentation,1657
+experimental branch,1188
+search-index,1189
+platform: device_tracker.tesla,1190
+prompt,1191
+scan,1192
+comp-robust,1193
+new font,1195
+downloadaudio,5992
+priority/p4-backlog,1197
+autocomplete pallet,3132
+axis,1199
+information,1200
+kind/experimental,1201
+pr status: needs improvement,4572
+platform: sensor.onewire,7463
+closed-as-duplicate,1204
+topic - extras,1205
+greenkeeper,1206
+reso: referred,1207
+device support,1208
+folder contents,1209
+platform: switch.verisure,1210
+! important !,1211
+mapping,1212
+preprocessing,1213
+parsing/vault/,1661
+unable to reproduce,1215
+p-high,1216
+component: input_number,5995
+github,1218
+platform: switch.telnet,1219
+e:python-ucs2,1220
+django,1221
+not a bug,1222
+api-review,1223
+replied,1224
+p-core,1225
+severity: blocker,1226
+collector: glusterfs,1227
+status/ready-to-merge,5998
+platform: switch.wemo,1229
+pr: declined,4576
+runbot,1231
+user interface,1232
+module: life,1233
+verified bug,1234
+test-suite,1236
+type: performance,1237
+subject:encoders,1238
+b - help wanted,1239
+misuse,1240
+subtitles,1241
+.io.xseed,1242
+tauto-3,1666
+gitlab,1244
+hotkeys,1245
+uploads,1246
+domain: build,1247
+99 tag: plone 5.x,1248
+component-wconfd,1249
+v0.10.0,1250
+platform: sensor.coinmarketcap,1251
+numeric,1252
+sublime2,1253
+easyfix,1254
+numerix,1255
+c-version tree,1256
+fix-framework,7579
+status: ready,1258
+has workaround,1259
+component: gevent workers pool,1260
+platform: zwave.const,1261
+affects_2.0,1262
+affects_2.1,1263
+affects_2.2,1264
+affects_2.3,1265
+affects_2.4,1266
+affects_2.5,1267
+platform: sensor.knx,1268
+saas.py,1269
+prio:critical,1270
+area: search,1271
+cloudwatch,1272
+research,1273
+plotting,1274
+bot_broken,1275
+.clients.fdsn,1276
+status: work in progress,1277
+localization,1278
+maybe invalid,1279
+porcelain,1280
+project: 2017 q2,1281
+project: 2017 q3,1282
+cannot fix - limitation of windows,1283
+proxy,1284
+area/workflows,1285
+clients.nrl,1286
+service,1287
+if_time_allows,1288
+b-enhancement,1289
+spark/adam,1290
+major,1291
+plugin: xdist,1292
+insufficient details,1293
+kobo,3901
+network io,1295
+futurize script,1296
+anonymity,1297
+stat:unread,1298
+atc_api,5366
+neovim,1299
+feature enhance,1300
+t:bug,1301
+zu prüfen,1302
+z backport 2.0.5,1303
+ready for testing,1304
+code-quality,1305
+dep-glue,1306
+tag:api,1307
+prio-2-high,1308
+status: decision needed,1309
+source:core,5351
+not priority,1310
+component: zha,1311
+v0.14,1312
+encfs,1313
+algos,1314
+meta:rejected,1315
+area/tool-dependencies,742
+tag.docs,1317
+need pr,1318
+maintainability,1319
+status-duplicate,1320
+c:plugins/shell,1321
+document schema update,1322
+defect,1323
+r=weppos,7478
+p2 - major,1325
+waiting on author,1326
+milestone-0.7.0,1327
+data io,1328
+backend : all,1329
+needsreview,1330
+need-to-reproduce,1331
+internal,1332
+directives,1333
+content / perseus,1334
+alsa,1335
+perfomance,1336
+core.arm_layouts,1337
+parameters module,1338
+43 lvl: complex,1339
+kind - docs,1340
+ready-for-final-review,1341
+western digital,7481
+requires-resource-model-update,1343
+under review,1344
+comp-client,1345
+accepted feature,1346
+status/help-wanted,1347
+0.8-blocker,1348
+patch: typo fix,1349
+output-formatting,1350
+need-input,1351
+utils.tap,1352
+⭐️,1353
+wording,1354
+pwcache,1355
+wsgi,1356
+customforms,1358
+management-commands,1359
+control flow,1360
+platform: sensor.hddtemp,1361
+2 - needs decision,5579
+status-wontfix,1362
+micro decision,1363
+s3md5,1364
+cont_usability,1365
+packaging & defaults,1366
+kind: installing-flocker,1367
+contrib-idea,1368
+nice idea,1369
+component: mozilla,1370
+component/rosco,1371
+tag: api: models,1372
+dependent,1373
+fix released,1374
+easy task!!!,1375
+platform: media_player.denonavr,1376
+topic: html,1377
+sub-task,1378
+need-tests,1379
+docmebro,1380
+status: pr received,1381
+rfr,1382
+platform: camera.synology,1383
+needs-tests,1384
+name resolution,4603
+guessit,4604
+bytes,1387
+rfc,1388
+tech support,1389
+downstream issue,1390
+rfe,1391
+flatpak,1392
+3d,6030
+type: deprecation,1394
+crm,1395
+priority - medium,4605
+ses,1397
+platform: sensor.pushbullet,7493
+sep,1399
+component: alexa,1400
+jade,1401
+type:for-contract,3167
+#plugins,1402
+polish,7495
+os/microsoft,1404
+a-feature,1405
+e:windows,1406
+money i/o,1407
+platform: sensor.eliqonline,1408
+[docs] enhancement,1409
+fix in progress,1410
+文档,1411
+platform: binary_sensor.ring,1412
+focus - publishing,1413
+type:docs,1414
+provisionning,1415
+javascript,1416
+prerelease,1417
+interface,1418
+sidefx,1419
+hansard,1420
+stand by,1421
+priority/backlog,1422
+openusb,1423
+comp_game_logic,1424
+long-term,1425
+pdf,1426
+bit rotted,1427
+platform: binary_sensor.wemo,1428
+code/project quality,1429
+glue.core,1430
+needunittest,1431
+ubuntu,1689
+community,1433
+good-for-first-contributors,1434
+area/results,1435
+invalid: wontfix,1436
+improvement,3174
+component: light,1438
+c:plugins/connection/winrm,1439
+platform: switch.mqtt,7501
+hannanum,1441
+publishing,1442
+io sql,1443
+status: wontfix,1444
+tablename,1445
+user feedback required,1446
+reso: completed,1447
+dataset request,1448
+waiting_on_maintainer,1449
+status: blocked,1450
+necessary improvement,6785
+has pull,1451
+vendor:intel,1452
+needs-contributor,1453
+chatbridge,1454
+moderation,1455
+pedir soporte para nuevo canal,1456
+minor: prs-welcome,1457
+dependencies met,1458
+state:help wanted,1459
+✈ low-hanging fruit,1460
+feature:change,1461
+mlo,1462
+optimization,1463
+error,50
+platform: zwave.api,1465
+featurerequest,1466
+parsing/splitter,1467
+webextensions-firefox,81
+component: multicompartmental,1469
+user_data,1470
+needs rebase,1471
+sucursales,600
+tag.leaks,1473
+tag:solver-messaging,1474
+cli/vault,115
+historique,1476
+fetching,1477
+release-note-required,4895
+t-libs,1478
+shell job adaptor,1479
+aggregation framework,1480
+android-story-list,1481
+prio-4-low,1482
+boundary elements,1483
+psf,3180
+comp-tsa,190
+levels,195
+t: 消息管理,1487
+decompiler,1488
+pbs adaptor,1489
+werkzeug.contrib,1490
+need_review,1491
+concrete,1492
+system architecture,1493
+component: kira,1494
+comp_market,1495
+docs-website,1496
+phase iii,1497
+telegram,1498
+c:plugins/connection/local,1499
+datastore module,1500
+tag: docs,1501
+mysql,1502
+v - services,1503
+clean up issue,1504
+relevancy,1505
+handler: cloudwatch,1506
+要求帮助,1507
+pycon2014 sprint,1508
+signals,1509
+contrib and provisioning,1510
+submissions,1511
+speech synth drivers,1512
+harvesting,1513
+qa: not needed,1514
+emergency,1515
+format,1516
+fix committed,1517
+already-treated,1518
+beginner issue,1519
+inprogress,1520
+big picture,1521
+web interface,413
+feedback please!,1523
+component: ecobee,1524
+context:icons,1525
+facets,1526
+status/needs discussion,1527
+communications,1528
+continue,1529
+tool: tweak,1530
+android-feed-list,1531
+affects-dev,1532
+methods,1533
+pending fix,1534
+senate,1535
+topic-import-cycles,1536
+afl-sync,484
+platform: notify.clicksend,1538
+platform: media_player.gstreamer,1540
+stat:awaiting response,1541
+sprint,1542
+platform: media_player.russound_rnet,534
+resolution: not tested,1544
+oblivion,3188
+simbad,1546
+sudo(),6853
+component: cloud,1547
+module: playlists,1548
+not vim-ipython issue,1549
+tests: missing,586
+platform: http.static,1551
+awaiting informations,1722
+swimlane-misc,1553
+testsuite,1554
+module: charts,1555
+can-be-merged,640
+✖ work-in-progress,1557
+need:test,1558
+pull: not ready,663
+sub-project,1560
+node script,1561
+priority:4,1562
+priority:1,1563
+gh-pages,1564
+priority:3,1565
+closed: limitation,1566
+troubleshooting,1567
+contributor,1568
+stat:resolved,1569
+:reporting,1570
+scipy.optimize,1571
+clustering,1572
+more-info,1573
+minor improvement,1574
+api consistency,1575
+needs work,1576
+spam,1577
+team core,1578
+type-patch,1579
+io csv,1727
+type: polish,1581
+blueprint,1582
+area/examples,1583
+cors-bugs,1584
+elsewhere,1585
+link,1586
+doc request,1587
+bitesize,1588
+data improvement,1589
+lib/tree,1590
+component: arduino,1591
+ux,1592
+severity: blocking,1593
+not enough info,1594
+classicalmf,863
+remove-platform,1596
+git-annex,1597
+size-medium,1598
+ui,1599
+verification,873
+hash-change,1601
+category: deployment,1602
+type: refactoring,1603
+parser,1604
+code-review-required,1605
+release-note-needed,916
+desktop-app,1730
+clean up,1608
+python-crash,1609
+1 - on deck,1610
+cat: refactor,1612
+needs response,1613
+invalid,1615
+os:macos,1616
+deffered,1617
+actors,1618
+oletools,1619
+solvers.solve,1620
+module_utils/,980
+plz-review,1622
+area: production,1623
+l1:moderate,1624
+gameday,1625
+backend:socketcan,1626
+needs decision,1001
+priority: enhancement,1628
+milestone-1.1.0,1629
+platform: device_tracker.zha,1630
+for version 3.0,1631
+external fix,1632
+bug-external-tools,1633
+minor tweak,1029
+architectural design,1635
+lang,1636
+oleid,6065
+s3stream,1638
+algorithm,1639
+work in progress - don't review yet,1640
+kinetics,1059
+platform: light.knx,4343
+extensibility,1643
+code,1644
+multi dimensional,1645
+platform: device_tracker.fritz,1646
+difficulty 3,7531
+needed by: rackspace monitoring,1648
+needs triage,1649
+unimplemented,6068
+module: datasets,1135
+platform-ios,1141
+c code,1654
+test-track,1655
+backend/agg,1656
+resources,1187
+component:variable explorer,1658
+platform: sensor.otp,1659
+platform: media_player.cmus,1660
+component: couchbase results backend,1214
+type_bug,1662
+ppt_parser,1663
+exp/expert,1664
+portability,1743
+skill: content,1243
+platform: notify.mailgun,1667
+c:executor/task_executor,1668
+type:improvement,1669
+logistics,1670
+state: works for me,1671
+nighthawk,1672
+platform: sensor.tellduslive,1673
+video,1674
+odo,1675
+show stopper,1676
+needs-example-script,1677
+should be fixed in ladybugplus,1678
+functional test,1679
+platform: sensor.metoffice,1680
+talk-to: @tjiang11,1681
+component: lutron_qse,1682
+oemof-core,1683
+minor: added api function,1684
+python:2,3207
+qa bug fix,7540
+pantsd,1686
+jsbeautifier upgrade,1687
+type: announcement,1688
+platform: sensor.shodan,1432
+major effort level,1690
+status/blocked,1691
+project: version channel,1692
+metric backward incompatibility,1694
+rds,1695
+platform: binary_sensor.maxcube,7541
+technical,1697
+involved,1698
+data tools,1699
+.io.ndk,3209
+platform: climate.generic_thermostat,1701
+collector: nfsd,1702
+ci-and-build,1703
+priority/low,1704
+opinion,1705
+priority: 0 - high,1706
+fw30,1707
+needs-revision,1708
+domains:js,1709
+.core,1710
+platform: light.mqtt,1711
+new-ruleset,1712
+reproduce ways,1713
+needs: editorial,1714
+total disaster!,1715
+db reload,1716
+ci/testing,1717
+tools,1718
+impacts-qe,1719
+develop branch,1720
+eight-compat,4646
+waiting-followup,1552
+importexport,1723
+google-app-engine,1724
+devops,1725
+next,1726
+duplicate,1580
+nmi,243
+e-easy,1729
+question-answered,1607
+in-development-branch,1614
+c-back,1732
+new io class,1733
+component:frontend,1734
+c: documentation,1735
+core: back end,1736
+component: units,1737
+priority/medium,1738
+mkdocs,1739
+customer,1740
+pyarweb,1741
+area:phaser,1742
+scope: pdf,1665
+reso:fixed,1744
+medium term,1745
+closed-as-incorrect,1746
+new api feature,1747
+test suite,7543
+mobility-on-demand,1749
+c:plugins/connection/network_cli,1750
+@low / cleanup,1751
+area: tooling,1752
+new-library,1753
+process,1754
+component: worx-landroid,1755
+high,1756
+schemas,1757
+area/idempotency,1758
+malware,1759
+improves: testing/qa,1760
+number blocking,1761
+for future,1762
+thirdparty/gevent,1763
+comp:docs,1764
+api: error reporting,1765
+phone-compatibility,1766
+docstring,1767
+notebook,1768
+needs fixing,4655
+anvil format,1770
+string processing,1771
+dev: work in progress,1772
+port-to-eight,1773
+group/documentation,1774
+unit_tests,1777
+source:auto-report,1778
+user action needed,1779
+0 - icebox,1780
+volunteers,1781
+producer,1782
+c-packages,1783
+platform: device_tracker.ping,1784
+plugins/terminal,1785
+pending issue template,1786
+foi (for our information),1787
+docfix,1788
+platform: sensor.blink,1789
+visualization.wcsaxes,6096
+playbook/helpers,1791
+topic: parametrize,1792
+python3-support,2007
+stalled,1794
+design-decision,1795
+area: testing,1796
+p-low,4460
+docs,1798
+f: crypto,1799
+in nightly,1800
+docu,1801
+newman,1802
+waiting on ux,1803
+voctocore,1804
+lfcns,1805
+collector: sqs,1807
+resource/aws,1808
+g-development,1809
+type:cleanup/optimisation,1810
+platform: binary_sensor.insteon_plm,1811
+component: intelmqdump,1812
+queue/blocks-others,1813
+documenation,1814
+accounts,7554
+os: linux,1816
+tracer,1817
+notfixed,1818
+is anime,1819
+npm,1820
+pr small,1821
+beginner,1822
+improves: tech debt,1823
+top-100,1824
+frequency,1825
+cpanel,1826
+area:speed,1827
+component: lutron_caseta,1828
+back burner,1829
+axml,1830
+area: script plugin,1831
+to_confirm,1832
+plat:osx,1833
+state: verified fixed,4664
+fix needs verification,1835
+type: fix,1836
+client/connect,1837
+broken tree,1838
+tag: event,1839
+top-10k,1840
+modulegraph,1841
+enhancement -- security,1842
+fixed but not closed,1843
+platform: binary_sensor.mysensors,1844
+component: lutron,1845
+cantera,1846
+effort medium,1847
+platform: sensor.snmp,1848
+platform: media_player.universal,1849
+returncode,1850
+failing tests,1851
+platform: camera.arlo,1852
+status/partial approved,1853
+milestone-1.2.0,1854
+easy pickins,1856
+python3 issue,1857
+platform: image_processing.dlib_face_detect,1858
+with test,1859
+platform: cover.xknx,7562
+platform: sensor.envisalink,1861
+not-quite-right,6953
+painful,1862
+platform: sensor.tank_utility,7563
+n - patrol data capture,1864
+to discuss,1865
+type-question,1866
+pull: invalid,2431
+needs reproducer,1868
+[docs] question,1869
+tag: memory,1870
+topic: css,1871
+platform: media_player.clementine,1872
+component-htools,1873
+.core.event,1874
+easy fix,1875
+linear algebra,1876
+not complete,1877
+component: color,1878
+type:fr,1879
+viewer,1880
+c:inventory/yaml,1881
+status: needs verification,1882
+not-our-bug,1883
+gwpy.segments,1884
+found in 0.3,1885
+documents,1886
+how-to,1887
+language / spanish,1888
+release 0.3,1889
+status:accepted,1890
+need more info,1891
+reloader,1892
+soap,1893
+persistence,1894
+calculus,1895
+cli/doc,1896
+rules-2.0,1897
+plugins/shell,1898
+beta 1,1899
+beta 2,1900
+beta 3,1901
+salt-syndic,1902
+platform: sensor.broadlink,1903
+needschangelog,1904
+3rd party support,1905
+x: regione sardegna,1906
+✘✘✘,1907
+keyring,1908
+templatetags,1909
+phase 2c,1910
+topic: java,1911
+requirements not met,1912
+priority: medium,1913
+issue-rfe,1914
+manual backport,1915
+24 status: ready,1916
+merge ready,1917
+restrict-addissuecomment-commit,1918
+component: alarmdecoder,1919
+tag: api: plotting,1920
+platform: light.decora_wifi,1921
+auto-test,1922
+topic: ruby,1923
+skill: html,1924
+type_improvement,1925
+24hr+,1926
+not possible,1927
+component: xknx,1928
+fsevents-c,1929
+bug-in-external-lib,1930
+directive,1931
+severity - critical,1932
+rows.fields,1933
+☼ enhancement,1934
+platform: device_tracker.unifi,1935
+pr exists,1936
+platform: switch.edimax,1937
+priority:critical,1938
+import started,976
+oauth2,7572
+l3:difficult,1941
+p0 bug,1942
+waiting for more information,1943
+target: database,1944
+p-noteview,1945
+requires technical check,1946
+module: subs,1947
+deprecation issue,3056
+status-done,1949
+type:platform,1950
+c: treeview,1951
+bug:medium,1952
+logbook,1953
+summer project,3253
+feature_pull_request,1955
+microsoft office support,2966
+depends on other project,1957
+type: refactor,1958
+travis,1959
+feature: replays,1960
+license scan,7575
+t:enhancement,1962
+cdk2-beta3-rc1,1963
+new contribution,1964
+priority : medium,1965
+migrations,1966
+tablestream,1967
+slack,6221
+effort-days,1968
+email,1969
+topic - user-scheme,1970
+g-documentation,1971
+phase 2d i18n,1972
+qt5,1973
+hackillinois 2017,1974
+build-environment,1975
+in-review,1976
+development flow,1977
+solvers.dsolve,1978
+configuration,1979
+area/docs/generation,1980
+tls,1981
+component:i18n,1982
+level/dockerclient,1983
+component-writers,1984
+threat-model,1985
+needs docs,1986
+platform: sensor.mvglive,6129
+platform: sensor.htu21d,6966
+etl,1988
+etm,1989
+ci,1990
+platform: light.lifx,1991
+ca,1992
+other enhancement,1993
+dataframe,1994
+priority-verylow,1995
+awaiting feedback,1996
+core/vault,1997
+modeling,4686
+selling,8442
+jira: closed,1999
+chromium,2000
+digital_ocean,2001
+8.0,2002
+junior job,2003
+verilog_translation,7687
+topic: perl,2004
+browser compatibility,2005
+topic - download,2006
+pr: work in progress,2008
+need contributor,2009
+platform: binary_sensor.xiaomi,4690
+cat:ikhal,2012
+platform: fan.zwave,3262
+graphics,2014
+web-server,2015
+p-desirable,2016
+dst-0.5,2017
+c:plugins/plugin_loader,2018
+task: new feature,2019
+mediumpriority,3314
+support:certified,2021
+tokentype,2022
+source: support-request,2023
+component: prometheus,2024
+component: arlo,2025
+cve,2026
+google code-in,2027
+sad!,5578
+aesthetics,2029
+solvers.rsolve,2030
+second review needed,2031
+c:parsing/data_loader,2032
+hardware,2033
+minute mode,2035
+bug prevention,2036
+server/db,2037
+talk-to: @vojtechjelinek,7587
+platform: light.rfxtrx,2039
+io.misc,2040
+needs_patch,2041
+flaky-tests,340
+android,2043
+sp/2,2044
+testing/process,2045
+needs information,2046
+component:sensors,2047
+4 - reviewing,2048
+platform: sensor.file,7589
+resolved - see info,2050
+v1,2051
+importance/trivial,2052
+php,2053
+stgroups,2054
+pri:high,2055
+polys,2056
+priority 2016,2057
+opinion needed,2058
+component:cli,2059
+status/available,2060
+5.2.1,6141
+command,2062
+filesystem,2063
+audio,2064
+block rendering,2065
+platform: device_tracker.geofency,2066
+pr welcome,2067
+yamltodb,2068
+web,2069
+contrib: assigned,2070
+closed-pr,2071
+affects_1.7,2072
+lattice,2073
+affects_1.5,2074
+cosmetics,2075
+platform: emulated_hue.hue_api,2076
+logspout,2077
+gui_testing,2078
+installation and packaging,2079
+affects_1.9,2080
+affects_1.8,2081
+n - range dome analysis,2082
+r: duplicate,2083
+p-essential,2084
+app-not-loading,6144
+schema generation,2086
+type: failure arch specific,2087
+needs-more-information!,2088
+backported_3.5,2089
+backported_3.4,2090
+backported_3.7,2091
+backported_3.6,2092
+backported_3.3,2093
+loader,4699
+debatable,2095
+c:playbook/become,2096
+won't-fix,2097
+goals: reduce ids noise,2098
+roadmap/maas-introspection,2099
+rover-wiki,2100
+platform: media_player.nad,2101
+django-1.9,4702
+pleaseverify,2103
+low_hanging_fruit,2104
+new-feature,2105
+priority medium,2106
+component: signing,2107
+config error,2108
+resolution:obsolete,2109
+c:inventory/script,2110
+component-visualization,2111
+component: verisure,2112
+platform: fan.insteon_local,2113
+i - lu,2114
+voluptuous,2115
+schedule,2116
+module: change,2119
+component: mailgun,2120
+component: celerybeat,2121
+platform: linux,2122
+blas-lapack-scalapack,2123
+file infos,2124
+topic - freeze,2125
+insufficient,2126
+issue type: documentation,2127
+software,2128
+openstudio,2129
+component: cli,2130
+inventory/host,2131
+cinbase,2132
+olevba,2133
+qmake,2134
+stream behavior,2135
+virtualbox,2136
+component-configuration,2137
+area: production installer,2138
+stable/2.8.x,2139
+good as first pr,2140
+more_info_required,2141
+pr_needs_update,7604
+9.0,2143
+out of project scope,6156
+area/system,7606
+delivery,2146
+platform: media_player.openhome,2147
+status: ready for merge,2148
+2 - do,2149
+module_utils/basic,2150
+compute,2151
+harvester,2152
+mep14,2153
+difficulty: novice,2154
+official,2155
+mep12,2156
+mep13,2157
+platform: light.rflink,2610
+component: integrations,2158
+apns,2159
+books,2160
+need to be backport-ed to master,2162
+distribution,2163
+informational,2164
+vulnerability-assessment,2165
+future work,2166
+platform: light.xknx,2167
+area: units,2168
+platform: light.yeelight,2169
+platform: remote.demo,2170
+dayone,7613
+in analysis,2172
+feature overview,2173
+bug-beancount,2174
+severity:1-critical,7437
+support request,2175
+status: marked for rejection,2176
+area: portico,2177
+sep needed,7921
+new scraper,2178
+better patch needed,6159
+backport potential,2180
+e:python-3.3,7616
+p0:snsapi,6160
+ruleset-bug,2183
+privacy/security/encryption,2184
+stable/2.0.x,2185
+arbiter,2187
+api: language,2188
+content/needed,2189
+coding & infrastructure,2190
+category: base model,2191
+wx3,2192
+code sprint,2193
+platform: sensor.bitcoin,2194
+rule,2195
+needs reproduction,2196
+area: watcher,2197
+dogstatsd,2198
+wouldn't it be nice if,2199
+priority-1-normal,2200
+high-value,2201
+cws,6163
+status/need-info,2203
+msc-thesis-work,2204
+disable-while-busy,7490
+effort: very high,2205
+to-be-confirmed,2206
+pr do not merge,2207
+python api,7618
+deprecation removal,2209
+status:to be verified,2210
+difficulty-hard,2211
+{planning},2212
+programming_style,2213
+lts api,2214
+area/tools,2215
+kind/rfe,2216
+platform: weather.yweather,2217
+on hiatus,2218
+spec,2219
+response-needed,2220
+2 - ready,3296
+youtube-dl,2222
+minor enhancement,2223
+waffle:ready,2224
+skill: perl,2225
+component: bots,2226
+exporters,2227
+tagging,2228
+component: security,7336
+size: feature,2229
+easy / quick to implement,2230
+platform: climate.tesla,2231
+potential jrct,2232
+comp-datasets,2233
+supervisorctl,2234
+upload,2235
+platform: sensor.command_line,2236
+needs-sqlalchemy0.8.0,7451
+legacy bug,2237
+component: web extensions,2238
+request for information,2239
+website/server,2240
+status: needs triage,2241
+addons/storage,2242
+specs,2243
+importance/high,2244
+v3.1.1,2245
+high severity,2246
+incompatible,2247
++,2248
+dogstream,2249
+status: in progress,2250
+continuum question,2251
+c:daemon,2252
+mac os,2253
+do-not-merge,2254
+bug-fix,3301
+need inspection,2256
+master-branch,8130
+jessie,7626
+config_tests,2259
+new-command,2260
+platform: alarm_control_panel.envisalink,2261
+☒ outdated,2262
+new contributor friendly,2263
+affects core,7629
+t-enhancement,2265
+f: userinterface,2266
+postponed,2267
+topic: d&p deplymt perf,2268
+python code only,2269
+waiting-response,2270
+instr,2271
+quite-easy,2273
+need testing,2274
+platform: sensor.tube_state,2275
+platform: climate.mysensors,2276
+collector: jolokia,2277
+c2t2,2278
+upstream-enhancement,2279
+package novice,2280
+need-review,2281
+shipit,2282
+bundles,2283
+new component,2284
+orchestrator/mesos,4731
+x: amnesty,2286
+platform: switch.rest,2287
+platform: cover.lutron_caseta,2288
+platform: binary_sensor.tesla,2289
+baremetalrestore,2290
+blocking,2291
+tech discussion,2293
+executor/task_queue_manager,2294
+python 2,2295
+python 3,2296
+player,2297
+component: intelmqctl,2298
+in feature queue,2299
+component: tts,2300
+platform/windows,2301
+transparency,2302
+tnl,2303
+scripting,2304
+component: pyart.core,2305
+rep locator,2306
+new features,2307
+rpath,2308
+scope/large,2309
+in-work,2310
+waiting for yowsup 2,2311
+component: pylibzfs_core,2312
+platform: sensor.netatmo,2313
+needed by: autoscale,2314
+validated,2316
+0.1.5,2317
+not blocked,2318
+type: docs,2319
+verify,2320
+module_utils/azure_rm_common,2321
+html search,2322
+test quality,2323
+pending: internal,2324
+more-info-needed,2325
+patch available,2326
+type/codestyle,2327
+tcode-1,2328
+after,2329
+schema change,2330
+arch,2331
+magento plugin,2332
+size: medium (2-3),2333
+request to close,2034
+sparql,2335
+platform: sensor.buienradar,2336
+pr-accepted,2337
+needs-investigation,2338
+platform: remote.itach,3315
+triggering,2340
+user-submitted,2341
+semver: major,2343
+x: regione toscana,3318
+nsfw,2345
+small decision,2346
+dev: frontend,2347
+example-project,2348
+recreational,2349
+specific node info,2350
+production,2351
+platform: switch.rachio,2352
+easy picking,2353
+build issues,2354
+refactoring,2355
+topic-affects-strict-optional,2356
+platform: cover.mqtt,2357
+pgi,6191
+mrknowtv,2358
+dulwich,3320
+release blocking,2360
+oxygen,2361
+changelog,2362
+l,2363
+prio:mid,4918
+feeds,2365
+classifier,2366
+ds building addresses,2367
+classification:crash/hang/data loss,2368
+support:community,4744
+status:new,2370
+aerodynamics,2371
+platform: light.zha,2373
+needs_testing,2374
+hosted,2375
+backend:virtual,2376
+component: issues,2377
+shellcode,2378
+playbook/task,2379
+network,2380
+has merge conflicts,2381
+django 1.10,2383
+platform: conversation.textfile,6825
+status-externaldependency,7654
+discussion/long-term,2385
+module request,2386
+component: maxcube,2387
+gh review: review needed,2388
+app:termsofservice,2389
+unfixable,2390
+recordstore module,2391
+c:cli/galaxy,2392
+documentation error,2393
+language / swedish,2394
+io google,2395
+scipy.ndimage,3324
+test-network,2397
+source/cli,2398
+swagger ui,2399
+configservice,2400
+chameleon_v1,2401
+a-translations,2402
+cat: server compat,2403
+new-datatransfer-protocol,2404
+system,2405
+meshes,2406
+platform: sensor.ups,2407
+usability / ux,2408
+fdev api,2409
+core cli behavior,7658
+platform: sensor.dte_energy_bridge,6204
+status: available,2412
+can't fix,6205
+acepted,2414
+rejected,2415
+platform: cover.opengarage,2416
+x: oziveni.cz,6206
+pr: author's turn,2418
+syslog,7661
+c: startup scripts,2420
+component: upnp,6208
+platform: sensor.history_stats,2423
+hacking,2424
+rewrite,2425
+platform: climate.honeywell,2426
+pri:wish,2427
+milestone-release0.055,2428
+design-review,2429
+c:playbook/task,2430
+not soon,2432
+component: prompts,2433
+user experience,2434
+self-defense,2436
+platform: switch.zwave,2437
+indexes,2438
+subjects,2439
+device: genn,2440
+platform: binary_sensor.doorbird,2441
+error-messages,2442
+c-unpackers/vistrails,2443
+easy-to-fix,2444
+area: mappings,2445
+scripts,2446
+0.1 - barium,2447
+effort-low,2448
+grave,2449
+pull-request-welcome,2450
+sprint-friendly,2451
+voting,2452
+python version: python 2,2453
+python version: python 3,2454
+platform: lock.nuki,2455
+s:duplicate,2456
+playbook/task_include,2457
+awaiting release,2458
+7.0,2459
+needs testcase,2460
+googlework,2461
+n - geonames locator,2462
+buildbot,2463
+import_export,2464
+needsfeedback,2465
+level: expert,2466
+usufy,2467
+implementation,2468
+prio:4-critical,2469
+aspect: tree,2470
+qa complete,2471
+.io.nlloc,2472
+setup.py,2473
+c:module_utils/basic,2474
+newmatik.io,2475
+topic: haskell,2476
+platform: cover.abode,3342
+level:hard,2478
+de,2479
+db,2480
+dc,2481
+pending user feedback,2482
+watson,2483
+.io.css,2484
+kind/question,2485
+ready to close,2486
+dq,2487
+component: citybikes,4763
+astroid brain,3345
+tag: typescript,2490
+emr,2491
+platform: sensor.darksky,2492
+workflows: mistral,2493
+new-test-or-feature,2494
+new-module,2495
+blocked-on-upstream,2496
+scipy.cluster,2497
+site-support-request,2498
+analytics,2499
+depends,2500
+discussions,2501
+component: mqtt_statestream,2502
+c# 项目,2503
+multi-member districts,2504
+copyright scan,2505
+core extraction,2506
+encounters,2507
+platform: sensor.tesla,2508
+component: mongodb results backend,2509
+terms,2510
+wb,2511
+wa,2512
+prj-global,2513
+ctypes,2514
+priority-hi,2515
+status/review,2516
+packages,2517
+wx,2518
+resource manager,2519
+c:playbook/task_include,2520
+status: review needed,2521
+handler: signalfx,3351
+content/wrong,6226
+x-failed-removal,2524
+#regression,2525
+deps bug,2526
+talk-to: @oishikatta,2527
+area: calc,1472
+issue type: enhancement,2528
+area/scale,2529
+bug-critical,2530
+f - all,2531
+type: independent-feature,2532
+c:playbook/taggable,5914
+trunk,3354
+topic: ux docs cmd api driver,2534
+usable auth,2535
+component: homematic,7680
+topic: collection,2537
+status/approved,2538
+needs docs and/or changelog,2539
+tag: webruntime,4771
+epic: remove-cobra-solvers,2541
+platform: climate.toon,2542
+component: alarm_control_panel,2543
+user-error,2544
+chemkin,2545
+more work,2546
+platform: climate.homematic,2547
+needs-ok-to-test,2548
+platform: switch.broadlink,2549
+resolution-question,2550
+lockup,2551
+needs expert opinion,2552
+on hold,2553
+breaking changes,2554
+bug / issue,2555
+alpha color,2556
+0.19,2557
+vo.conesearch,2558
+sysadmin,2559
+l0:easy,2560
+type: feature (major),2561
+code refactor,2562
+hostapd,2563
+bug:normal,2564
+platform: scene.lifx_cloud,2565
+semver:major,2566
+easy starters,2567
+repo: unilangs,2568
+c-unpackers/vagrant,2569
+area/docs/ux,2570
+size: lg,2571
+severity:2-major,2572
+type: ux,2573
+c:playbook/role/*,2574
+pull requests welcome,2575
+context:engine,2576
+pesquisas técnicas,2577
+component: nuimo_controller,7916
+cla-required,2579
+component: codegen,2580
+v1.18,2581
+confirmed,2582
+waiting-for-3rd-party,2583
+topic: c,2584
+platform: binary_sensor.bayesian,2585
+touch screen support,2586
+mrepo,2587
+f: license,2800
+topic: r,2589
+content-related bug,2590
+component: rpi_pfio,3361
+perimeter,2592
+unready,2593
+area: left-sidebar,3362
+fuse,2595
+n - helicopter landing zone suitability,2596
+part-doc,2597
+missing-tests,2598
+size/l,4781
+3 - needs review,2600
+contributor wanted,6238
+performance metrics,2602
+key expiry,2603
+client,2604
+feature added,2605
+component: tradfri,4783
+c:cli/,2607
+please provide python and pytg version,2608
+platform: vacuum.dyson,2609
+waiting for upstream,6826
+pycon2016 sprint,2611
+best practice,2612
+visualization,2613
+hardening,6007
+opencl,2614
+all-components,2615
+board,2616
+component: legacy frontend,2617
+long term enhancement,2618
+difficulty: low,2619
+priority:medium,2620
+prio: critical,2621
+platform: switch.modbus,2622
+firecloud,2623
+rna,2624
+type:organization,2625
+service-issue,2626
+ux / frontend,2627
+gui v3,7461
+webend,2628
+lco,2629
+1 - todo,2630
+daysim,2631
+no lint errors,2632
+getting-started,2633
+platform: light.insteon_plm,2634
+tag:cli-search,2635
+c:playbook/play_context,2636
+mit,6190
+quick fix,2638
+pyside bug,2639
+sparse,2640
+security,2641
+task: ux update,2643
+needs_revision,2644
+version: 4.0,2645
+aspect: other,2646
+library bug,2647
+1 - normal,7700
+type-new-project,2649
+1 - backlog,2650
+highpriority,2651
+webp,2652
+db-configuration,2653
+severity: major,2654
+imported-from-sourceforge,2655
+importance: low,2656
+backwards incompatible,2657
+comments,2658
+flight dynamics,2659
+custom-viewer,2660
+c:inventory/host,2661
+non-dev,2662
+decision-needed,2663
+k-optimization,2664
+marketing,2665
+ssh_config,2666
+component: sdk,2667
+needtriage,2668
+schema-validation,2669
+in-testing,2670
+status-blocked,2671
+code style,2672
+needs a testcase,2673
+kicad,2674
+upstreambug,2675
+low-prio,2676
+brown paper bag,2382
+importance/critical,2678
+status:closed,2679
+area/upstream,2680
+pr easy review,2681
+component: zwave,2682
+not reproducible,2683
+type: bite-sized,2684
+compression,2685
+waf,2686
+legislation,2687
+for discussion,6252
+category: collector,2689
+editions,2690
+release branch,1032
+level-firmware,2692
+waiting reply,2693
+.io.gse2,2694
+plugins/connection/network_cli,2695
+platform: opencv_classifiers.haarcascade_frontalface_default.xml,2696
+reso:completed,2697
+tim-ui,2698
+requires investigation,2699
+customer issue,2700
+absent,2701
+platform-linux,2702
+c-xs,2703
+human-resources,2704
+tv-provider-account-needed,2705
+tests-needed,2706
+input wanted,2707
+area/docs,2708
+platform: device_tracker.linksys_smart,2709
+future django,3374
+optimisation,2711
+platform: emulated_hue.upnp,2712
+low effort level,2713
+do-not-merge/work-in-progress,6255
+:track management,2715
+job scheduleing component,2716
+archive,2717
+physical,2718
+t: enhancement,2719
+collector: memcached,2720
+refactor,2721
+holding,2722
+test,2723
+z backport 2.1.3,2724
+type/enhancement,2725
+z backport 2.1.4,2726
+fixed for next release,2727
+immediate,7868
+update,2728
+needs-triaging,2729
+browser: mobile safari,2730
+detox,2731
+focus - usecase,2732
+move-to-stackoverflow,2733
+interval,2734
+modules,2735
+waiting-for-fixes,2736
+concept,2737
+requires-changes,2738
+holonomic functions,2739
+fizzled out,2740
+global,2741
+speed-up,2742
+port forwards,2743
+installation/packaging,2744
+dalton,2745
+type/documentation,2746
+new-version-fixes,2747
+milestone-0.6.0,2748
+milestone-0.6.1,2749
+waiting for merging,2750
+layers,2751
+c:playbook/play,2752
+platform: media_player.cast,2753
+t5:question,2754
+graph,2755
+status/abandoned,2756
+fixed in 0.5,2757
+platform: config.script,7186
+jvm,2758
+idée,2760
+tool: polypen,2761
+status: fix-provided,4428
+add-to-knack,2763
+status:patcheswelcome,2764
+status: wrong_branch,6667
+cloudstack,2765
+topic-plugins,2766
+needed: documentation,2767
+apbs,2768
+code organization,2769
+gui,2770
+audiofocus,2771
+swaggerpy12,2773
+c:module_utils/,2774
+https issue,2775
+local dpxdt,2776
+type: api change,8156
+功能需求,2777
+focus - serialisation,2778
+platform: sensor.influxdb,2779
+file closing,2780
+installationdocs,2781
+comp-docs,2782
+hdfs,2783
+target: ci loop,2784
+safe templates,2785
+trivial,2786
+response-requested,2787
+component: sphinxext,2788
+priority-moderate,2789
+kind - duplicate,2790
+b-bug,2791
+db change,2792
+adopt_me,2793
+change,2794
+candidate for closing,2795
+hdf5,2796
+got issues,2797
+resolved.duplicate,2798
+ekr,2799
+platform: sensor.toon,2801
+mentored/pair available,2802
+build process,2803
+manufacturing,2804
+sbir-year-1,2805
+sbir-year-2,2806
+entities,2807
+status: rfc,2808
+type: outreach,2809
+platform: camera.opencv,2810
+https,2811
+platform: sensor.fastdotcom,6270
+lgtm,2813
+build problem,2814
+notmyfault,2815
+entrance,2816
+platform: binary_sensor.envisalink,4811
+awaiting author contribution,2817
+needs docstring,2818
+platform: light.osramlightify,2819
+♫ enhancement,2820
+platform: conversation.action,2821
+cat ii,2822
+status:duplicate/28503166,2823
+ctfs,2824
+c:lib,2825
+branch: price-list-analysis,2826
+non-replicable,2827
+pri:urgent,2828
+area: windows,2829
+.clients.neic,2830
+kind/enhancement,2831
+submodule-notebook,2832
+status: non-issue,2833
+area:documentation,2834
+type-cleanup,2835
+serviceattn,2836
+s: critic,2837
+spm,2838
+spa,2839
+platform: switch.tplink,2840
+projectmemorysanitizer,2841
+needs adjustments,2842
+knowls,2843
+discussion,2844
+bug fix,2845
+platform: cover.homematic,2846
+platform: sensor.mysensors,2847
+platform: sensor.attributes,6275
+tag:documentation,2849
+labeling question,2850
+odf stylesheet,2851
+status: needs review,3405
+difficulty/high,2853
+type: feedback,2854
+minor feature,2855
+status:need more info,2856
+roadmap/add-ons,2857
+compatibility,2858
+needed by: cloud control panel,2859
+low-hanging fruit,8426
+topic - check,2861
+futures,2862
+sklearn-compatibility,1939
+major todo,2864
+needed: patch,2865
+microsoft-windows,3407
+pipe dream,5591
+corner-case,2867
+gae support,2868
+awaiting prioritization,2869
+tagger,2870
+res-inactive,2871
+platform: sensor.fixer,2872
+yamlimporter,2873
+high_prio,2874
+course-staff-request,2875
+¡blocking!,2876
+backport-0.5.1,6280
+forms,2878
+yaml,2879
+blacklists,2880
+component: emulated_hue,2881
+no-review-required,2882
+low hanging fruit,2883
+x: peruleaks,2884
+don't merge,2885
+magpis,7738
+question-or-proposal,2887
+now,2888
+discuss,2889
+c-core,2890
+backward-incompatible,2891
+provider:kubernetes,2892
+tag: component: build,2893
+top-1m,2894
+top-1k,2895
+platform: light.mystrom,2896
+topic-union-types,2897
+component/test-infrastructure,2898
+em,2899
+domain,2900
+en,2901
+waiting for release,2902
+tag: layout,2903
+gaussian,2904
+ec,2905
+ops/deployment,2906
+techops,1067
+pending_action,8727
+utilities.autowrap,2909
+scipy.signal,2910
+platform: switch.rpi_rf,2911
+es,2912
+wont-fix,2913
+code lgtm2,2914
+code lgtm1,2915
+app-scheduleviewer,2916
+oemof-solph,2917
+entify,2918
+verified:yes,19
+c-tracer (c),2920
+zreleased - 2016.11.8,2921
+type:idea,2922
+platform: media_player.volumio,2923
+zreleased - 2016.11.1,2924
+zreleased - 2016.11.2,2925
+zreleased - 2016.11.3,2926
+zreleased - 2016.11.4,2927
+zreleased - 2016.11.5,2928
+zreleased - 2016.11.6,2929
+zreleased - 2016.11.7,2930
+csvkit,2931
+dependencies,2932
+tag: notebook,2933
+component: pilight,68
+debian-bts,2935
+topic: swift,2936
+topic - unnamed reqs,2938
+f: marketing,2939
+digitization,2940
+idea for discussion,2941
+gibson,6292
+needs_review,2943
+resolution/wontfix,2944
+nist,2945
+external-software-interaction,114
+api/client update,2947
+platform: climate.demo,2948
+platform: binary_sensor.hikvision,118
+os/apple,2950
+area/networking,2951
+closed: duplicate,136
+variables,2953
+status:not-reproducible,2954
+orchestrator/k8s,2955
+impossible,2956
+utils/vars,175
+angular,2958
+a-mp,2959
+failing test,2960
+categorical,2961
+pr awaited,2962
+defer,4481
+topic-depends-on-pep-change,2964
+severity: normal,2965
+status:help wanted,4832
+component:api,2968
+error reporting,2969
+result: fixed,2970
+priority: normal,6297
+platform: automation.state,2972
+area: onboarding,2973
+comp-base,2974
+centroids,2975
+waiting for external,2976
+not server root,2977
+works with catkin_make_isolated,2978
+off topic,2979
+pending-feedback,2980
+fueature-request,2981
+bug in jedi,2982
+cve-2017-9791,3420
+no auto,2984
+odf backend,2985
+bugs,3423
+component: rabbitmq broker,2987
+image processing templates,7752
+discussion-needed,2988
+numerics,2989
+wcs,2990
+component: mycroft,2991
+st:test-and-merge,2992
+req-from-user,2993
+can't repro,421
+q&a,2995
+platform: climate.zwave,2996
+on-hold,2997
+impossible?,2998
+fixed-need-testing,2999
+platform: binary_sensor.zha,1611
+demande-de-fonctionalité,3001
+hotfix,3002
+content/out-of-date,3004
+needs code review,3005
+archive file,3006
+platform: sensor.rflink,1642
+viewmodes,3007
+need-sample,3008
+mid-pri,3450
+subject:vm,3009
+new-dataprovider-portal,3010
+maint,3011
+incomplete (need more info),3012
+priority: urgent,3013
+upgrade,590
+dev: ready to merge,3016
+webapps,598
+component: telegram_webhooks,3018
+improvement proposal,6303
+new_module,3020
+platform: sensor.systemmonitor,613
+c-mashups,3022
+routing,6304
+component: installer,3024
+collector: diskspace,3025
+{review},3026
+backburner,3027
+not-for-master,3028
+documentation-needed,3029
+contributor friendly ♥,3030
+os: gnu/linux,3031
+type/bug,3032
+b - known issue,705
+component-buildbot,3034
+c:plugins/lookup,3035
+affects: website,3036
+c++,3037
+app:cfclient,3038
+new silo,3039
+s3syncstrategy,3040
+development discussion,3041
+nextnext,3042
+state:waiting,3043
+f - operational graphics,3044
+milestone:0.11.10,3045
+version1.1,3046
+milestone:0.11.12,3047
+priority-mid,3048
+threadstats,3049
+topic:events,3051
+profile versioning,792
+priority:low,3053
+status/needs design,3054
+linuxdiagnostic,3055
+status:needs tests,1948
+core/mesos,3057
+collector: mail,7765
+3,3059
+post wooey/djangui merge,3061
+platform: sensor.mopar,3062
+import,3063
+grand rewrite,3064
+needs thoughts,3065
+our-children-will-read-this,3066
+notice,3067
+category: highest impact tasks,3068
+blocked by other work,7767
+c:cli/console,3070
+optimisation/cleanup,3071
+needs: documentation,3073
+req: amara staff,3074
+user-callback,3075
+installation,3076
+awaiting-feedback,3078
+component: dyson,4850
+c: repository,3080
+n - incident analysis,3081
+groupby,3082
+external-bugs,954
+2/3 compat,3084
+pyqode,3085
+overview,963
+35 needs: rebase,3088
+mirroring,3089
+exploit,3090
+.io.segy,986
+learning,3092
+needed by: rackspace cdn,3093
+kind/support,3094
+collector: nvidia_gpu,3095
+pri:bug,3096
+platform: opencv_classifiers.haarcascade_frontalface_alt_tree.xml,3097
+build / packaging,3098
+3 - now,3099
+0.6.0,3100
+c:parsing/splitter,1033
+#formatting,3102
+umbrella project,3103
+platform: sensor.asterisk_mbox,3104
+affects: documentation,3105
+needs-confirmation,1064
+platform: binary_sensor.velbus,3107
+external,3108
+scipy.lib,3109
+component:documents,3110
+ruby,3111
+contribution-welcome,3112
+platform: sensor.openweathermap,3113
+0.6.x,3114
+platform: sensor.xknx,3115
+developing,3116
+api: monitoring,3117
+py3.5,3118
+account-needed,3119
+editorial,1134
+kind - invalid,3121
+type-bug,3122
+platform: fan.dyson,3123
+suse,3124
+programming mission,3125
+c:b:wm,3126
+utils,3127
+working as designed,3128
+relationship-related,3129
+orchestrator/openstack,3130
+verified:no,3131
+long term,1198
+datastore,3133
+texinfo,3134
+develop,3135
+media,3136
+status:notrepeatable,3137
+migrations-included,3138
+11.0,3139
+phase: planning,3140
+pr-needs-big-green-button-pushed,3141
+★☆☆,4858
+area:testenv-command-execution,3143
+document,3144
+format-xyz,3145
+stealth mode,3146
+s:invalid:no information,3147
+pr/hold,3148
+platform: sensor.worldtidesinfo,3149
+group/windows-client,3150
+no action taken,3151
+ccw,3152
+b-crash,3153
+platform: sensor.citybikes,3155
+severe,3156
+area: i18n,3447
+type:issue,3158
+component:rich text,3159
+dep-astropy,3160
+geometry manager,3161
+reso: upstream,3162
+neon,3163
+component: mongodb broker (unsupported),3164
+platform: binary_sensor.rfxtrx,3165
+setools/policyrep package,3166
+release notes,1086
+area:building/executing,3168
+reso: wontfix,3169
+level: novice,3170
+thinking,3171
+curses-frontend,3172
+t: performance,3173
+awaiting pr,1437
+paas,3967
+talk-to: @markhalpin,3175
+backend/svg,3176
+psi,3177
+rules,3178
+journalist_interface,3179
+calendars,1484
+won't fix myself,3181
+trivial fix,3182
+status/needs work,3183
+bug report,3184
+work in progress,3185
+devtestlabs,3186
+open-source-contribution,3187
+bug:grave,1545
+platform: notify.joaoapps_join,3189
+output,3190
+needs: rebase,3191
+gsoc-project-idea,3192
+state: duplicate,3193
+pull request available,3194
+api not ready,3195
+rrule,3196
+improves: ux,3197
+easy-pickings,3198
+module: organizations,3199
+component: amqp broker,3200
+virtual-dependencies,3201
+validation & testing,3202
+os: mac,3203
+fixed upstream,3204
+ad leftover,3205
+asap,3206
+haspatch,1685
+wait-release,3208
+firmware-cypress-fx2,1700
+type:examples,3210
+release tracking,3211
+component: pyart.io,3212
+type:question,3213
+lint-ok,1731
+front end,3215
+i have a dream,3216
+migrationnewapi,3217
+protocol upgrade,3218
+ethereum,3219
+target: develop,3220
+backup,3221
+researching,3222
+redshift,3223
+azurestack,3224
+2017.7.3,3226
+plugins/connection/persistent,3227
+good first issue,3228
+area: authentication,3229
+platform: image_processing.openalpr_local,3230
+fanart,3231
+has-active-pull-request,6336
+feature-ironic,3233
+zreleased - beryllium,3234
+needs option,3235
+compatibility: windows,6337
+low,3237
+c:lint,1867
+shorthand-parsing,3239
+awaiting input,3240
+cat i,3241
+area/packaging,3242
+needs info,3243
+ooni-probe,3244
+delayed,3246
+s:invalid:configuration error,3247
+exploitation-tools,3248
+major: api break,3249
+pdep,3250
+hardware-issue,3251
+bug: reproducible,3252
+reso:duplicate,1954
+utilities.codegen,1956
+embedder,3255
+with description,3256
+vimwrapper,3257
+bug-in-cca-tool,3258
+fixed in dev branch,3259
+topic - target option,3260
+moved,3261
+changelogged,2013
+impact: small,7798
+documentation change,3264
+reliability,3265
+installation problems,3266
+moves,3267
+milestone-1.3.0,3268
+milestone-1.3.1,3269
+browser compat,3270
+storage,3271
+valid,3272
+objectscounting,3273
+type/question,3274
+polar,3275
+platform: sensor.mqtt,4875
+platform: windows,3277
+needs-more-testing,3278
+registry,3279
+coverage,3280
+zaius,3281
+reviewer-team,3282
+pulseaudio,3283
+area/documentation,3284
+component: pyart.util,3285
+component/guest-plugin,3286
+needs_docs,3287
+hdmi2***,3288
+strings,3290
+platform: media_player.onkyo,3291
+issue-wontfix,3292
+new-package,3293
+rasters,3294
+pr wanted,3295
+platform: recorder.migration,2221
+collector: snmp,3297
+top-100k,4879
+part-completion,3300
+vtk-bug,2255
+area: gentoo,3302
+platform: sensor.gtfs,3303
+wms,3304
+mac osx,3305
+c:parsing/mod_args,3306
+wmm,3307
+component:help,3308
+hangups issue,3309
+theme:best-practices,3310
+io latex,3311
+mpl,3312
+mpi,3313
+nonstandard platforms,2372
+balancing,2339
+comp-distributions,3316
+area/install,3317
+type: ux or dx (user experience or dev experience),2344
+sublime 3,3319
+good-to-merge,2359
+ukidss,3321
+hard / long to implement,3322
+thirdparty/aio,3323
+roadmap issue,2396
+stat:needs-review,3325
+operating system: windows,3326
+type-docs,3327
+language / irish,3328
+importers,7948
+needs figuring out,3329
+more info required,3330
+enhancement,3331
+scope: rando,3332
+core.cache,3333
+packages issue,3334
+platform: climate.ecobee,3335
+snippets,3336
+opsys-bsd,3479
+feature:deprecate,3337
+c-m,3338
+c-l,3339
+status: has patch,3340
+jedi,3341
+missing tests,8190
+low-difficulty,2477
+c:playbook/base,3343
+date handling,3344
+[wip],2489
+c-s,3346
+platform: sensor.pvoutput,6351
+fixed?,3348
+platform: climate.tado,3349
+t-bug,3350
+ver:1.x,2522
+kronos,3353
+area: settings (admin/org),2533
+onhold,3355
+entry level,5958
+geoexplorer-integration,7806
+project infrastructure,3358
+third-party issues,3359
+exceptions/warnings,3360
+needs-dicussion,2591
+gwpy.table,2594
+need:documentation,3364
+v0.9.0,3365
+glitch,3366
+jrs,3367
+information-needed,3368
+information needed,3369
+external/dependency issue,3370
+helper,6360
+asm,3490
+target: command-line,3373
+difficulty:medium,2710
+prio:major,3375
+component: scintilla,3376
+app:account,3377
+type: specification,3378
+lightcurve,3379
+feature-zmq,3380
+vo,3381
+c:playbook/playbook_include,3382
+platform: camera.axis,3383
+其它,3384
+platform: notify.telegram,3385
+bug:high,3386
+release blocker,3387
+webui/api,3388
+res/duplicate,3389
+@low,3390
+warn: backward compatibility breaker!,3391
+reshaping,3392
+pr provided,3393
+parasol,3394
+history,3395
+f5,3396
+☂,6880
+related discussion,3397
+voided,3398
+pushed,3399
+platform: sensor.arest,3400
+backends/gce,3401
+revit 2017 api,3402
+service discovery,3403
+on_hold,3404
+bug?,2852
+api coverage,3406
+platform/mac,2866
+ledger,3408
+kind/feature,1136
+do not merge yet,3410
+comp-formula,3411
+fr,3412
+planned feature,3413
+mod: sync,3497
+bug-in-plugin,3415
+skill developent,7816
+reso:invalid,3416
+status: build pending,3417
+platform: scene.lutron_caseta,3418
+a,3419
+platform: sensor.fedex,2983
+documentation,3421
+need more details,3422
+reindex/migration,2986
+image-preview,3424
+pr: released,3425
+awaiting review,3426
+help,3427
+type: example,3428
+platform-support,3429
+soon,3430
+c:core,3431
+comp_folclor,3433
+helm,3434
+post launch - high priority,3435
+kinetic,3436
+systemd,3437
+nubank,3072
+platform: binary_sensor.vera,3439
+not-an-issue-but-a-question-use-our-mailing-list,3440
+systems,3441
+status:design-decision-needed,3442
+ticketing,3443
+component: project infrastructure,3444
+kind/usability,3445
+rws,3157
+does-not-merge,7824
+hackathon,3449
+plat: firefox,276
+z backport 2.2.1,7825
+c-front,3452
+stat:needs-revision,3453
+c:executor/playbook_executor,3454
+needs-repro,3455
+beginner-friendly,3456
+feature: later,3457
+help welcome,3458
+plugin: freeimage,3459
+build / ci,3460
+11–20 stars,3461
+not an issue,3462
+platform: automation.time,3463
+under testing,3464
+todo,3465
+importance: high,4910
+type analysis,3467
+trusty,3468
+item,4911
+publish,3470
+type-bug-wrong,3471
+discussion_topic,3472
+browser: firefox,3473
+platform: weather.openweathermap,3474
+nice for beginners,3475
+issue,3476
+reporting,6376
+needs-flask0.11,1793
+blocked-by-release,3480
+code-organization,6377
+needs-flask0.10,3482
+input-stream,3483
+multimonitor,3484
+asc,3485
+component-instances,3486
+language / russian,3487
+area: documentation (developer),3488
+area: pyca,3489
+bash,3372
+awaiting-changes,3491
+unresolved,3492
+component: codeintel,3493
+3rd party issue,7832
+status: acknowledged,3495
+v2,3496
+notify-on-release,3414
+platform: binary_sensor.rest,3498
+area: compatibility-test,3499
+status:fixed,3500
+to validate,3501
+encoding,3502
+jottafuse,3503
+legacy-script,3504
+el capitan,3505
+misc,3506
+ready for final review,8592
+solvers,3507
+needs-feedback,3508
+$100 reward,3509
+client/backend/agent,4916
+component-server,4624
+platform: binary_sensor.ping,6382
+pinned,3511
+not adopted,3512
+type: proposal,3513
+component: keyinput,3514
+fixed pending review,3530
+root bug,3516
+schema,3517
+c:vcs support,3518
+base classes,3519
+elastic2-doc-manager,3520
+component: process management,3521
+feedback-needed,3522
+e:freebsd,3523
+unarchive,3524
+feature-logged,3525
+cython/c++,2422
+platform: switch.mfi,3527
+appfreeze,3528
+needs test coverage update,3529
+has dependency,7839
+under review and tests,3531
+stem/lemma,3532
+android-story-detail,3533
+sts,3534
+kindle,3535
+user reported,3536
+bug-irreproducible,3537
+continuous integration,3538
+c:vars/variable_manager,3539
+priority 2017,3540
+urgently,3541
+wat?,3542
+component-aux,3543
+quantifiedcode,3544
+lib,3545
+python-2.3,3546
+speculative,3547
+scotland,3548
+mpl_toolkit,3549
+admin panel,3550
+lib/worker,3551
+needs-no-action,3552
+raspberry-pi,3553
+lvl:major,3554
+category: experimental features,3555
+package:python3,3556
+tag: bug,3557
+approved,3558
+异步,3559
+mobile,3560
+performances,3561
+testing phase,3803
+clean,3563
+unclear bug,3564
+physics,3565
+effort: low,3566
+⚛ research,3567
+area/outputs,3568
+translation,3569
+io stata,3570
+e:macos,3571
+ship it,3572
+component:outline explorer,3573
+b - enhancement,3575
+pr almost there,3576
+qgis3,3577
+friendliness/unfriendly,3578
+platform: sensor.hydroquebec,3579
+template,4924
+needs-release-note,3581
+platform: binary_sensor.threshold,3582
+component: synapses,3583
+unmet dependencies,3584
+i - blr,3585
+referencing,3586
+c:plugins/connection/docker,3587
+to-be-explored,3526
+email (built-in),3589
+z-?? storyframe.py cluster,3590
+boost,3591
+status:unreproducible,3592
+auto-migrated,3593
+bug_report,3594
+playbook/included_file,3595
+platform: notify.sendgrid,3596
+needs syntactical revision,3597
+voctogui,2315
+need-improvement,3599
+feature: must-have,3600
+install error,3601
+qa: release,3602
+priority: p2,3603
+priority: p0,3604
+priority: p1,3605
+wip do not merge,3606
+change-request,3607
+platform: lock.tesla,3608
+incompatibility,3609
+assistants,3610
+component: vacuum,6403
+platform: lock.nello,3612
+dtrace,3613
+scalability,3614
+platform: fan.comfoconnect,3615
+st:awaiting-response,3616
+gwc-integration,3617
+source/encoding,7850
+c:inventory/dir,3619
+ads,6405
+merge me,3621
+platform: vacuum.mqtt,3622
+waiting on contributor,3623
+automations,3624
+investigation-needed,3625
+code improvement,3626
+status/3-docs-review,3627
+experimental,3628
+reading room,3629
+orga-server,3630
+possibly fixed,3631
+area: message view,3632
+singlewindow,3633
+platform: sensor.dwd_warnapp,6409
+linux,3635
+gwpy.timeseries,3636
+z-?? targets cluster,3637
+involves opengl,3638
+platform: sensor.pi_hole,3639
+ci_verified,3640
+affects_1.6,3641
+platform: sensor.sabnzbd,3642
+scope/medium,3643
+mod: dav,6413
+upstream bug,3645
+maintenance,3646
+s3copy-extra-data,3647
+component: websocket_api,3648
+topic-diagnostic,3649
+status/revision-needed,3650
+dev: dev experience,3651
+mturk,3652
+fix-test,3653
+normal priority,3654
+prs welcome,3655
+platform: sensor.nzbget,3656
+imap,3657
+fix commited,3658
+need: information,3659
+pretty embarrassing,3660
+status: cannot reproduce,3661
+bug :(,7854
+no action,3663
+beryllium,2759
+bookmarklet,3665
+geo-restricted,3666
+status-help-wanted,3667
+(2) in progress,3668
+platform: light.decora,3669
+platform: sensor.openevse,3670
+component:parameterization,3671
+platform: recorder.util,3672
+tests,6417
+bloquant,3674
+reads,3676
+bugbash,3677
+ready,3678
+needs clarification,3679
+4 - accept,3680
+need-test,3681
+checking,3682
+tests wanted,3683
+modification,3684
+platform: alarm_control_panel.egardia,3685
+conflict,3686
+task: bug,3687
+collector: hadoop,3688
+ready to work on,3689
+link extraction,3690
+optim,3691
+log wanted,3692
+need conception discussions before development,3693
+do-as-plugin,3694
+proposed bip modification,3695
+needsfixing,3696
+waiting on changes,3697
+internal request,3698
+database,3699
+please recreate if still an issue,4616
+contributions welcome,3701
+diffgeom,3702
+docker,3703
+chore,3704
+job board,3705
+- forum -,3706
+platform/linux,3707
+plugin architecture,3708
+deployment,3709
+reviewed,3710
+love,3711
+ovirt,3712
+s-major,3713
+pr: hotfix,3714
+res-wontfix,3715
+vendor:mbed,3716
+preventative maintenance,3717
+evaluate,3718
+lvl:medium,3719
+linux/mac,3720
+analytic_functions,3721
+platform: camera.verisure,3722
+feature: replay statistics,3723
+scrobble,3724
+needstests,3725
+client request,3727
+repository support,3728
+empyrean,3729
+pillar,3730
+almost-ready,3731
+eel,3732
+pull request,3733
+resolution:fixed,3734
+priority: critical,3735
+non-critical,3736
+component-library,3737
+platform: image_processing.microsoft_face_identify,3738
+singlemachine,4949
+xcsoar,3740
+urgent,3741
+backwards-incompat,6427
+translate-toolkit,3743
+not verified,3744
+editor ready,3745
+layout-ui,3746
+delivered,3747
+build/test infrastructure,3748
+platform: sensor.qnap,3749
+c: build scripts,3750
+to review,3751
+pylons - flask migration,3752
+pdb2pqr,3753
+component: group,3754
+infra,3755
+will-merge,3756
+op reply needed,3757
+plots,3758
+psf_matching,3759
+vega-lite-related,6431
+gnome,3761
+4 - done,3762
+needs documentation,3763
+complexity-low,3764
+data model,3765
+.imaging,3766
+bgq,3767
+platform: sensor.dnsip,3768
+plugins/connection,3769
+closed-for-no-activity,3770
+block,3771
+other os,3773
+upstream-bug,3774
+standalone-project,3775
+difficulty: trivial,3776
+lensing,3777
+perl,4954
+security/cryptography,3779
+cool and awesome,4133
+✈️  flight deck  ✈️,3780
+dep-matplotlib,3781
+✈ low hanging fruit,3782
+기능한계,3783
+topic: config,3784
+userinterface,3785
+memory-use,3786
+platform: sensor.currencylayer,3787
+hosted service,3788
+status:needs ui design,3789
+review-acked,3790
+info,3791
+needs_feedback,3792
+limited to: linux,3793
+fix for 0015,3794
+mozillawork,3795
+platform: mark1,3796
+ready to start,3797
+phidbr2016,3798
+phidbr2018,3799
+pr: to review,7944
+platform: fan.demo,3800
+code-architecture,3801
+setools package,3802
+to verify,3804
+accessibility,3805
+status:obsolete,3806
+effort: high,3807
+topic-named-tuple,5262
+platform: switch.insteon_local,3809
+p1: emergency,3810
+reso: superseded,2937
+zreleased - 2016.3.2,3812
+platform: notify.instapush,794
+f - grg,3814
+zreleased - 2016.3.6,3815
+topic - proxy,3816
+zreleased - 2016.3.4,3817
+zreleased - 2016.3.5,3818
+tosort,3819
+transport,3820
+nat,3821
+pandas,3822
+component: cura-build,3823
+physics.quantum,3824
+os: windows,3825
+pillow scripts,778
+bravado,3827
+forwardport-0.8.0,3828
+component: connection,3829
+svn,3830
+external site,8581
+need pull request,3831
+platform: sensor.geo_rss_events,3832
+visual,623
+unit testing,3834
+comp-graphics,3835
+gw,3836
+nine-first,3837
+gs,3838
+area/console,3839
+need opinion,3840
+gp,3841
+size: small,3842
+db/migrations,3843
+gg,3844
+platform: switch.digital_ocean,8108
+dev-reminder,3845
+gh,3846
+waiting on analytics,3847
+status: can't reproduce,3848
+pymclevel,3849
+wizard,3850
+plugin editstructure,3851
+revise and resubmit,3852
+propose close,3853
+c-assigned,3854
+non-gui,3855
+kind: feedback,3856
+backend:nican,3675
+webhook,3858
+component: joaoapps_join,3859
+component:profiler,3860
+sequence-generation,3861
+facebook,3862
+glad2,6449
+difficulty 13,3299
+data source,4968
+goodfornewdev,3866
+matrices,3867
+platform: mailbox.demo,3868
+tag:cli-messaging,3869
+scrapers,3870
+platform-specific issue,8241
+mercurial,3871
+component:debugger,3872
+system specific,7888
+hive,3874
+6–10 stars,3875
+geogig,3876
+classification:ui/usability,3877
+user issue,3878
+quick wins,3879
+platform: binary_sensor.digital_ocean,3880
+target-android,3881
+zd,3882
+backends/none,3883
+rcparams,3884
+download,3885
+zw,3886
+platform: archlinux,3887
+v1.5-beta,3888
+needs a user story,3889
+decide on api,3890
+[general],3891
+summer-placement,3892
+area: topics,6458
+api-test,3894
+mpd frontend,3895
+platform: switch.hook,3896
+platform: sensor.supervisord,3897
+matplotlib,3898
+status: critical,3899
+bug:critical,3900
+test_pull_requests,3902
+sublime text 3,3903
+buy this feature,3904
+platform: binary_sensor.abode,3905
+f24-branch,3906
+postprocessing,3907
+deprecated (discussion),3908
+transport-redis,3909
+quantaxis modify,3910
+lamda,3911
+stabilization,3912
+mesos,3913
+area: freebsd,3914
+c:compat/six,3915
+io sas,3916
+s:invalid,3917
+platform: light.velbus,3918
+someday/maybe,3919
+wip,3920
+cloud,3921
+platform: sensor.london_underground,3923
+fixed in current release,3924
+cray,3925
+t: 微信卡券,3926
+topic - dependency resolution,3927
+area/histories,3928
+housenumber,3929
+platform-i386,1051
+started,3931
+benchmark,3932
+ready to develop,3933
+collector: ceph,3934
+zbackport 2.3.1,3935
+zbackport 2.3.2,3936
+impala-udf,3937
+python code quality,3938
+project management,3939
+prio-medium,3940
+need repro,3941
+task organization,3942
+platform: sensor.london_air,3943
+status:needs work,3944
+design flaw in docker?,3945
+text enhancement,3946
+theming,3947
+c:galaxy/,3948
+links,3949
+providers,3950
+type: task,6069
+feature request,3952
+utilities.lambdify,4978
+tests/ci/pyup,3954
+api enhancement,3955
+component: configurator,3956
+testing in progress,6471
+micropurchase,3958
+--inline,3959
+smalltask,3960
+needed: feedback,3961
+state:needs-discussion,3962
+not important,3963
+l2:advanced,3964
+hashes,3965
+needs-docs,3966
+behavior change,6210
+component: raspihats,6473
+wantshelp,3969
+waiting on solutions,3970
+type: maintenance,3971
+issue.feature,3972
+works with catkin_make,3973
+requested by user,3974
+2 - high priority,3975
+status: needs a developer,6477
+t1:enhancement,3977
+n - military aspects of weather,3978
+vizier,3979
+platform: switch.template,3980
+component:streamfield,3981
+area/jobs,3982
+p-systray,3983
+public interface,3984
+source:cio,3985
+workaround possible,3986
+component-logic,3987
+works-for-me,3988
+minor bug,3989
+platform: light.blinkt,3990
+auth,3991
+backends/container,7737
+needs: discussion,3992
+scipy.integrate,3993
+proposed fix in p/r queue,3994
+area/admin,3995
+known issue,3996
+accessibiliity,3997
+slide,3998
+topic - cache,3999
+t:question,4000
+component: notifications,4001
+need review,4002
+correlated noise,4003
+front-end,4004
+plugin: deluge,4005
+attachments,4006
+map,4987
+resolution/invalid,4008
+e10s,4009
+platform: sensor.geizhals,4010
+potential workflow regression,4011
+ec2,4012
+codebase,4013
+transitions,4014
+topic: selection,4015
+api: logging,4016
+reboot,4017
+feature add,4018
+:usability,4019
+pri:medium,4020
+recommendations,4021
+pyup-bot,4022
+component-core,4023
+non-reproducable,4024
+c:documentation,4995
+virt-libvirt,4026
+geometry,4027
+deprecated,4028
+open edx community review,4029
+next version,4030
+b - duplicate,4031
+designed,4032
+manual deployment needed,4033
+feature_request,4034
+topic-incremental,4035
+needs ui design,4036
+os-prac,4038
+quality,4039
+executor/playbook_executor,4040
+classification:bluetooth,4041
+kind/feature-request,4042
+management,4043
+privacy,4044
+locale,3598
+bokeh,4046
+forgot password,4047
+not added,4048
+[bugfix],4049
+widgets,4050
+needs adoption,4051
+component:core,4052
+configure,4053
+firefox,4054
+librdkafka,4055
+lists,4056
+component: completion,4057
+component-unittest,4058
+rss,4059
+changes public interface,4060
+incubator project,4061
+versioncontrol module,4062
+collector: ping,4063
+blessed-integration branch,4064
+suggested improvement,4065
+help welcomed (pr),4066
+py2,4067
+py3,4068
+paper cut,4069
+request for comment,4070
+os-specific,4071
+topic-model,4072
+help wanted: windows,4073
+rosserial,4074
+popups,4075
+platform: sensor.ios,4076
+ux/ui,7782
+nbconvert,4077
+realtime (moved to inasafe-realtime),4078
+lectures,4079
+fixed - needs revision/tests,4080
+deploy,4081
+aws,4082
+priorität hoch,6493
+new implementation,4084
+area: commands,4085
+time zones,4086
+64-bit,4087
+g - emergency management team,4088
+kind/writing,4089
+harmonization,4090
+prio-urgent,4091
+tech story,4092
+component: kombu,4093
+conversion-to-github,4094
+snapshot,4095
+bug in dependencies,4096
+gh review: needs revision,4097
+good programmer task,4098
+requires api change,4099
+1.0.5,4100
+1.0.6,4101
+1.0.7,4102
+1.0.0,4103
+rc 1,4104
+extension - trade,4105
+rc 2,4106
+parked,4107
+needs-review,4108
+#develop,4109
+provider/kubernetes,4110
+editing,6496
+phonefy,4112
+component: reversion,4113
+component-watcher,7937
+platform: switch.neato,4115
+new functionality,4116
+.signal,4117
+wont fix,4118
+complexity-high,4119
+platform: switch.thinkingcleaner,4120
+io.fits,4121
+1.0.x,4123
+probably,4124
+platform: media_player.webostv,4125
+tbc,4126
+procedures,4127
+area:infrastructure,4128
+expansions,4130
+hotfixed,4131
+grav,4132
+area/ui-ux,2963
+pr: needs design/architecting input,4134
+quantaxis documents,5679
+type: code improvements / refactor,4135
+mep15,4136
+scipy.constants,4137
+gnip-approved,4138
+vamdc,4139
+docker-py,4140
+sample content,4141
+maybe-fixed,4142
+astropy-helpers,4143
+mailfy,4144
+freeze,4145
+legacy,4146
+engineering review,4147
+reverse-engineering,4149
+stats,4150
+dependency-issue,4151
+k-code-example,4152
+lua,4153
+copywriting,4154
+platform: device_tracker.automatic,4155
+sʍopuıʍ,4156
+platform: zwave.util,4157
+classification:enhancement request,6506
+not this product,5020
+newplugin,4160
+project: auto approval,4161
+lib/engine,4162
+sql-support,4163
+s0:plan,4164
+awaiting reply,4165
+2017webfix,4166
+kep,4167
+not currently feasible,4168
+admin,4169
+badges.mozilla.org,4170
+无效,4171
+rois,4172
+behaviour,7678
+c:watchers,4175
+priority-high,4176
+cat: documentation,5022
+tidying & optimisation,6466
+will not add,4178
+.io.datamark,4179
+hof 2014,4180
+waiting for oss,4181
+t-lang,4182
+important-discussion,4183
+feature/config,4184
+prio:normal,4185
+tech:css,4186
+tech-debt,4187
+maintainer approved,4188
+kind: question,4189
+release process,4190
+effort low,4191
+platform: sensor.modem_callerid,4192
+kind - feature,4193
+platform: notify.webostv,7953
+plugins/connection/local,4195
+component: redis results backend,5024
+olebrowse,4197
+platform: automation.event,4198
+releasing,4199
+controller,4200
+area: letshelp,4201
+io.ascii,4202
+about clibui,4203
+needs rebase or merge,4204
+harder,4205
+pypln-backend,4206
+area: manual authenticator,4207
+fixed in dev,4208
+requirejs,4209
+severity: priority,4210
+race condition,4211
+demo,4212
+neuron,4213
+platform: media_player.snapcast,4214
+collector: nagiosperfdata,4215
+blocks_release,4216
+platform: sensor.dovado,4217
+.geodetics,4218
+platform: light.homematic,4219
+almost complete,4220
+fix-implemented,4221
+2.0-no,4222
+returners,4223
+type_task,4224
+default changes,4226
+need patch,4227
+difficulty novice,4228
+suggestion/ idea,4229
+needs design doc,4230
+http,4231
+merged without review,4232
+component: uranium,4233
+postprocessors,4234
+semver-major,4235
+extension wishlist,4236
+component-networking,4237
+linuximages.de,4238
+solver-bug,4239
+platform: sensor.netdata,4240
+priority:normal,4241
+restore,4242
+etcd/fleet,4243
+waiting on merge,4244
+mistaken,4245
+pr: lgtm,4246
+gnip,4248
+gui/wx,4249
+all platforms,4250
+layer - oxt,4251
+type:build/install,4252
+patch wanted,4253
+skill: accessibility,4254
+fast track,4255
+bugsnag,4256
+wfirst,4257
+monthly call,4258
+tag:conda-env,4259
+talkeditor,4260
+issue-question,4261
+community:help wanted,4262
+platform: switch.amcrest,4263
+provider/vagrant,4264
+已修复/解决,4265
+hypervisor-xenpvm,4266
+component:commandline,4267
+tarefas gerais,4268
+1 - contender,4269
+necessary,4270
+new-platform,4271
+status-accepted,4272
+mediumsize,4273
+instapy_v1,4274
+dictionaries,4275
+jira: resolved,7907
+pending: nightly,4276
+xsd,4277
+[docs] bug,4278
+s3sync,4279
+b-blocker!,4280
+xsl,4281
+api: spanner,4282
+service checks,4283
+type/performance,4284
+library,4285
+needed: more information,4286
+backend/pgf,4287
+core/docker,4288
+home,4289
+master/slave,4290
+platform: light.avion,4291
+status: cla needed,4292
+waiting for upstream fix,4293
+web of trust,7096
+opsys-netbsd,4294
+servertool,4295
+btsync-common,4296
+spec required,4297
+file servers,4298
+s: minor,4299
+quality-assurance,4300
+f: flood-resiliency,4301
+kind - security,4302
+triage: still a problem?,4303
+java,7968
+topic - upgrade,4305
+pep8 only,4306
+04 type: enhancement,4307
+privilege-escalation,4308
+milestone:0.10.11,4309
+plugins/connection/docker,4310
+topic:policy,4311
+cli-usability,7973
+scipy.linalg,4313
+pr approved,4315
+c:inventory/contrib_script,4316
+cantherm,4317
+cocoa,4318
+networking,4319
+✔✔,4320
+prio:1-low,4321
+setup backup account,4322
+prio-1-critical,4323
+big idea,4324
+help to test,4325
+css question,4326
+works for me,4327
+hilfe benötigt,4328
+1.3.1,4329
+auto migrated,4330
+gaia,4331
+task: tech update,4332
+vars/hostvars,4333
+breakthrough,4334
+needs-clarification,4335
+user-feedback-wanted,4336
+dmi,4337
+platform: alarm_control_panel.simplisafe,4338
+plugin: junitxml,4339
+component: menus,4340
+dms,4341
+component: rflink,4342
+sprint-2015,4344
+issue-bug,4345
+todo: triage,4346
+url-parsing,4347
+rgsoc,4348
+needs more work,4349
+datapusher,4350
+evalf,4351
+education,4352
+dco/yes,4353
+component: mqtt,4354
+collector: diskusage,4355
+f: notification,4356
+s:invalid:unsupported software,4357
+suggested contributions,1061
+functional review,4359
+cat: security,4360
+fixed in next update,7982
+needs-test,4363
+component: couchdb results backend,4364
+add test,4365
+kubernetes,4366
+platform: binary_sensor.homematic,4367
+topic: sec core consensus,4368
+talk-to: @pranavsid98,4369
+packaging: opensuse,4370
+wamp,4371
+platform: media_player.nad7050,4372
+platform: sensor.lastfm,4373
+sphinx,4374
+format-pqr,4375
+c:playbook/loop_control,4376
+collecting feedback,4377
+blogs,4378
+component: documentation,4379
+platform: calendar.outlook,4380
+status:blocked,4381
+enhancement-for-cca-tool,4382
+taskqueue,4383
+needs refactor or redesign,3574
+component: operations,4385
+area/newsettings,4386
+operating system : linux,3
+monthly sprint,5051
+code enhancement,4388
+coming soon,4389
+platform: sensor.imap_email_content,4390
+area: export,4391
+needs patch,4392
+waiting-feedback,4393
+action required,4394
+area: renewal,4395
+platform: light.insteon_local,6541
+multi-master,4397
+企业号,4398
+component: ato,4399
+downstream,4400
+platform: lock.zwave,7992
+platform: sensor.openhardwaremonitor,4402
+feature_idea,4403
+cli client,4404
+cannot_replicate,4405
+updater,4406
+collector: port,4407
+c: file uploader,127
+web-service,130
+platform: light.tplink,4410
+new expression,4411
+solution,4412
+vendored dependency,4413
+vector,4414
+orcid,4415
+enhance,191
+can't see,4417
+priority.low,4418
+v - pro 2.0,4419
+ooni-spec,4420
+docker-integration,214
+decision wanted,4422
+fix inbound,4423
+#slack,4424
+implemented,4425
+pythonic,4426
+preferences,265
+hazy,4429
+needs pr,8696
+tests-client,285
+patchwelcome,4431
+net,4432
+dependency change,4433
+console_view,3664
+status:declined,4435
+repository-tools,4436
+area: certbot-auto,317
+waiting for input,4438
+active,4439
+status-started,4440
+platform: cover.rflink,4441
+impact function,380
+drm,4443
+type: bug?,4444
+prio-lowest,4445
+platform: binary_sensor.spc,4446
+a-audio,417
+protocol changes,4448
+兼容性,4449
+unfixed,4450
+starter_task,469
+db schema change,4453
+< 2.0,4454
+db schema change (requires migration),4455
+check for update,4456
+coarse graining,4457
+x: adopterrequest,4458
+component: pyart.aux_io,517
+mpv related,4461
+wart,4462
+design-needed,4463
+salt-api,4464
+scope: permissions,4465
+bytes-unicode,4466
+stuck-invite,4467
+type.enhancement,4468
+pr (possibly) inbound,4469
+collector: nginx,4470
+room,4471
+c-graph,4472
+interposition,571
+revisit later,4474
+pending discussion,4475
+main feature,4476
+v1.9.1,4477
+v1.9.2,4478
+requires reporter clarification,4479
+need contributor!,4480
+sprint-idea,3015
+needs: api,4482
+component:file explorer,4483
+platform: light.wink,4484
+module_util,4485
+framework-bug,4486
+workinprogress,2364
+needs api,4488
+involves wx,4489
+initiatives/gci,4490
+component: spc,4491
+idaes related,4492
+fix in dev,4493
+area/datatype-framework,4494
+platform: switch.xiaomi,6751
+severity:4-low,4495
+component: infrastructure,4496
+config,4497
+component: http,4498
+size-s,4499
+timedelta,4500
+platform: sensor.lyft,4501
+status: demo requested,4502
+format-tng,4503
+platform-rpi,4504
+router,4505
+size-m,4506
+service bus,4507
+0.7.x,783
+platform: climate.knx,4509
+backend/cairo,4510
+2 - current sprint,4511
+topic: javascript,4512
+operations,4513
+fife,4514
+data-request,4515
+devside,4516
+collab2,4517
+responsive,864
+component: debugging,4519
+component-storage,875
+10.0,4521
+has-f5-sdk,4522
+semver:minor,4523
+feature-idea,4524
+please-review,4525
+btsync-gui,4526
+type:task,898
+semver:patch,4528
+awaiting-upstream,907
+transporter:s3,4531
+fix available,4532
+needs your support! (@ivanov is stumped),4533
+update system,4534
+to do,4535
+clienttool,4536
+stable/2.10.x,4537
+launchpad-bug,4538
+needs:work,4539
+adobework,6565
+technical-debt,953
+status: review requested,6566
+singularity,4543
+needs-info,4544
+c: install scripts,4545
+15hr,4546
+meal,4547
+medium code change,4548
+area/framework,4549
+qa: extra,4550
+gui/qt,4551
+mergeconflicts,4552
+example scripts,4553
+packaging/windowsmsi,4554
+io.votable,4555
+xep-implementation,4556
+design-discussion,1090
+content,4558
+wontdo,4559
+idea discussion,8302
+feature:new,4562
+platform: cloud.http_api,4563
+pycsw,4564
+component/ci-infrastructure,4565
+openfoam installation issues,4566
+status/3-needs-docs-review,4567
+new bip,4568
+move-to-forums,4569
+logging,4570
+category: handler,4571
+plugin ideas,1202
+projects module,4573
+elasticache,4574
+features,4575
+dex parser,1230
+rfc/standards compliance,4577
+component: mqtt_eventstream,8020
+work: front-end,4579
+hook,4580
+s3filters,4581
+area/install-upgrade,4582
+c:b:ipython,4583
+help wanted: linux,4584
+provider/digitalocean,4585
+run(),4586
+(working-on-it-jq),4587
+twisted,4588
+look and feel,4589
+new_plugin,4590
+zeros,4591
+unresolved issues,4592
+pyzor server,4593
+future feature,4594
+area/calico-node,4595
+zreleased - 2015.8.11,4596
+zreleased - 2015.8.12,4597
+solvers.solveset,4598
+good for contribution,4599
+platform: camera.generic,4600
+reso:wontfix,4601
+distance,4602
+area/testing,1385
+topic-typing,1386
+cmd: mount,1396
+priority.high,4606
+tag: documentation,4607
+cartopy experience needed: low,4608
+architecturalchange,4609
+plugin enhancement,4610
+integrations: flask,4611
+res/wontfix,4612
+has-pr,4613
+needs user feedback,4614
+topic - vcs,4615
+tag.plugins,3700
+geometric flow,4617
+c:inventory/group,4618
+needs: improvement,4619
+story point,4620
+httputil,4621
+area: spec-compliance,4622
+chapterrequest,2186
+doc needed,1539
+ready for copy-edit,4625
+area/visualizations,4626
+masher,4627
+s:invalid:error in environment,4628
+platform: sensor.neurio_energy,4629
+observation,4630
+doc,4631
+close with response,4632
+m,4633
+definitely,4634
+dos,4635
+consumer,4636
+area: acme,4637
+syntax,4638
+2 - working,4639
+topic - configuration,4640
+internet explorer,1806
+zbackport 2.7.0,8290
+new-contributor-friendly,4642
+paginator,4643
+tag.deadlocks,4644
+cross-platform,4645
+celery,1721
+status:wont fix,4647
+.io.sac,4648
+able to reproduce,4649
+kokoro:run,8035
+scrubbing,4651
+invalid-send-questions-to-discussion-group,4652
+code-quality-cleanup,4653
+skill: css,4654
+bountysource,1769
+chome-ext,4656
+dependency: pyqt,4657
+platform:win64,4658
+kill now,4659
+c:playbook/conditional,4660
+build/doc/tests,4661
+a-editor,8756
+component: logbook,4662
+bag,4663
+bug (to verify),1834
+architecture,4665
+status-dont-merge,4666
+22 status: in-progress,4667
+pull request welcome,4668
+issue in a dependency,4669
+ebgeo,4670
+reference,4671
+testing,4672
+content/misleading,4673
+auto - migrated from develop,4674
+platform: light.lifx_legacy,3951
+area/performance,4675
+service monitoring component,4676
+reproducible:not applicable,4677
+small to do,4678
+level-docs,4679
+invalid guess result,4680
+mplot3d,4681
+tagged for review and potential merge,4682
+talk-to: @wxyxinyu,4683
+might already be fixed?,4684
+c:plugins/test,4685
+p1:plugin,1998
+numkit,4687
+pycon2017 sprint,4688
+topic-sql,4689
+stat:community support,2010
+fnv,4691
+artin,1728
+feature/suggestions,5109
+requires-model-update,4693
+category: new collector,4694
+mightdo,4695
+component: releases,4696
+platform: android,4697
+0: easy,4698
+pie in the sky,2094
+hygiene,4700
+bug/in-production,4701
+external-regression,2102
+django-1.4,4703
+django-1.3,4704
+priority-2-low,4705
+platform: notify.lametric,4706
+invalid (environment or otherwise not a gevent issue),4707
+tiny,4708
+django-project,4709
+css/sass,4710
+needs: tests,4711
+gui/nbagg,4712
+website,4713
+documentation addition,4715
+ge2017,4716
+dev environment,4717
+format-dcd,4718
+component: tdk,4719
+waiting-on-author,4720
+tests coverage,4721
+exception,4722
+backport-required,4723
+documentation item,4724
+new module,4725
+component: media_helper,4726
+needs_more_info,5671
+setuptools,4727
+talk-to: @allanyangzhou,4728
+platform: http.ban,8056
+broken mcb,4730
+theme:ux,2285
+sanitizer,4732
+platform: media_player.kodi,4733
+il,4734
+io,4735
+ia,4736
+3rd party only,4737
+ie,4738
+waits-feedback,4739
+awaiting another merge,6599
+os - linux,4741
+nice-to-have,4742
+old version,4743
+importance-enhancement,2369
+e:python-3,4745
+tests/ci,4746
+needs-discussion,4747
+platform: binary_sensor.verisure,4748
+plugins/cache,4749
+5.3.2,4750
+component:logic,4751
+5.3.0,4752
+needs_shippable,4753
+platform: notify.pushover,8060
+prio:medium,4755
+type-other,4756
+wormsim,4757
+format-amber,4758
+work-around-available,6604
+protocol,4760
+op2,4761
+2.0.5,6605
+assigned,2488
+proxy minion,4764
+ready to merge/rebase,4765
+plugins/callback,4766
+gui/webagg,4767
+discussion required,4768
+bug (verified),4769
+need information,4770
+kind: bug,2540
+platform: sensor.wunderground,4772
+wont-fix-myself,4773
+scikit-learn integration,4774
+platform: binary_sensor.raspihats,4775
+status: help wanted,4776
+ops,4777
+opsys-solaris,4778
+bug-regression,4779
+size/s,4780
+status/1-inprogress,2599
+size/m,4782
+functional_tests,2606
+background,4784
+mixed-content-bug,4785
+vanity,4786
+nwchem,4787
+new development,4788
+manual,4789
+platform: remote.harmony,4790
+platform: sensor.verisure,4791
+component: email,4792
+status: has testcase,4793
+centos,4794
+tag: webgl,4795
+intern,4796
+ready-for-review,4797
+component: eventlet workers pool,4798
+platform: alarm_control_panel.totalconnect,4799
+hypervisor-lxc,4800
+grading,4801
+waiting for update,4802
+tracker,4803
+pyflakes/pep8,4804
+slurm adaptor,4805
+medium priority,4806
+waiting for confirmation of fix,4807
+information-gathering,4808
+super,4809
+r-duplicate,4810
+wip-testing,3478
+postgresql,4812
+fix (needs verification),4813
+shell file adaptor,4814
+user-story,4815
+f: integration,4816
+azure,4817
+skill: javascript,4818
+i - asclepias,4819
+:telemetry,4820
+memento-ish,4821
+slurm,4822
+parsing,4823
+carving,4824
+armada,4825
+component: google,4826
+comp-regression,4827
+annoyance,4828
+needs a pr,4829
+component: accessibility,4830
+platform: lock.lockitron,4831
+question/discussion,2967
+editor,4833
+cldr,4834
+httpclient,4835
+improvement/feature,4836
+code-cleanup,4837
+req-from-dev,4838
+platform: light.philipslight,4839
+cant-reproduce,4840
+maintainer input requested,4841
+#telegram,4842
+bugfix,4843
+cross platform,4845
+work-in-progress,4846
+benchmarks,4847
+db-mysql,4848
+c:plugins/connection/paramiko_ssh,8725
+opsys-windows,4849
+starter-project,3079
+delete,4851
+federation-meltdown,4852
+needs design review,8073
+unicode bollocks,4854
+sticky,4855
+project: e10s,4856
+floating,4857
+complexity:medium,3142
+needs details,4859
+low-priority,4860
+appveyor,4861
+external library,4862
+domain: python-client,4863
+tag: building/installing,4864
+qibuild,4865
+collector: elb,3214
+needs volunteer,4867
+to consider,4868
+stat:contributions welcome,4869
+ready for review,4870
+component-scripts,4871
+difficulty advanced,4872
+in discussion,4873
+code health,4874
+potential-bug,3276
+server setup,4876
+platform: binary_sensor.zwave,4877
+review-pending,5150
+owner_pr,3298
+gutter icon,4880
+pass on,4881
+c-search,4882
+out of scope,4883
+domains:cpp,4884
+themes,4885
+manager,4886
+informix,4887
+needed by: rackspace intelligence,4888
+playbook/become,4889
+status.sticky,4890
+platform: sensor.yahoo_finance,4891
+pyric,4892
+answered,4893
+priority-medium,4894
+wontfix-for-now,382
+s:wontfix,4896
+component: envisalink,4897
+tronweb,4899
+backport-0.6.1,4900
+matrices.expressions,4901
+nxos,4902
+platform: scene.hunterdouglas_powerview,4903
+type: feature-branch,4904
+ghostscript,4905
+c-d3-vis,4906
+platform: switch.dlink,4907
+proposals,4908
+diseño,4909
+in master,3466
+c:cli/doc,3469
+focus - extensions,4912
+diy,4913
+plugins/connection/ssh,4914
+component: shiftr,4915
+component: places,3510
+playbook/conditional,6636
+e-less easy,3515
+component: hassio,4919
+firmware-softcpu,4920
+status:confirmed,4921
+mygpo,4922
+platform: telegram_bot.telegram_webhooks,4923
+user's request,3580
+pr: pending merge,4925
+t-task,4926
+integrals.risch,4927
+topic: reporting,4928
+importance/medium,8085
+state: wontfix,4929
+skill: python,4930
+task execution,4931
+platform: notify.ios,4932
+platform: binary_sensor.mystrom,4933
+nvda gui,4934
+cosmosim,4935
+platform: image_processing.seven_segments,4936
+can'tfix,4937
+suggestion,4938
+clerical error,4939
+difficulty-easy,4940
+comp-discrete,4941
+email (mailman),6643
+windows only,4943
+exchange's fault?,4944
+latent worker,4945
+status: waiting for author,4946
+radiance,4947
+wintest,4948
+lvl:minor,3739
+playbook/role_include,4950
+feature idea,4951
+component: opencv,4952
+platform: vacuum.roomba,7548
+perf,4953
+good to land (with minor changes),3778
+thermal treatment,4955
+bugfix - [done] back-ported,4956
+you take it,4957
+swagger,4958
+review?,4959
+repos,4960
+python,1797
+sns,4997
+component: api,4961
+net_tools,4962
+type-test,4963
+kind/bug,4964
+component: app,1776
+autodoc,4966
+utils/path,680
+next-release,4967
+slicingengine,3865
+status-new,4969
+format/v3,4970
+format/v2,4971
+needs backport,4972
+mergable,4973
+mongo,4974
+refactor efforts,4975
+platform: notify.rest,4976
+plugin: tifffile,4977
+x: aslbrescia,3953
+regularization,4979
+component: tellduslive,4980
+plugin issue,4981
+maintaining-access,4982
+4review,4983
+type:support,4984
+bug_cant_reproduce,4985
+api-framework,4986
+inputs,4007
+plugin: new,4988
+type: enhancement,4990
+status:open,4991
+platform: light.wemo,4992
+serviceworker,4993
+open-roadmap,4994
+needs validation,4025
+mac,4996
+no response / inactive,1194
+mag,4998
+waiting_for_dependencies,4999
+man,5000
+closed: by design,5001
+area/aspects,5002
+tech debt,5003
+facile,5004
+maybe,5005
+production incident,5006
+ipython issue,5007
+jira: done,5008
+zbackport 2.5.6,6653
+zbackport 2.5.4,6655
+talk,5012
+vagrant,5243
+feedback-required,5014
+zbackport 2.5.3,6658
+stability,5016
+contrib: mentor assigned,5017
+ci / testing,5018
+apidoc,5019
+platform: media_player.yamaha_musiccast,1775
+monitor,5021
+on-branch-merges,4177
+kitchen count,5023
+awaiting response,4196
+policy,5025
+mail,5026
+type/feature,5027
+could-not-reproduce :-),5028
+views,5029
+windows specific,5030
+genus2,5031
+priority - showstopper,5032
+news item,5033
+waiting on doc,5034
+need-feedback,5035
+task: style guide,5036
+fixme,5037
+limited to: ide,5038
+great for new contributors,5039
+needed by: cloud backup,5040
+crypto,5041
+tag:ui,5042
+x11,5044
+suggested for volunteers,5045
+platform-bsd,5046
+invalid-report,5047
+configuration-issue,5048
+任务,5049
+dco/no,5050
+c-spreadsheet,1357
+component/server,5052
+area:docs,5053
+a-pending-review,5054
+elastic-doc-manager,5055
+os:windows,5056
+c:template/safe_eval,8111
+need more information,5058
+type:defect,5059
+decorators,5060
+nomerge,5061
+git-development,5062
+monster,5063
+spec-blocker,5064
+telecon agenda & minutes,5065
+area: refactoring,5066
+bug:minor,5067
+drasan,5068
+☛ needs more info,5069
+macos,5070
+language,5071
+os windows,5072
+platform: media_player.plex,5073
+cla not signed,5074
+target: webgui,5075
+p3: next sprint,5076
+first,5077
+component/security,5184
+to be discussed,5079
+collector: hbase,5080
+trivial effort level,5185
+please review,5082
+documentation: feeds,5083
+needs backport to 1.0.x,5084
+packaging/debian,5085
+sincedb,5086
+executor/module_common,5087
+outdated docs,5088
+c-parameter exploration,5089
+workaround,5090
+s3mimetype,5091
+cat iii,5092
+package intermediate,5093
+- upstream bugs -,6675
+storage media,5095
+opsys-openbsd,5096
+platform: sensor.cert_expiry,5097
+possible-duplicated,5098
+good for beginner,5099
+difficulty/very-high,5100
+has testcase,5101
+textdocument,5102
+tool: polystrips,5103
+s-awaiting-review,2334
+type-enh,5105
+component: toon,8120
+os: packaging,5108
+kind/epic,4692
+zsh,5110
+a-scenarios,5111
+changes_required,5112
+topics,5113
+bug-warning,5114
+lower layer issue,5189
+dask,5116
+cannotfix,5117
+cat: performance,5118
+mechanize,5119
+needs improvement,5120
+resolution: duplicate,5121
+n - distance to assets,5122
+x: oetker,5123
+potential,5124
+performance,5125
+good to land (if tests pass),5126
+area: settings (user),5127
+platform: switch.insteon_plm,5128
+sublime issue,5129
+platform: light.blinksticklight,5130
+a: won't fix,5131
+priority : critical,5132
+normal,5133
+confirmed bug,5134
+tallies,5135
+paie,5136
+plumbing,6683
+beta,5138
+{breaking},868
+proxies,5140
+multiple reports,5141
+old versions support,5142
+0 - backlog,5143
+device: c++ standalone,5144
+bug reproduced,5145
+waiting on testeng,5146
+minor-bug,5147
+release target,5148
+file format/address space,5149
+master tracker,4878
+plat: chrome,5151
+prio:3-serious,5152
+platform: sensor.eddystone_temperature,5153
+ajax scheduler,5154
+domain: deploy/install,5155
+api: runtime config,6686
+component: modelfitting,5157
+type/breaking-change,5158
+build system,5159
+c-upgrades,5160
+level:easy,5161
+maintainer action required,5162
+status/feedback-pending,5163
+info-required,5164
+os: os x (mac os),5165
+io excel,5166
+component: recorder,5167
+salt-ssh,5168
+sprout,6689
+content provider,5170
+for mike,5171
+area/filters,5172
+priority : low,5173
+gen,5174
+new feature,5175
+component: entities,5176
+component:images,5177
+11 prio: blocker,5178
+web  module,5179
+area: debian / ubuntu,5180
+w1flag,5181
+section: data explorer,5182
+nearly-done,5183
+wiki,5078
+kernel,5081
+plugins/strategy,5186
+platform: zha.const,5187
+biggie,5188
+platform: notify.prowl,5115
+calendar,5190
+top priority,5191
+sge adaptor,5192
+vfolders,5193
+build issue,5194
+affects-release,5195
+no_plans_to_fix,5196
+component-metad,5197
+status: easy,5198
+x-platform,5199
+mod: filesystem,5200
+checks,5201
+type.bug,5202
+3rd party binaries,5203
+infrastructure,5204
+merge-ready,5205
+bridgeclient,5206
+platform: sensor.usps,5207
+js,5208
+needs release notes,5209
+needs: testing,5210
+post-v1.0,5211
+a-help wanted,5212
+pr: needs updates,5213
+pull: needs review,6011
+component: disco pane,5215
+v3.2.1,5216
+waiting_for_feedback,5217
+component: splunk,5218
+status/on-hold,6463
+run management command,5219
+platform: sensor.dublin_bus_transport,5220
+type: request,5221
+unittest,5222
+cla,6696
+develop-branch,5224
+ui / ux,5225
+browsers,5443
+bug / urgent,5226
+spark,5227
+difficulty: high,8140
+considering,5229
+zbackport 2.4.9,5230
+zbackport 2.4.8,5231
+tuning,5232
+platform: cover.knx,3922
+encryption,5234
+zbackport 2.4.1,5235
+zbackport 2.4.7,5236
+zbackport 2.4.4,5237
+workshop,5238
+platform: sensor.android_ip_webcam,5239
+platform: switch.rfxtrx,5240
+judging,5241
+12.1.0,5242
+platform: binary_sensor.rpi_pfio,5244
+component: gossip,5245
+new_inventory,5246
+epic: me-models,5247
+medium decision,5248
+qsd,5249
+c:parsing/yaml/,5250
+reproducable,5251
+platform: sensor.upnp,5252
+i18n,5253
+hardcore,5254
+component: dweet,5255
+pyxswf,5256
+profiles,5257
+reproducible:yes,5258
+compile,5259
+ongoing,5260
+investigating,5261
+component: tado_v1,3808
+platform: media_player.directv,5263
+type: duplicate,5264
+priority/p0,5265
+priority/p1,5266
+priority/p2,5267
+priority/p3,5268
+primitives,5269
+qa passed,5214
+wordnet,5271
+httpserver,5272
+plugin request,5273
+l10n,5274
+topic-predict,5275
+configurable,5276
+pr pending,5104
+from-redmine,5278
+speech,5279
+x: transparencyit,5280
+peps,5281
+samp,5282
+playbook/base,5283
+component-lib,5284
+third-party,5285
+qt: 5.11,5286
+resolved.invalid,3811
+goals: improve developer workflow,5288
+grooming,5289
+cli issue - can't fix,5290
+needs spec,5291
+discussion needed,5292
+markup,5293
+glue.app,5294
+pep8,5295
+zreleased - 2016.3.3,3813
+area: compose,4361
+outdoor,5298
+platform: vacuum.xiaomi,5299
+0.security,5300
+money,5301
+cla-signed,5302
+works as expected,5303
+release milestones,5930
+api-extension,5304
+priority:high,5305
+migration,8443
+api: dns,5306
+source:ent,5307
+component: doorbird,5308
+bug: behavior,5309
+easy-fix,5310
+nonissue,5311
+bad parse,5312
+status:needs info,5313
+c:b:shell,5314
+topic: objective-c,5315
+component: updater,5316
+platform: scene.velux,5317
+platform: weather.metoffice,5318
+server cli,892
+first-timers-only,5320
+severity: minor,5321
+moc,5322
+wrong branch,5323
+dev/demo,5324
+needinfo,5325
+scructural change,5326
+resolution: wontfix,5327
+large scale,5328
+usersearchcontroller,5329
+platform: lock.verisure,5330
+server,5331
+qnap,5332
+pending acceptance,5333
+needsinfo,5334
+requires-real-data,5335
+status: deferred,5336
+tstl,5337
+ui/ux,5338
+area/lintbears,5339
+release: next minor,4148
+i1:important,5341
+area: documentation,5342
+images,5343
+matching,3356
+waiting on pr,5345
+waiting for comments,5346
+platform: opencv_classifiers.lbpcascade_frontalface.xml,5347
+no-compat,5348
+critical,5349
+pr in other project,5350
+mongodb,3826
+moderate,5352
+non-editable vcs/url,5353
+theorycraft,5354
+stale_review,5355
+2–5 stars,5356
+area:runtime,5357
+broker,5358
+feature:infrastructure,5359
+app specific: microsoft visual studio,5360
+broken,5361
+requested-by-users,5362
+stanford api,5363
+topic: installation,5364
+info needed,5365
+zbackport 2.4.3,5233
+app:cms,5367
+pending merge,5368
+cherry-picked,5369
+platform: media_player.vizio,5370
+area: plots,5371
+urwid,5372
+i - cfa,8159
+fixed (in a branch),5374
+references,5376
+subject:api,5377
+platform: switch.command_line,5378
+logs,5379
+meta issue,5380
+deprecations,5381
+platform: device_tracker.volvooncall,5382
+maass,5383
+cherrypy code,5384
+release: blocker,4989
+domain: server,5386
+ipv6,5387
+priority-critical,5388
+type: backward compatibility,5389
+priority high,5390
+topic-protocols,5391
+apis,5392
+lib/nodeset,5393
+merge requested,5394
+skyrim-se,5395
+bug: segfault/crash/hang,5396
+btsync-user,5397
+docathon,5398
+:docs,5399
+needs: feedback,5400
+nalanda,5401
+tests: not required,5402
+type/maintenance,5403
+playlists,5404
+support:core,5405
+condor adaptor,5406
+status: on going,5407
+component: plot,5408
+file,5409
+component: state updates,5410
+✈ st3,5411
+thermo,5412
+mod: google,5413
+drivers,5414
+platform: camera.abode,5415
+field,5416
+testing-travisci-multinoderequirement,5417
+cleanup,5418
+component: cache results backend,5419
+suitable for newcomers,5420
+scathing diatribe,5421
+critical bug,6423
+more info needed,5423
+notation/conventions,5424
+type:feature,5425
+medium-difficulty,5426
+restapi,5427
+geoserver-integration,5428
+important,5429
+status/1-design-review,5430
+.clients.iris,5431
+platform: sensor.sma,5432
+cmfd,5433
+legal,7533
+needs-reproduction,5434
+assets,5435
+cla-already-signed,5436
+rebase-required,5437
+incubating,5438
+status/needs rebase,5439
+to-review,5440
+selinux,5441
+type.maintainance,5442
+yet an idea,6569
+expressions,5444
+waiting_feedback,5445
+component: memcached results backend,5446
+duplicated,5447
+modernization,5448
+type-defect,8181
+c: 3,5450
+c: 2,5451
+c: 1,5452
+parsing/mod_args,5453
+premium,5454
+straightforward,5455
+translations,5456
+needs revisions,5457
+pending-fixes,5458
+domain-specific,5459
+重点关注,5460
+issue type: bug,5461
+to-be-fixed,6975
+5 - done,5464
+friendliness/intermediate,5465
+format-pdb,5466
+closed: not reproducible,5467
+terrain gen,5468
+t4:general,5469
+concretization,5470
+grasshopper,5471
+plugins,5472
+api improvement,5473
+c-gui,5474
+api change,5475
+priority-low,5476
+breaking change,5477
+port backwards,8186
+needed by: onmetal,5479
+type:enhancement,5480
+include_role,5481
+vala,5482
+component,5483
+status/claimed,5484
+area: notifications (messages),5485
+threads,5486
+platform: sensor.sytadin,5487
+cq2,5488
+r-wontfix,5489
+closed pr,5490
+exp/intermediate,5491
+publisher,5492
+area/cleanup,5493
+milestone-release0.76.1,5494
+release_discussion,5495
+component: ipc,5496
+kv-lang,5497
+fixed-in-3.0,5498
+storefront,5499
+component: sun,5500
+team platform,5501
+esasky,5502
+needs-rework,5503
+cmd: debug,5504
+aria,5505
+debugger,5506
+jnipap,5507
+blocked/user-response,5508
+transit,5509
+platform: sensor.vera,5511
+wontfix,5512
+subject:swarming,5513
+please: more details,5514
+fixed: upstream,5515
+component: amazon sqs broker,5516
+needs_ci,5517
+aperture,5518
+platform: media_player.roku,5519
+scope: mapentity,5521
+mozilla,5523
+platform: sensor.google_wifi,5524
+state: do not merge,5525
+user-accounts-profiles,5526
+feedback wanted,5527
+new_contributor,5528
+bikeshedding,5529
+speedups,6735
+known_hosts,5531
+up for grabs,5532
+kubernetes-v1.2.0,5533
+api v3,5534
+recall,5535
+backwards-incompatible,5536
+des,5537
+dev,5538
+needs: more information,5539
+component-completion,5540
+deb,5541
+component: neato,5542
+feature proposal,5543
+macos x,8195
+multiindex,5545
+topic: fixtures,5546
+deprecation,3857
+area: emoji,5547
+comp-tools,5548
+ubuntu 14.04,5549
+f - capability,5550
+sphinx-ext,5551
+incubate,5270
+hackertoberfest,5553
+ack (ready for merge),5554
+component: performance,5555
+maps,5556
+need to read faq wiki,5557
+31 needs: help,5558
+csv,5559
+css,5560
+backend:ixxat,6740
+from-trello,5562
+mucho importancia,5563
+breaking api change,5564
+p-blocker,5565
+type: feature (minor),5566
+verified,5567
+spherical video,5568
+discussão,5569
+platform: sensor.envirophat,5570
+feature/enhancement,5571
+dirsnapshot,5572
+exp/novice,5573
+inventory/group,5574
+needs: review,5575
+v - arcmap,5576
+ralph2,5577
+dbtoyaml,3864
+filters,5580
+gh review: review-needed,8202
+status/wontfix/accepting patches,5581
+c:utils/path,5582
+reproducible:sometimes,5583
+kafka-monitor,5584
+add example,5585
+area: pip,5277
+waiting for info,5586
+plugin: ffmpeg,5587
+ds hierarchical geonames,5588
+pending reply,5589
+multi-group mode,5590
+need a patch,5010
+could not reproduce,5592
+next-minor-release,5593
+blocked/needs-investigation,5594
+status: needs community review,5522
+reso: invalid,5596
+opsys-linux,5597
+area:testenv-creation,5598
+contributions wanted,5599
+viewers,5600
+gsoc-candidate,5601
+from_trac,5602
+ready-to-merge,5603
+- bugs -,5605
+house,5606
+fish,5607
+hard,5608
+idea,5609
+resolution:completed,5610
+codalab 1.5,5611
+level-infrastructure,5612
+good-for-hackathon,5613
+portland,5614
+23 status: testing,5615
+tests passed,5616
+decision required,5617
+experimental-ui,5618
+major feature,5619
+cmd: recreate,5620
+backwards-compatible,5621
+component: knx,5622
+evaluation,5623
+c-examples,5624
+type: typo,5625
+unified-io,5626
+feature/worker,5627
+gdal,5628
+code cleanup,5629
+onsite,5630
+sdl2,5631
+itsafeature,5632
+unstyled widget,5633
+no action required,5634
+qt: 5.10,5287
+component: xiaomi,5636
+platform: binary_sensor.alarmdecoder,5637
+area:extension,5638
+s3bandwidth,5639
+component: standalone,5640
+platform: light.mysensors,5641
+advertisement,5642
+area/provisioning,5643
+nack,5644
+sdk-merge,5645
+asked to reparent,5646
+p-medium,5647
+cupy,5648
+prio-3-medium,5649
+done,5650
+status: needs rebase,5651
+state: in progress,5652
+prompt-toolkit,5653
+opsys-osx,5654
+platform: alarm_control_panel.manual_mqtt,5655
+missing-data,5656
+new_ui,5657
+atc_profile_storage,3726
+gwpy.plotter,5659
+13 prio: normal,5660
+component: input_text,5661
+mesa/wayland/xorg,5663
+kodi-lacks-support,5664
+za,5665
+platform: calendar.google,5666
+livestream,5667
+to-be-backported,5668
+in-resolution,5669
+b,5670
+type-task,7919
+#irc,5672
+level-software,5673
+goals: app code cleanup,5674
+status: testing,5676
+interactive,5677
+debugging,5678
+kind: enhancement,7974
+privilege list,5680
+f - suitability,5681
+component: wake_on_lan,5682
+priority/high,5683
+repo manager,5684
+dissem.in,5685
+orders,5686
+pylint issues,5687
+comp-survey,5688
+build,5689
+minwg / cygwin,5690
+failing-tests,7348
+consensus achieved,5691
+chart,5692
+cygwin,5693
+significant,5694
+services,5695
+scope/small,5696
+ke,5697
+uncomplicated,5297
+milestone-0.3.0,5698
+severity: critical,5699
+platform: sensor.season,5700
+type:build,5701
+milestone:later,5702
+topic: c++,5703
+complexity:easy,5704
+component:python console,5705
+platform: light.lutron_caseta,8231
+screenshots,5707
+needs help,5708
+best-practice,5709
+has corresponding issue,5710
+manual lgtm1,5711
+manual lgtm2,5712
+cannot reproduce,5713
+waiting,8234
+tim-api,5715
+platform: alarm_control_panel.verisure,5716
+experiment,5717
+generators,5718
+tim-app,5719
+8,5720
+merged,5721
+requires-separate-process,5723
+area:sayma,5724
+status: ready for review,5725
+transporter:cloudfiles,5726
+feature / enhancement,5727
+severity:3-moderate,8237
+merge?,5730
+topic: php,5731
+remove,5732
+common,5733
+p: critical,5734
+not a blocker,5735
+please: repro steps,5736
+platform: device_tracker.asuswrt,5737
+orca,5738
+bugimporters,5739
+k8s-deployment,5740
+wrong results,5741
+api-breakage,5742
+user-interface,5743
+opinions-sought,5744
+status: complete,8242
+doc-fix,5746
+expert,5747
+prio: high,5748
+area: policy,5749
+readme,5750
+deps-update,5751
+component-master,5752
+status: wip,5753
+component:provider,5754
+usage question,5755
+sprint_13,5756
+sprint_14,5757
+c:playbook/handler*,5758
+platform: switch.demo,5759
+area:reporting,5760
+ipython,5761
+floats,5762
+severity - minor,5763
+c-pipeline,5764
+cli/adhoc,5765
+changed remote api,5766
+pending closure,5767
+palette issue,5768
+not-enough-information,5769
+★ new feature,5770
+platform: switch.orvibo,5771
+component:ipython console,5772
+已知问题～囧～,5921
+ng-extension,5773
+worksforme,5774
+simple,5775
+should-backport,5776
+component: nest,5777
+topic - constraint,5778
+area/run,5779
+zeta,5780
+component: intent_script,5781
+backend,5782
+tag:environment-spec,5783
+area: documentation (production),5784
+socis,6771
+secret,5786
+triage,8248
+area/events,5788
+jpype,5789
+f - patterns,5790
+smart_contract,5791
+source_interface,5792
+ecosystem,6503
+pull request opened,5793
+platform: light.sensehat,5794
+review carefully!,5795
+tests_blocker,5796
+grains,5797
+raw,6773
+v2-format,5799
+deferred,5800
+sprint_candidate,41
+replaced,5802
+component-tests,5803
+plugins/vars,5804
+blocked: feedback needed,5806
+pr-in-progress,5807
+social widget,5808
+impacts-newton,5809
+impact: medium,5810
+comp-doc,5811
+comp-compositional,5812
+internal qa,5813
+platform: tts.marytts,5814
+blocked: discussion needed,5815
+platform: media_player.firetv,5816
+redis-monitor,5817
+udfs,5818
+more info,5819
+ews,5820
+development,5821
+e:python-3.4,7614
+build-error,5822
+keys,5823
+api clean up,5824
+探讨,5825
+waiting on downstream,5826
+board-pipstrello,5827
+branch-java,5828
+swimlane-ops-tools,5829
+backend : elasticsearch,5832
+task,5833
+area/logging,5834
+midi,5835
+priority.medium,250
+proposed initial tranche,5837
+organization,5838
+platform: notify.matrix,5839
+v1.8.2,5840
+2.1 - ready for review,5841
+c:constants,5842
+waiting on platform,8255
+clouder application,5844
+shape,5845
+not-our-fault,5846
+openstack,5847
+pending review,5848
+good_to_have,5849
+submodule,5850
+c:compat/tests,5851
+waiting submitter feedback,347
+wayland,351
+ongoing task,5854
+audio search,5855
+win,5856
+big job,5857
+administrative,5858
+read this first,371
+zreleased - 2017.7.0rc1,5860
+norespone,5861
+status: norepro,5862
+big,5863
+good idea,5864
+biz,5865
+area:devices,5866
+i-bug,5867
+platform: cover.lutron_qse,5868
+sourcestep,5869
+gtalk,5870
+platform: sensor.zamg,5871
+google,5872
+executor/task_executor,5873
+vmware staff assist needed,5874
+examples,498
+requires-lib-upgrade,8262
+jedi-related,5877
+listfield,5878
+comp-treatment,5879
+integration,5880
+needs prototype,5881
+env: local dev,5882
+feature requests,5883
+epic,5884
+needed: design decision,5885
+out-of-scope,5886
+backend : solr,5888
+medium severity,5889
+component: input_slider,5890
+[docfix],5891
+wsdl,5892
+topic: scala,5893
+merge_commit,5894
+optimize,5895
+platform: sensor.fritzbox_netmonitor,5896
+external-sources,5897
+contribution welcome,5898
+platform: image_processing.openalpr_cloud,3154
+extensions,5900
+32bit,5901
+⏏ hotfixed,5902
+c:utils/helpers,5903
+onramp,5904
+tiff,5905
+prio:high,5906
+when: maybe later,5907
+when: waiting,5908
+debian-package,5909
+ready for qa,5910
+topic-depends-on-strict-optional,5911
+c:playbook/helpers,5912
+language / portuguese,5913
+api-question,3087
+dev/tooling,5915
+component: sqlalchemy database results backend,5916
+sdr,5917
+volunteer task,5918
+scipy.sparse,5919
+11.5.4,5920
+c:installation,3245
+enhancement request,5922
+fool proofing,5923
+status/wontfix,5924
+wontimplement,831
+tag: app,5926
+language / german,5927
+platform: cover.xiaomi,5928
+archive/future,5929
+team riot,4247
+gstreamer,5932
+need feedback,5933
+printer: um2 family,5934
+maintainer timeout,5935
+english translation,870
+isophote,5937
+component/admincli,5938
+area/database,5939
+topic: ipdb,5940
+milestone-release0.75,5941
+milestone-release0.76,5942
+milestone-release0.77,5943
+milestone-release0.71,5944
+milestone-release0.72,5945
+ignored issue template,3930
+core/consul,5947
+component: digital_ocean,5948
+优秀学员示范,5949
+3rd party  issue,5950
+p3 - blue sky,5951
+platform: remote.apple_tv,5952
+cafe,933
+comp-panel,5954
+user-experience,5955
+cmake,942
+difficulty intermediate,5957
+good first bug,5344
+functionality,964
+hypervisor-xenhvm,5960
+s-refactorisation,5961
+platform: sensor.version,5962
+area: standalone,5963
+salt-cloud,5964
+release: next major,5966
+api-update,5967
+druid,1007
+c:executor/process/worker,5969
+kind - refactor,5970
+ipwb indexer,5971
+topic:ldap,5972
+platform: media_player.soundtouch,5973
+c:utils/display,5974
+s-régression,5975
+sftp,5976
+no issue,5977
+status: ready to be merged,5978
+a-internals,5979
+impacts-doc,5980
+fine-tuning tests,5981
+info-archive,5982
+python-3-compatibility,5983
+query,5984
+we need to talk about this,5985
+zbackport 2.3.4,5986
+plat: safari,5987
+zbackport 2.3.5,5988
+provider:openshift,5989
+platform: binary_sensor.command_line,5990
+lunar,5991
+visual design,1196
+ddl,5993
+production-team,5994
+probably easy,1217
+✘✘,5996
+splatalogue,5997
+component: qtwebengine,1228
+bot issue,5999
+bug - validated,6000
+.clients.seedlink,6001
+hypervisor-kvm,6002
+external project dependence,6003
+aws apocalypse,6004
+c:configuration,6005
+optics,6006
+python2.x,1294
+awaiting changes,6008
+platform: sensor.migardener,6009
+refactoring and performance,6010
+example issue,4844
+probably-mistaken,6012
+layouts,6013
+component:plugins,6014
+clarequired,6015
+comp_general,6016
+vmware,6017
+mep25,6018
+mep27,6019
+release: next patch,6020
+needs changelog/docs,6021
+mep22,6022
+lowpriority,6023
+hatband,6024
+payday,6025
+platform: sensor.yweather,6026
+backport-complete,6027
+area: cmdline mode,6028
+t: bug,6029
+f: submission fields,1393
+platform: sensor.sonarr,6031
+openfsi,6032
+python2.6,6033
+pixelclassification,6034
+zenodo,6035
+merge conflict,6036
+kind/cleanup,6037
+expression core,6038
+rows.table,6039
+ashland,6040
+implement,6041
+has failing test,6042
+language: javascript,6043
+status/wip,6044
+importer/exporter,6045
+公告,6046
+s-bug,6047
+needs-information,6048
+help wanted (easy),6049
+redesign,8647
+botocore,6050
+simulator-ui,8296
+data-export,6052
+cncf-cla: yes,6053
+platform: sensor.comfoconnect,6054
+uk specific,6055
+status: waiting for fix,6056
+juniorjob,6057
+os/db-dependent,6058
+c:tests,6059
+platform: alarm_control_panel.abode,6060
+domains:c,6061
+0.5,8299
+12 prio: high,6063
+prioritised,6064
+data loading,1637
+pretix.plugins,6066
+platform: climate.tado_v1,6067
+support:network,1650
+system-services,1652
+platform: sensor.ripple,6070
+s-critical,6071
+platform: sensor.hp_ilo,6072
+status-inprogress,6073
+vim inconsistency,6074
+team: workflow,6075
+long-term-future,8304
+focus - schema,6077
+type: perfomance,6078
+research idea,6079
+closing,6080
+platform/heroku,6081
+sqlite,6082
+cannotreproduce,6083
+tech:html,6084
+n: adguard for ios,6085
+collections-conversion,6086
+tag:config,6087
+c-icons,6088
+addons/elk,6089
+pull request invited from originator,6090
+gcc,6091
+platform: sensor.gitter,6092
+gce,6093
+platform: binary_sensor.workday,6094
+platform: alarm_control_panel.alarmdotcom,6095
+gcp,1790
+not-for-merge,6097
+status: investigating,6098
+affects dev,6099
+stock,6100
+profile,6101
+kickstarter,6102
+comp-genmod,6103
+needs test farm test,6104
+win10,6105
+component: tesla,6106
+api: vision,8143
+kkma,6107
+addons,6108
+module: vocabulary,6109
+prio_medium,6110
+resource views,6111
+confusing-error,6112
+py2/3,6113
+altcoin,6114
+need_help,6115
+grpc,6135
+jira,6116
+area: io,6117
+pr: please merge now,6118
+status:ready,6119
+awaiting-further-info,6120
+area: infrastructure,6121
+emesene-next,6122
+component: comfoconnect,6123
+type:duplicate,6124
+galaxy,6125
+tab-completion,6126
+@@fkh,6127
+use case,6128
+triaged,6914
+component: objreg,1987
+help-me-get-merged,8236
+a: bug,6130
+platform: media_player.russound_rio,8312
+image,6132
+close soon,6133
+v2 port ❎,8313
+dal,5662
+design decision needed,6136
+spell,6137
+type:cleanup,6138
+5.2.2,6139
+5.2.0,6140
+cutting,2061
+priority: 2 - low,6142
+2017b,6143
+in progress: active,2085
+c:plugins/callback,6145
+package request,6146
+xmatch,6147
+functionapp,6148
+evernote-parity,6149
+new irregularity,6150
+(4) approved for master,6151
+data bundle,6152
+parent issue,6153
+needs_doc,6154
+area: code,2144
+platform: calendar.todoist,6157
+team-windows,6158
+area: ocsp,2179
+cla: yes,2182
+team: platform,6161
+goals: smoother install,6162
+rep,2202
+c-extensions,6165
+cwl,6167
+electronics,6168
+menpo team only,6169
+api: bigtable,6170
+math,6171
+platform: climate.flexit,6172
+review-nacked,6173
+workflow,6174
+notabug,6175
+needs_info,6176
+clarify,6177
+autokey-qt,6178
+1.0-cleanup,6179
+semver: patch,6180
+fileformats,6181
+os: os x,6182
+yara,6183
+examples/gallery,6184
+component: telegram_bot,6185
+high availability,6828
+recipes,6187
+elasticsearch,6188
+scipy.stats,6189
+c:plugins/strategy,5385
+area: security enhancements,6192
+component: rfxtrx,6830
+component: search,6194
+needs-documentation,6195
+version: 3.1,6196
+norepro,6197
+priority critical,6198
+pycon 2016,6199
+monkey,6200
+needs ux design,6201
+ready-to-submit,6202
+type: cosmetic,6203
+investigation needed,2411
+intermediate,2413
+fixed-in-master,2417
+component: abode,6207
+importance-bug,2421
+wishlish,6209
+not ready,2435
+completed,6211
+defacement,6212
+gsoc,6213
+bug:low,6214
+need-docs,6215
+skyrim,6216
+dev/flow,6217
+n - sun position analysis,6218
+wishlist,6219
+x: openwhistleblowing,6220
+status: planned,1131
+rest-api,6222
+api-change,6223
+target: master,6224
+e:python-2.6,6225
+impala,2523
+result: won't fix,6227
+2.2 - in review,6228
+viv-bug,6229
+✓,6230
+status: feedback needed,6231
+unlikely,6232
+printer: um3 family,6233
+appcrash,6235
+platform: switch.fritzbox_callforwarding,6236
+:load driver,6237
+non-reproducible,2601
+talk-to: @jacobdavis11,6239
+v2.2,6240
+v2.0,6241
+v2.1,6242
+dev: has issues,6243
+io json,6244
+port to fedora,6245
+2.0-maybe,6246
+in translate,6247
+fixed-by-new-patching,6248
+redshift/pg,6249
+eight,6250
+spinnaker,7552
+moreinfo,6251
+payment,2688
+platform: device_tracker.keenetic_ndms2,6253
+request,6254
+dev branch,2714
+resolution-duplicate,6256
+c:playbook/block,6257
+ci/buildbot,6258
+platform: weather.zamg,6259
+platform: media_player.spotify,6260
+provider/openstack,6261
+language / thai,6262
+selection,6263
+awaiting qa,2588
+text,6264
+patch needs improvement,6265
+component: velux,6266
+fixme and i will send you a beer gift basket,6267
+loc-module,6268
+didn't read the guidelines,6269
+plugins/connection/paramiko_ssh,2812
+os/osx,6271
+handler: influxdb,6272
+stat:in-progress,6273
+code_cleanup,6274
+#configuration,787
+in testing,6276
+prio_high,6277
+csrf,6278
+pr out of date,6279
+c: cache,2877
+area/actions,6281
+prio:2-normal,6282
+teamx,6283
+pullrequested,5462
+s: major,6284
+rtfm,6285
+esp32,6286
+platform: binary_sensor.android_ip_webcam,6287
+component/build-infrastructure,6289
+area: examples,6290
+fixed,6291
+python-lisp-interop,2942
+omission,6293
+kind/parity,6294
+timezones,6296
+risk of error,2971
+platform: switch.knx,6298
+platform: switch.netio,6299
+game design,6300
+tunein,6301
+pattern,6302
+clarification-needed,3019
+popular-feature,3023
+unsolved mystery,6857
+progress,6305
+full-stack,6306
+vo_conesearch,6307
+big-feature,6308
+refactoring/cleanup,6309
+reproduced,6310
+target: test,6311
+custom user,3077
+status: mrg+2,6859
+synced,6315
+optional,6316
+pyzor client,3438
+component: insteon_hub,6317
+component: util,6318
+plugin,6319
+milestone-release0.8.0.6,6320
+pull-request-available,6321
+needs_reproduction,6322
+domains:std,6323
+c-has open pr,6324
+comment,6325
+plasma class,6326
+c:plugins/action,6327
+automerge,6328
+stat:chatting,6329
+board-atlys,7468
+control_flow,6330
+esp:sendgrid,6331
+topic-type-variables,6332
+.clients.seishub,6334
+status:feedback-needed,6335
+json,3232
+help welcome :),3236
+proposal,6338
+route53,6339
+needs:discussion,6340
+comp_politics,6341
+distro support,5595
+request/question,6342
+area: bots,6343
+platform: light.lutron,6344
+spelling,6345
+feature/logging,8342
+pr in progress,6347
+design decision,6348
+type:bugfix,6349
+c-query,6350
+tokenization,3347
+applications-app,6352
+work: back-end,6353
+intellisense,6354
+platform: light.hue,6355
+big code change,6356
+in progress,6357
+level/docker-engine,6868
+follow-up,6359
+a: invalid,3371
+virt,6361
+reflect in english version,6362
+wbox,6363
+comp-emplike,6364
+shame!,6365
+regression,6366
+type: documentation,6367
+needs contributor,6368
+analysistool,6369
+.db,6370
+jsbeautifier,6371
+n - visibility and range,6372
+data-add,6373
+milestone-0.9,6374
+milestone-0.4,6375
+iot,3477
+ios,3481
+trakt,6378
+platform: switch.vera,6379
+missing documentation,6380
+platform: device_tracker.linksys_ap,6381
+目前不在考虑范围,5931
+scipy.io,6383
+3 - working,6384
+builder,6385
+module: diary,6386
+issue-feedback,6877
+sets,6388
+status-in-progress,6389
+source:community,6390
+eight regression,6391
+made great again,6392
+memmon,6393
+talk-to: @himanshu-dixit,6394
+area/genericbears,7819
+more-information-needed,6395
+push api,6396
+auto-closed,6397
+merge,6398
+localize,6399
+codalab 2.0,6400
+platform: sensor.roomba,6401
+good starter,6402
+novas funcionalidades,3611
+python 2 compatibility,6404
+topic - list/show,3620
+newcomer-friendly,4714
+waiting on devops,6408
+needs_tests,3634
+adf,6410
+#usability,6411
+add,6412
+needs further review,3644
+web skills,6881
+resolved,6415
+data structure,6416
+configtool,3673
+sklearn cleanup,6418
+xmlrpc,6419
+component: cover,6420
+area/build,6421
+status/5-cherry-pick,6422
+component: insteon_plm,5422
+bug: please confirm,8359
+success-stories,6425
+hacktoberfest,6426
+type-invalid,3742
+upstream nba issue,6428
+prs go to review,6429
+from redmine,6430
+ringseries,3760
+crawler,6432
+security issue,6433
+prio:low,6434
+platform: sensor.etherscan,6435
+area: test,6436
+closing-soon-if-no-response,6437
+needs-decision,6438
+mentor-available,6439
+good for beginners,6440
+complaint / disgust,6441
+plugin: capture,8364
+parallelization,6443
+component-topology,6444
+0.20,6445
+backends/libvirtd,6446
+medium difficulty to implement,6447
+eso,6448
+prioritário,3863
+sdss,6450
+fix checked in,6451
+state module,6452
+component: mvp,6453
+tag: ui,6454
+reqparse,6455
+c:parsing/utils/,6456
+os:all,6457
+todo: discuss,3893
+implement reporting standards,6459
+topic - setup_requires,6460
+area: misc,6461
+domains:py,6462
+format-gromacs,3363
+panel,6464
+type: bug-fix,6465
+frontend / gui,936
+.io.quakeml,6467
+tag: widgets,6468
+renderers,5887
+flaky,6470
+plat: windows,3957
+resolution:wontfix,6472
+component: i18n,3968
+unreleased,6474
+when: next,6475
+!!,6476
+microservices,3976
+area: ui / ux,6478
+migrated from develop,6479
+component: notify,2637
+pending information,6480
+.clients.earthworm,6481
+feature/ipc,1855
+feature-dns,6483
+possible-plugin,6484
+champion wanted,2161
+area/reports,6486
+platform: binary_sensor.pilight,6487
+platform: cloud.cloud_api,6488
+platform: switch.lutron_caseta,6489
+target: analyzer handling,6490
+2.0-yes,6491
+incorrect blocking,6492
+not a defect,4083
+has pull request,6494
+oauth,6495
+install-bug,4111
+bug,6497
+source:partner,6498
+inventory/yaml,8370
+a-bug,6500
+✔ waiting for feedback,6501
+before release,6502
+wish,366
+numpy-dev,6504
+platform: sensor.efergy,6505
+needstesting,4158
+.core.inventory,6507
+area: real-time sync,6508
+platform: debian,6509
+python semantics,1595
+internals,6510
+platform: switch.raspihats,6511
+projectthreadsanitizer,6512
+need contribution,6513
+problem in platform,2117
+cvsnt,6515
+python 3 compatibility,6516
+type:techdebt,6517
+type: feature request,6518
+low_prio,6519
+platform: notify.slack,6520
+design-decision-needed,6521
+component: ui,6522
+platform: sensor.synologydsm,6523
+needs-research,6524
+st3 bug,6525
+bundle,6526
+c:plugins/connection/chroot,6897
+readline,6527
+deisctl,6528
+needs second ack,6529
+command line,6530
+32 needs: review,6531
+status/planning,6532
+help me,6533
+platform: media_player.bluesound,6534
+c-infra,6535
+resolution:duplicate,6536
+component: admin tools,6537
+pr: pending additional work,6538
+platform: switch.mysensors,6539
+clean-up,6540
+platform: sensor.modbus,4396
+platform: sensor.zha,6542
+plugin-idea,6543
+ready to implement,7826
+rtl-tcp,6544
+mws,6545
+tag:unplanned,6546
+patcher,6547
+needs-code,6548
+doc_report,6549
+design proposal,6550
+awaiting final changes,6551
+docs: user,6552
+python3 semantics,6553
+needs test,6554
+file_storage,6555
+feature: user profiles,6556
+area: code health,6557
+needs:review,6558
+status: waiting for conflict fix,6559
+platform: sensor.apcupsd,6560
+upstream,6561
+breaks_backwards_compatibility,6562
+platform: binary_sensor.octoprint,6563
+tim-data,4540
+rfc6121,4542
+rfc6120,6567
+area: integrations,6568
+blog post,4561
+noturgent,6570
+unreproducible,8386
+qt-gui,6571
+conference agenda item,6572
+guidelines,6573
+patch: documentation,6574
+platform: light.yeelightsunflower,6575
+core_review,6576
+blue,6577
+area/dataset-collections,6578
+specification,6579
+easy pickings,6580
+easy task,6581
+moderate difficulty,6582
+c-jupyter,6583
+leveldb format,5675
+not-planned,6585
+platform: light.limitlessled,6586
+component: unsupported broker,6587
+compilers,6588
+n - military aspects of terrain,6589
+pending-response,6590
+comp-nonparametric,6591
+variant annotation,6592
+incorporating-feedback,6593
+depends-on-other,6594
+pending close,6595
+nextgen,6596
+dev experience,6597
+useability,6598
+component: apple_tv,4740
+do not merge,6600
+status:started,6601
+badg.us feature,6602
+collector: wavefront,6603
+terrific!,4759
+@medium,4762
+2.0.4,6606
+2.0.0,6607
+examples or doc,6608
+area: general ui,6609
+plugin dates and scheduling,6611
+good-for-beginners,6612
+game:workshop,6613
+status:resolved,6614
+platform: switch.wink,6615
+game:challenge,6616
+someday-maybe,8393
+priority.awaiting-triage,6618
+component: input_select,6619
+spike,6620
+elasticbeanstalk,6621
+comp-server,6622
+x: wildleaks,6623
+level: intermediate,6624
+v1.6-beta,6625
+vpc,6626
+vmaster,6627
+topic:audit,6628
+must,6629
+md,6630
+plugins/connection/chroot,6631
+pr: needs tests,6632
+expression extension,6633
+mm,6634
+ml,6635
+u: admin,4917
+deprecated (vague),6637
+needs feedback,6638
+maybe_close,6639
+install,6640
+utils/encrypt,6641
+platform: cover.garadget,6642
+c-installer,4942
+virt-qemu,6644
+work_in_progress,6645
+platform: vacuum.demo,6646
+t-hunt,6647
+new function proposal,6648
+laz issue,8004
+objectclassification,6649
+a-graphics,6650
+not funded,6651
+app-merge,6652
+enh,5009
+zbackport 2.5.7,6654
+dbaugment,5011
+zbackport 2.5.5,6656
+zbackport 2.5.2,5013
+feature/http,5015
+searchfy,6659
+help-wanted,6660
+can't fix - telegram-cli issue,6661
+type:bug,6662
+env,6663
+0.5.0,6664
+v1.19,6665
+core.sympify,6666
+component: climate,4898
+type: new feature,6668
+x509,6669
+no response > 30 days,6670
+mesh,6671
+store (ceph),6672
+feature request (needs votes),7793
+os - windows,6674
+parallel,5094
+status/more-info-needed,6676
+feedback pending,6677
+topic-parser,6923
+acknowledged,6679
+changes-requested,6680
+anti adblock script,6681
+platform: zwave.node_entity,6682
+standalone & packaging,5137
+platform: sensor.ring,6925
+platform: sensor.dsmr,6685
+easy to fix,5156
+frontend,6687
+platform: sensor.fritzbox_callmonitor,6688
+autogenerated,5169
+platform: light.xiaomi,6690
+collector: mongodb,6691
+v1.17,6692
+cli,6693
+component:usability,6694
+in process,6695
+awaiting_input,5223
+writing,6697
+tag: testing,6698
+sighteddevideal,6699
+insufficient info,6700
+s:invalid:foreign bug,6701
+genpoi,6702
+alma,6703
+class search,6704
+relativedelta,6705
+to-merge,6706
+fonts,6707
+pretix.base,6708
+semver: minor,6709
+area/tests,6710
+numpy+uncertainties,6712
+c:utils/vars,6713
+please_test,6714
+platform: climate.sensibo,6715
+k-task,6716
+developer-api,6312
+resource/ec2,6717
+legacy dfu,6718
+annex-v6,462
+type: question,6720
+g-design,6721
+lv: easy,6722
+browse mode,6723
+breaking-change,6724
+xontrib,6725
+status: needs information,6726
+please review and merge,6727
+showstopper,6728
+widgetastic-conversion,6729
+pip,6514
+starter,6730
+documentation needed,6731
+11.6.0,6732
+platform-windows,6733
+closed: invalid,6734
+quantaxis enhancement,5530
+fix in dev branch,6736
+readme update,6737
+theme:customer-oriented,6738
+wsgiserver,6739
+user error,5561
+erfa,6741
+platform/docker,6742
+production problem,6743
+topic-pep-484,6744
+makefile,8413
+coding,6746
+app:router,6747
+priority: 2. medium,6748
+component: cassandra results backend,6749
+good-for-newbies,6750
+new-dataprovider-platform,4045
+tor,6752
+platform: camera.foscam,6753
+gridlines,6754
+gdal2,6756
+corpus,6757
+component: collections,6758
+protocol:v2,6759
+status/invalid,6760
+official binaries,6761
+executor/task_result,6762
+area: notifications (other),6763
+pr: needs review,6764
+component: alias plugin,6765
+gg-easy,6766
+needs service,6767
+component: tado,6768
+bridge,6769
+extensions:napoleon,6770
+core: front end,5785
+needed: tests,6772
+type: bug,5798
+help needed,6774
+complexity:hard,6775
+please help,6776
+review needed,6777
+[needs] review,3000
+channel-idea,5552
+area: emails,851
+area: api,6779
+bigquery,6780
+status: abandoned,6782
+platform: light.rpi_gpio_pwm,6783
+goodfirstbug,6784
+good intern task,5520
+sympy gamma,6786
+kokoro:force-run,6787
+component: input_boolean,6788
+area: testing-coverage,6951
+.clients.neries,6790
+flow,6791
+next top mission,6792
+c:cli/playbook,6793
+os x,6794
+type/dependency,6795
+platform: sensor.uk_transport,6796
+enterprise,6797
+functional requirement,6798
+waiting for user,6799
+area/util,8306
+waiting more feedback,6800
+1hr,6801
+1.bug,8203
+aromatics,6802
+wip - do not merge,6803
+dupe,6804
+component: xiaomi_aqara,6805
+availability,6807
+bain,6808
+c:executor/play_iterator,6809
+psf-review,6810
+haskelltask,6811
+low prio,6812
+requires scrapy patch,6813
+under development,6814
+ipwb replay,6815
+announce,6816
+code review request,6817
+code quality,6818
+need further discussion,6819
+did not read the wiki,6820
+disscuss,6821
+<15mins,6822
+!priority,6823
+nrao,6824
+enhancement-for-plugin,6164
+tag: pyscript,6166
+ipep,6827
+automatic,6186
+platform: sensor.neato,6829
+vobject,6193
+awaiting-reply,6831
+app:blog,6832
+platform: telegram_bot.webhooks,6833
+roadmap,6834
+detection,6835
+feedback welcome,6836
+improv.,6837
+platform: light.enocean,6838
+platform: binary_sensor.xknx,6839
+t - unit test,6840
+ciritical,6841
+api: resource manager,6842
+tensor,6843
+server/python,6844
+post launch - medium priority,6845
+component: style / refactoring,6846
+beginner_friendly,6847
+discuss-seattle,6848
+understanding users,6849
+component: python_script,6850
+fixlater,6851
+discovery,6852
+component: editor,6295
+f - visibility,6854
+waiting on upstream,6855
+zbb,6856
+pygame,3409
+status: mrg+1,6858
+package clash,6313
+rime,6860
+#hipchat,6861
+erweiterung,6862
+news,6863
+improve,6865
+difficulty: hard,6866
+status: enhancement,6867
+pic simulations,6358
+beacon,6869
+facet,6870
+effort-high,6963
+merging,6872
+user request,6873
+zbackport 2.6.1,6874
+zbackport 2.6.3,6875
+zbackport 2.6.2,6876
+zbackport 2.6.4,6387
+pull request accepted,6878
+topology-building,6879
+type:installation,639
+s-zombie,6414
+dev: devops,6882
+c-job-submission,6883
+html theme,6884
+httpok,6885
+future consideration,6886
+update required,6887
+type:administrative,6888
+simplification,6889
+.io.mseed,6890
+v1.7-beta,6891
+algoritmo,6892
+dh2017,6893
+containers,6894
+ebdata,6895
+3dmol,6896
+search,2272
+tag.tests,6898
+wagtail,6899
+area/bundle,6901
+platform: sensor.xiaomi,6902
+waiting for user response,6903
+probablyfixed,6904
+newbie-friendly,6905
+platform: sensor.statistics,6906
+dashboard,6907
+energyplus,6908
+depr,6909
+mcdata,6910
+needs-champion,6911
+complexity:invasive,6912
+tag: component: bokehjs,6913
+project-management,6610
+available-in-boto3,6915
+next release,6916
+platform: telegram_bot.polling,6917
+code_health,6918
+comp-duration,6919
+pretix.presale,6920
+platform: switch.digitalloggers,6921
+domain: s3,6922
+area/toolshed,6678
+platform: light.mqtt_json,6924
+c-website,6684
+livestatus,6926
+status: won't fix,6927
+hdmi2usb,6928
+complex,6929
+inventory,6930
+cloud shell,6931
+naarad-diff-and-grader,6932
+type:development,6933
+platform: binary_sensor.tapsaff,6934
+new contributors: look at this,6935
+tag: branches,6936
+severity: fatal,6937
+process/wip,6938
+characters,6939
+soccer ball,6940
+pending-release,6941
+format-mol2,6942
+feature/core,6943
+component: satel_integra,6944
+prioritize,6945
+5.1.1,6946
+5.1.2,6947
+bugzilla,6948
+component: core frontend (react),6949
+needs more info,6950
+area:gateware,6789
+dataentry ready,6952
+breaks compatibility,2342
+remoting,6954
+incident-related,6955
+status/0-triage,6956
+resolution:merged,6957
+meta,6958
+broken-develop,6959
+scaffolds,6960
+c: client,6961
+elm,6962
+elb,6871
+dev/site,6964
+status/accepted,6965
+component/windows-plugin,6900
+implemented-in-newer-version,6968
+non-forkable,6969
+unidown,6970
+recaptcha,6971
+tag: py3,6972
+tag:ux-usability,6973
+advanced,6974
+platform: device_tracker.upc_connect,6967
+apigateway,6976
+platform: notify.mysensors,6977
+area:interpreter-discovery,6978
+bug-report,6979
+topic - wheel,6980
+component: serialization,8169
+code-review,6981
+component:persistence,2020
+pr-rejected,8459
+viz,6983
+area/api,6984
+icc,6985
+platform: lock.abode,6986
+goals: more tests,6987
+armv5,6988
+select,6989
+armv7,6990
+topic-usability,6991
+bear proposal,6992
+core,6993
+c:utils/encrypt,7736
+after new frontend,6995
+tasktypes,6996
+backend : whoosh,6997
+component: octoprint,6998
+hsm,6999
+req: partner,7000
+newcomer,7001
+.taup,7002
+type: discussion,7003
+status: in work,7004
+chapter,7005
+attention will be merged soon,7006
+systray,7007
+deadlockdetector,8467
+pkg-database,7009
+r&d (non-core engineering),7010
+backlog pne,7011
+mplayer,7012
+ppc,7013
+platform: light.piglow,7014
+ppa,7015
+chatops,7016
+area: boulder,7017
+patches-welcome,7018
+not ready to merge,7019
+icon request,7020
+area: nginx,7021
+gui improvement,7022
+component:scheduler,7023
+migration: manual,7024
+32-bit,7025
+area/tool-framework,7026
+community manager review,7027
+size/xl,7028
+type-discussion,7029
+gif,7030
+size/xs,7031
+awaiting review response,7032
+epub,7033
+api: core,7034
+missing jira issue,7035
+medium,7036
+f: internationalization,7037
+type: build system; packaging; docs; tanslations,7038
+bug (open source),7039
+difficulty:hard,7040
+flavour,7041
+f23-branch,7042
+versions,7043
+component: event pipeline,7044
+type:optimization,7045
+working on it :),7046
+n - grg,7047
+x: mexicoleaks,7048
+component: statsd,7049
+platform: notify.aws_lambda,7050
+needs design decision,7051
+pytg < 0.3.0,8475
+qa needed,7053
+area: ci,7054
+annoying,7055
+check,7056
+schema-centric,7057
+needs upstream fix,7058
+platform: sensor.arwn,7059
+telemetry,7060
+nf,7061
+ng,7062
+setting,7063
+papers,7064
+picture,7065
+need-analysis,7066
+sqs,7067
+type: test,7068
+miscellaneous,7069
+wont merge,7070
+type-refactor,7071
+sql,7072
+effort substantial,7073
+area/security,7074
+maas 2.0,7075
+outputters,7076
+bitbucket,7077
+component: workflow,7078
+device specific,7079
+pending requirement,7080
+t3:feature,7081
+missing unit tests,7082
+sbml,7083
+api-documentation,7084
+under investigation,7085
+deprecation-or-behavior-change,7086
+tzwin,7087
+z-?? app.py cluster,7088
+kind/triage,7089
+zreleased - carbon,7090
+comunidad,7091
+c:vars/hostvars,7092
+environment,7093
+prio-highest,7094
+short term,7095
+osgeo incubation,7724
+backends/azure,7097
+x: icc,7098
+federation,7099
+resample,7100
+unreliable test,7101
+area: python,7102
+size: sm,7103
+artwork,7104
+component: routing,7105
+status:released,7106
+cool,7107
+rtfobj,7108
+result: unactionable,7109
+suite design guide,7110
+true bug™,7111
+résolu,7112
+metadata,4434
+resolved.wontfix,7113
+pending: qa,7114
+platform: tts.amazon_polly,7115
+milestone-0.2.0,7116
+kind/poll,7117
+platform: image_processing.microsoft_face_detect,7118
+:benchmark candidate management,7119
+obsolete,7120
+status:under discussion,7121
+status:needs review,7123
+? question,7124
+backport-0.8.1,7125
+status: missing tests,7126
+solvers.diophantine,7127
+needs: patch,7128
+fit&finish,7129
+widgets/ui,7130
+formatting,6584
+feature-request,7131
+platform: device_tracker.huawei_router,7132
+new service,7133
+new app,7134
+repo: babelsubs,7135
+area: cert management,7136
+target: documentation,7137
+groups,7138
+language / french,7139
+release: old,7140
+inotify,7141
+size 2,7142
+lazy,7143
+priority-0-high,7144
+doesn't meet project standards,7145
+zeroconf,7146
+compose-in-a-container,7147
+resonance,7148
+navigation,7149
+numerical methods,7150
+component: redis broker,7151
+n - clearing operations,7152
+opsys-sunos,7153
+status: needs test coverage,7154
+status/work-in-progress,7155
+skill: ruby,7156
+compile error,7157
+easy_to_fix,7158
+4 - ready to review,7159
+patches welcome,7160
+loe medium,7161
+priority med,7162
+trezor,7163
+component: color schemes,7164
+platform: sensor.kira,7165
+goals: update deployment recommendations,7166
+memory,7167
+status:wontfix,7168
+look into,7169
+obadmin,7170
+riot,7171
+sessions,7172
+comp-imputation,7173
+android-app,7174
+pcottle-asap,7175
+don't-merge,7176
+module_utils/vmware,7178
+viewer-table,7179
+status:design decision needed,7180
+tworld,7181
+data for users,7182
+merged-into-staging,7183
+needswork,7184
+produção,7185
+usability,8253
+z-?? dev & package cluster,7187
+resolution:invalid,7188
+docoverhaul,7189
+component: prefork workers pool,7190
+(de)reference,7191
+status/in progress,7192
+component:main window,7193
+platform: fan.wink,7194
+has_pr,6994
+platform: sensor.dht,7195
+1,7196
+area:syntax,7197
+buildroot override,7198
+known_issues,7199
+cat: rfcs,7200
+priority-med,7201
+response needed,7202
+my bad,7203
+type:featurerequest,7204
+focus - documentation,3238
+filestore,7205
+platform: sensor.swiss_public_transport,7206
+scipy.misc,7207
+need_info,7208
+better implementation wanted,7209
+cosmology,7210
+scipy.interpolate,7211
+component: remote files,7212
+breaks backward-compatibility,7213
+loc-core,7214
+devx,7215
+component: ratings and reviews,7216
+area:packaging,7217
+travis updates,7218
+test fix,7219
+nsem,7220
+blocker,7221
+platform: cover.vera,7222
+recover-lost-features,7223
+issue type: task,7224
+component: zeroconf,7225
+daemon related,7226
+blocked,7227
+milestone:0.13.09,7228
+milestone:0.13.08,7229
+organisation,7230
+gtk,7231
+coordinates,7232
+platform,7233
+language / hindi,7234
+backported,7235
+.clients,7236
+postgres,7237
+c-docs,7238
+platform: cover.mysensors,7239
+technology debt,7240
+external-packages,7241
+permissions,7242
+blueprints,7243
+c-interpreter,7244
+type:discussion,7245
+opera,7246
+st:awaiting-member,7247
+pull request needs more work,7248
+effort: medium,7249
+milestone:0.11.07,7250
+starter projects,7251
+component: gloo,7252
+milestone:0.11.02,7253
+platform: mailbox.demo.txt,7254
+sign-up,7255
+package control,7256
+support:curated,7257
+cognito,7258
+✎ docs,7259
+pri:critical,7260
+zreleased - 2017.7.2,7261
+platform: switch.mystrom,7262
+sha,7263
+x: whoonix,7264
+area/datatypes,7265
+deferred till pr,7266
+kind - enhancement,7268
+photo uploading,7269
+eagle,7270
+design review,29
+kind: bugfix,7272
+platform: device_tracker.snmp,7273
+git,7274
+✍ for review,7275
+raster,7276
+app:tickets,85
+14 prio: low,7278
+flard,7279
+codegen,7280
+type: 3rd party,7281
+must have,7282
+limited to: edit,7283
+origin,7284
+needs/info,8513
+talk-to: @arunabh98,7286
+c:template/other,7287
+needs-merge,7288
+n - movement analysis,7289
+obdemo,7290
+requirement,8515
+platform: camera.dispatcher,7292
+kind: cleanup,7293
+f: submission,7294
+array,7295
+pokemon,7296
+protocol feature,7297
+iam,7298
+stuck,7299
+low-memory,7300
+molden,7301
+bounty,7302
+package:pyside,7303
+releases,7304
+cannot_reproduce,7305
+status: on deck,257
+needs reproducing,7307
+released,268
+needs: iteration,7309
+dependency updates,7310
+api: compute,7311
+new-version,284
+copy,7313
+area/cli,7314
+not-reproducible,7315
+component: pyart.correct,7316
+format-yasp,7317
+tag: geo,7318
+r,2118
+cards,7320
+major api changes,334
+mozilla sprint,7322
+api changes,7323
+platform: switch.wake_on_lan,7324
+gui/gtk,7325
+arch-review,7326
+cloud feeds plugin,7327
+pro,7328
+ant,7329
+platform: config.automation,7330
+question-solved,7331
+platform: switch.toon,7332
+others-chime-in,7333
+area: 3rd party,7334
+:correctness issue,7335
+conversion,392
+status: code review request,7337
+believe to be fixed,7338
+ideas,7339
+platform: cover.zwave,7340
+animation,7341
+prio_elev,7342
+priority: high,7343
+target: server,7344
+fullstack,7345
+type:serialization,8527
+icon,7346
+team-core,7347
+latex,5965
+goals: sick ci,7349
+later,7351
+enhancement-future,7352
+platform: sensor.kwb,7353
+hitran,7354
+swimlane-enhancements,7355
+3 - ready for review,7356
+platform:windows,553
+recipe,7358
+status: needs decision,577
+component: alert,7360
+rhel7-branch,7361
+unicode_bugs,7362
+status/proposal,7363
+gsoc-17,7364
+sample request,7365
+icebox,7366
+decimalfield,636
+kinesis,7368
+platform: device_tracker.aruba,7369
+needs-rebase,7370
+hamster-applet,7371
+v1.20,667
+ssl,670
+v1.22,7374
+v1.23,677
+v1.24,7376
+v1.25,7377
+sse,7378
+readytotest,7379
+community:easy,7380
+for beginners,7381
+t: 微信支付,7382
+ccw - in progress,7383
+sugerencias,7384
+platform: light.flux_led,7385
+component: logging,728
+client libs,7387
+rms,7388
+component: android_ip_webcam,7389
+cm-11.0,764
+classification:serious bug,7391
+comp-functional,7392
+release-management,7393
+glue.viewers,7394
+good-first-bug,7395
+package scan,7396
+release-forthcoming,7397
+_top priority_,7398
+affects contrib (only),796
+back-end,7400
+addin,8537
+melhorias,7401
+module_utils/urls,7402
+review,822
+重复问题,7404
+component: threadpool workers pool,7405
+reproducible,849
+old/unused code,7407
+module: new,7408
+program modules,7409
+g - defense team,7410
+tooling,7411
+e:pypy,7412
+review comment,7413
+status:in progress,7414
+reaction,7415
+plat: osx,7416
+missions,7417
+efficiency,7418
+beginner friendly,7419
+gwpy.cli,7420
+z - icebox,930
+suggested content,7422
+component: rss_feed_template,7423
+internal enchancement,7424
+tag: dialite,7425
+image issue,7426
+integrals.rubi,7427
+classification:ui,7428
+area/up,7429
+component/usability,7430
+color,962
+scipy.sparse.csgraph,7432
+gtk3/gst1.x,7433
+pos,968
+sampling,7435
+:metrics,7436
+talk-to: @seanlip,842
+fix applied,4641
+explore-v2,8751
+ff59-blocker,7438
+up-for-grabs,7439
+change request,7440
+¯\_(ツ)_/¯,7441
+talk-to: @kevinlee12,7442
+component: wemo,7443
+in review,7444
+high prio,7445
+engine,1057
+complexity:bite,7447
+status/stale,7448
+patch-pending,7449
+noncommutative,7450
+protocols,1693
+viewer-image,7452
+sp/1,7453
+sf-python-sprint,7454
+io hdf5,1121
+component: linter,7456
+difficulty/medium,1125
+internal cleanup,7458
+needs-testing,7459
+status: accepted,1143
+gwpy.signal,2772
+dafuq,7462
+fácil,1203
+needs relnotes,7464
+pr-needs-rebase,7465
+locking,7466
+html,7467
+component1,1235
+topic - public api,7763
+d-starter,7469
+events,7470
+flake8,7471
+user specific issue,7472
+platform: binary_sensor.modbus,7473
+downloads,7474
+platform: sensor.scrape,7475
+pr change needed,7476
+enhancement/suggestion,7477
+looking for contributor development,1324
+component: media_extractor,7479
+[needs] docs,7480
+level/apiclient,1342
+model,7482
+binaries,7483
+patch needs documentation,7484
+priority-normal,7485
+proposed feature,7486
+would love help,7487
+c:errors/,7488
+minor: added app feature,7489
+i/o,7177
+5hr,7491
+send to staging,7492
+unicode,1398
+internationalization,7494
+plane-wiki,1403
+★ suggestions box,7496
+announcement,7497
+mirrors,7498
+assume-role,7499
+platform: sensor.pocketcasts,7500
+blog,1440
+needsreproducer,7502
+new tool,7503
+firmware-fpga,7504
+libreoffice,7505
+prioritized,7506
+styles,7507
+cla-needed,7508
+loe needs detail,7509
+cli/galaxy,7510
+area: testing-infrastructure,7511
+scheduler,7512
+c:plugins/vars,7513
+accepted,7514
+cat: packaging,7515
+packaging,8553
+prio-expedited,7517
+cptbox,7518
+sanity,7519
+area/artifacts,7520
+support / clarifications,4487
+dependency bug,7521
+area/contentviews,7522
+templating,7523
+3.0.0,7524
+simulator,7525
+configuration component,7526
+platform: image_processing.opencv,7527
+difficulty 8,7528
+ported,7529
+difficulty 5,7530
+redis,1647
+difficulty 2,7532
+difficulty 1,3003
+difficulty 0,7534
+depletion,7535
+provider,7536
+awesome sauce!,7537
+metropolis,7538
+freedm,7539
+component-selections,6155
+software-specific,1696
+language / hungarian,7542
+oe,1748
+fix pushed,7544
+component: usps,7545
+cuda,7546
+3 - being reviewed,7547
+area: settings ui,1165
+plugins/connection/winrm,7549
+waiting-for-contributor,7550
+timeseries,7551
+u: whistleblower,6755
+contrib,7553
+scipy.odr,1815
+mimeparser,7555
+area: csr,7556
+priority: 3. low,7557
+shortlisted,7558
+community input,7559
+won't implement,7560
+api: video intelligence,7561
+os - macosx,1860
+someone else's bug,1863
+qt: 5.9,7564
+feature: dask for lazy data,7565
+app:cfheadless,7566
+backwards_compatibility,7567
+crontab,7568
+boswatch,7569
+deprecated?,7570
+oauth1,7571
+datasets,1940
+combat module,7573
+priority - low,7574
+priority -medium,1961
+task signatures,7576
+.clients.arclink,7577
+no replicable,7578
+platform: sensor.time_date,2011
+btsync-server,7580
+verificar implementação feita,7581
+component: binary_sensor,7582
+intro,7583
+ruleset testing,7584
+high-difficulty,7585
+plugins/lookup,7586
+kind/refactoring,2038
+incorrect,7588
+scipy2015 sprint,2049
+workaround exists,7590
+patch need improvement,7591
+questions_about_game_theory,7592
+sql_lab,7593
+component: visuals,7594
+collector: mesos,7595
+new chart,7596
+5,7597
+reference viewer,7598
+announcements,7599
+hardcoded,7600
+for-first-timers,7601
+size: medium,7602
+changes needed,7603
+server-azure-staging,2142
+stat:reopened,7605
+user-text,2145
+core/kubernetes,7607
+retest-not-required-docs-only,8570
+build/update,7609
+area: install,7610
+resource/s3,7611
+cloudformation package/deploy,7612
+problem in dependency,2171
+dapi,4122
+circus-web,7615
+ccw - reserved,2181
+migrated,7617
+dist,2208
+priority: blocker,7619
+component: code quality,7620
+collector: kafka,7621
+pty,7622
+component: counter,7623
+component: volume manager,7624
+v3.3,7625
+v3.2,2258
+v3.1,7627
+v3.0,7628
+boards-all,2264
+requires user input,7630
+platform: notify.hipchat,7631
+removal,7632
+cantfix,7633
+collector: processresources,7634
+user-support,7635
+presentation,7636
+to be tested,7637
+macosx,7638
+test-case,7639
+needs test case,7640
+platform: sensor.tado,7641
+faq,7642
+needs closer look,7643
+pr: ready,7644
+platform: camera.netatmo,7645
+***,7646
+needs_maintainer,7647
+dependency issue,7648
+future package,7649
+priority:2,7650
+not a bug / already fixed,7651
+helpme,7652
+list,7653
+area/web,2384
+wpilib compatibility,7655
+question/discuss,7656
+type:deployment,7657
+needs more information,2410
+need help !,7659
+contrib: low-hanging fruit,7660
+format-memoryreader,2419
+design,7662
+component: volvooncall,7663
+focus - codelist,7664
+imported,7665
+esp:sparkpost,7666
+gui and outputs,7667
+comp-stats,7668
+next big thing,7669
+platform: light.tradfri,7670
+segmentation,7671
+platform: device_tracker.icloud,7673
+tags,7674
+non-cylc bug,7675
+mega-thread,7676
+c:utils/color,7677
+playback_handlers,3562
+type/dependencies,7679
+directions,2536
+dogshell,7681
+thrift,7682
+bugfix_pull_request,7683
+area/docs/organization,7684
+os: centos,7685
+fixed in next release branch,7686
+import-export,2578
+lv: hard,7688
+options,7689
+sprintable,7690
+needs reporter feedback,7691
+high level goals,7692
+prio-low,7693
+status/duplicate,7694
+platform: device_tracker.owntracks_http,7695
+area: dependencies,7696
+needs-verification,7697
+prio:0-wontfix,7698
+talk-to: @prasanna08,7699
+type:tests,2648
+0.2 - kryptonite,7701
+new command(s),7702
+dev: content,7703
+developer-experience,7704
+patch-needs-work,7705
+script parsing,7706
+needs-triage,6657
+converters,7708
+minor,3352
+waiting on feedback,7710
+1 - ready,7711
+resource/vpc,7712
+status/review-needed,7713
+topic - search,7714
+error email noise,7715
+2 - on deck,7716
+platform: light.xiaomi_philipslight,7717
+for-review,7718
+1 - backlog/long term,7719
+api: trace,7720
+platform: camera.local_file,7721
+product review,7722
+c:cli/connection,7723
+type: improvement,2762
+new-vtk-version-compat,7725
+challenging,7726
+[review],7727
+patch needs tests,7728
+type_story,7729
+platform: sensor.mint_finance,7730
+migration-guide,7731
+* next up,7732
+goal,7733
+breaking,7734
+algorithms,7735
+please-help,3446
+component: statistics,5635
+scipy.spatial,2886
+demoparty,7739
+status/fixed,7740
+component-analysis,7741
+distro,7742
+simplicity,7743
+need pcap,7744
+area: db cleanup,7745
+rbac,7746
+status:needs docs,7747
+topic: marks,7748
+platform: binary_sensor.eight_sleep,7749
+status/in-progress,7750
+pr documentation needed,7751
+area/auth,6333
+auto - bit rotted,7753
+cannot understand,7754
+pr: work-in-progress,7755
+size: large,7756
+target: api,7757
+xmpp,7758
+good volunteer task,7759
+cross,8600
+feature/wishlist,7761
+being worked on,7762
+difficulty: easy,3050
+fiabilite-calculs,7764
+application deployment,3058
+unverified,7766
+topic_covtype,3069
+style,7768
+merge-when-ci-passes,7769
+platform: alarm_control_panel.concord232,7770
+needs-more-tests,7771
+documentation bug,7772
+numba1.0,7773
+user feedback,7774
+project: legacy switch off,7775
+@@jabrams,7776
+needs debugging,7777
+framework,7778
+new tutorials,7779
+milestone,7780
+a-gui,7781
+second review required,6711
+handler: tsdb,7783
+missing test,7784
+c:plugins/connection/persistent,7786
+blockwise,7787
+automigrated,7788
+no-action-taken,7789
+bdd-tests,7790
+component: eight_sleep,7791
+comp-io,7792
+lang:php,3225
+generation,7794
+vim-vimlparser,7795
+platform: binary_sensor.knx,7796
+ready-for-implementation,7797
+tag: component: docs,3263
+standards,7799
+waltham shutdown,7800
+reproduction needed,7801
+code review,7802
+client/javascript,7803
+affects release,7804
+x: sourcesure,7805
+side-effects,3357
+status:rejected,7807
+platform: sensor.worxlandroid,7808
+platform: sensor.miflora,7809
+gtk bug ?,7810
+nightly,7811
+component: django,7812
+component: intent,7813
+talk-to: @shubha1593,7814
+prio-1,7815
+group/windows-server,630
+feed,7817
+needs-qa,7818
+area: suse,3432
+bug-windows,7820
+non-flexget resource,7822
+z backport 2.2.2,7823
+core python,3448
+linking,3451
+defects,6806
+stdlib,7827
+priority: none (no current effort),7828
+cla-not-required,7829
+story,7830
+platform: config.zwave,7831
+script,3494
+gpg,7833
+hangs,7834
+swarm,7835
+instructor-training,7836
+gpu,7837
+platform: light.abode,7838
+type-enhancement,6314
+store,7840
+pipelines,7841
+profitability,7842
+c-unpacker,7843
+format-mmtf,7844
+io.js,7845
+ssm,7846
+privacy / security,7847
+nice feature™,7848
+next-generation,7849
+stale,3618
+exp/proficient,7851
+platform: lock.sesame,8617
+pr: don't merge - rejected,7852
+cont_texts,7853
+nak,5296
+bug: upstream,3662
+need collaborator,7855
+autograding,7856
+format-dl_poly,7857
+requires community feedback,7858
+customer-feedback-wanted,7859
+backport-0.8.0,7860
+platform: alarm_control_panel.satel_integra,7862
+02 type: regression,7863
+text addition,7864
+under consideration,7865
+added,7866
+:config,7867
+beanshell,3772
+deployment-issue,7869
+mulheres,7870
+save-load,7871
+a:segment,7872
+windows,7873
+breaks backwards compatibility,7874
+platform: sensor.waqi,7875
+caching,7876
+component: vera,7877
+pr: wip,7878
+64bit,7879
+squash / rebase,7880
+security-hardening,7881
+n - import and conversion,7882
+rtm,7883
+rtl,7884
+cdn,7885
+post launch - low priority,7886
+needs reply,7887
+closed-low-activity,3873
+to investigate,7889
+query_engine,7890
+font,7891
+pr-needs-one-more-review,7892
+c:cli/vault,7893
+breaks backward compatibility,7894
+group chats,7895
+waiting-reply,7896
+irreproducible,7897
+platform: sensor.dyson,7898
+need test case,7899
+mqtt-bridge,7900
+goals: i18n,7901
+invoke,7902
+needs-cherrypick,7903
+component: media_player,7904
+medium-priority,7905
+area: message-editing,7906
+status: open,5043
+platform: mqtt.discovery,7909
+needs-doc,7910
+glue.dialogs,7911
+needs_template,7912
+component-qa,7913
+investigate,7914
+platform: alarm_control_panel.manual,7915
+activity,7122
+python-other,7917
+(3) pending review,8625
+python 2.7,4037
+art,7920
+component-decorators,1316
+difficulty:easy,7922
+provider/bare-metal,7923
+needs-additional-reviewer,7924
+for voting,7925
+2.1,7926
+2.0,7927
+module_utils/facts,7928
+arm,7929
+declined,7930
+issue type: question,7931
+u: sysadmin,7932
+c:parsing/vault/,7933
+t-housekeeping,7934
+libraries,7935
+todo piclock²,7936
+feature in progress,4114
+f27,7938
+f26,7939
+f25,7940
+popularity/medium,7941
+formatter,7942
+corruption,7943
+need-contributor,6407
+python 2.x,7945
+type: quality of live,7946
+component/gate,7947
+conda,4174
+loe low,7949
+topic-typed-dict,7950
+- mailing list -,7951
+solr,7952
+duplicate-problem,4194
+data-scraping,7954
+c,7955
+platform: notify.kodi,7956
+license,7957
+context,7958
+category: packaging and release management,7959
+incomplete-downloads,7960
+✖ bug,7961
+type: infrastructure,7962
+radical change,7963
+area: rename,7964
+platform: light.zwave,7965
+pr,7966
+ps,7967
+needs confirmation,4304
+enhancements,7969
+platform: osx,7970
+alpha 3,7971
+alpha 2,7972
+alpha 1,4312
+py,4314
+io html,7975
+swf,7976
+model-extension,7977
+backends,7978
+platform: image_processing.demo,7979
+web-backend,7980
+#sleekxmpp,7981
+type: regression,4362
+precision,7983
+5.2.0.rc3,7984
+mep needed,7985
+sequence annotation,7986
+website / wiki,7987
+enhancement :),7988
+logger,7989
+sev:3-moderate,7990
+p2,7991
+p3,4401
+p0,7993
+p1,7994
+component:preferences,7995
+p4,7996
+batch,7997
+update available,7998
+behavior,7999
+size: small (≤1),8000
+medium effort level,8001
+handbrake,8002
+3rdparty,8003
+topic-server,4451
+platform: device_tracker.mysensors,8400
+bug-osx,8005
+proposal accepted,8006
+demos,8007
+area:meta,8008
+atc_thrift,8009
+limited to: windows,8010
+component: netatmo,8093
+wontfix / cantfix,8011
+被动响应,8012
+first pr,8013
+version numbers,8640
+to study,8015
+platform: binary_sensor.arest,8016
+component: shopping_list,8017
+keyvault,8018
+has pr,8019
+lang:python,4578
+platform: sensor.cpuspeed,8021
+effort-hours,8022
+stateless,8023
+cat: pycompat,8024
+component: apcupsd,8025
+backwards-incompatible-change,8026
+metis,8027
+braille,5899
+analysis,8028
+edge,8029
+qgis-integration,8030
+printables,8031
+fixed pending verification,8032
+status/needs-implementation,8033
+marshalling,8034
+status: superseded,4650
+inactive,8036
+platform: camera.neato,8037
+questions,8038
+provider/softlayer,8039
+missing-signoff,8040
+variants,8648
+severity - major,8678
+convolution,8042
+data-quality,8043
+needs use cases,8044
+backends/ec2,8045
+platform: sensor.thinkingcleaner,8046
+classification:enhancement,8047
+type: optimization,8048
+platform: switch.fritzdect,8049
+cat: configuration,8050
+type.discussion,8051
+tweak,8052
+type-documentation,8053
+iohub,8054
+unscheduled,8055
+component: python mapper,4729
+needs bdfl input,8057
+pending pr,8058
+aggregation,8059
+dtypes,4754
+atc_demo_ui,8061
+question?,8062
+e-as designed,8063
+component: roomba,8750
+subject:anomaly,8064
+pullrequest,8065
+consensus-breaking,8066
+core and api,8067
+profile perf,8068
+linux driver,8069
+needs implementation,8652
+e: easy,8071
+area: browser-support,8072
+3.0,4853
+component: collaboration,8074
+bug: exception,8075
+platform-python3,8076
+f: statistics,8077
+package expert,8078
+scipy.sparse.linalg,8079
+proj,8080
+component: axis,8081
+ecnf,8082
+prj-migration,8083
+platform: sensor.mold_indicator,8084
+alpha0.5,2677
+tag.windows,8086
+needsexternalfix,8087
+maintainer submitted,8088
+needscodefixes,8089
+topic-penalization,8090
+async,8091
+3.x,8092
+unconfirmed,5831
+pipeline,8094
+c-doc,8095
+housekeeping,8096
+standalone,8097
+design questions,8098
+needs: work,8099
+mne sprint,8100
+backlog,8101
+new-test-script,8102
+platform: conversation.fuzzy,8104
+platform: weather.buienradar,8105
+external_dep_bug,8106
+linter,8107
+not-in-changelog,3014
+platform: cover.rfxtrx,8109
+sqlalchemy,2691
+kind: flocker-containers,8110
+needs research,5057
+resilience,8112
+storage adapter,8113
+resolution: fixed,8114
+question,8115
+backend:kvaser,8116
+long,8117
+component: insteon_local,8118
+css/scss,8119
+area:dispatch,5106
+platform: sensor.uber,8121
+test-needed,8122
+dados,8123
+platform: device_tracker.tplink,8124
+area: mouse,8125
+test-infrastructure,8126
+platform: config.customize,8127
+document this,8128
+platform: sensor.worx-landroid,8129
+type: invalid,844
+vendor:ti,8131
+request/enhancement,8132
+send to prod,8133
+molpro,8134
+closed-as-unlikely-to-be-implemented,8135
+tag:data-model,8136
+high priority,2848
+highlight,8137
+apps-frameworks,8138
+user unfriendliness,8139
+component:modeladmin,5228
+browser: chrome,6406
+component: input_box,8141
+kodi issue,8142
+needs example data,477
+tron commands,8144
+2 - in progress,8145
+migrated to master,8146
+classification:other bug,8147
+plugins/action,8148
+grs,8149
+type: chore,8150
+3rd party,8151
+needs-work,8152
+platform: switch.rpi_pfio,8153
+migrated from trac,8154
+needs_repo,8155
+needs-user-input,5340
+users,8157
+error-reporting,8158
+focus - internationalization,5373
+reverted,8160
+via-github,8161
+component: thingspeak,8162
+swat0,8163
+needsrebase,8164
+s3transfer,8165
+microsoft,8166
+res-duplicate,8167
+high-priority,8168
+gui/tk,2642
+a:doc update,8170
+type: technical debt,8171
+intentional,8172
+asyncio,8173
+topic: txs assets data,8174
+open for review: hold off on merge,8175
+community effort,8176
+stale?,8177
+pending-nits,8178
+platform: remote.kira,8179
+≈ duplicate,8180
+hooks,5449
+type: unsorted,8182
+t: refactoring,8183
+status: needs testcase,8184
+component:docs,8185
+auto-generated docs,5478
+plugin-related,8187
+x: occrp,8188
+maybe a bug,8189
+type/new-provider,3060
+type:sample,8191
+ibm-st,8192
+breach,8193
+area: documentation (user),8194
+tooltips,5544
+topic: other,8196
+dev: please review,8197
+mancers,8198
+mid-priority,8199
+playbook/play,8200
+stackoverflow,8201
+platform: zwave.workaround,7821
+nvidia shield,5604
+notes,8204
+platform: sensor.counter,8205
+sprint:iceland2017,8206
+type: defect,8207
+component: plant,8208
+topic - encoding,8209
+session,8210
+platform: sensor.opensky,8211
+r-invalid,8212
+concluded,8213
+someday,8214
+platform: notify.mycroft,8215
+uia-related,8216
+component:usb,8217
+utils & environment,8218
+building/installing,8219
+geometry transforms,8220
+res-invalid,8221
+idea !,8222
+bc-break,8223
+cfp,8224
+compat,8225
+section: data upload,8226
+bdf,8227
+checkers,8228
+platform: notify.smtp,8229
+platform: media_player.nadtcp,8230
+c-output modules,5706
+c:plugins/filter,8232
+api request,8233
+size:small,5714
+gdal/ogr,8235
+difficulty/newcomer,5722
+security/dos,5728
+come in and sing along,8238
+platform: switch.pilight,8239
+webinterface,8240
+impact,5463
+f - data management,5745
+explore,8243
+oleobj,8244
+component: lametric,8245
+platform: sensor.radarr,8246
+scrapped,8247
+introduced: 10,5787
+introduced: 11,8249
+feature/app,8250
+component:startendeditor,8251
+conftest,8252
+component: velbus,7861
+x: transparencyph,8254
+wish list,5843
+physics.mechanics,8256
+app,8257
+skill: design,8258
+apt,8259
+www-ui,8260
+api,8261
+apply,5876
+bindings,8263
+nest,8264
+cla-error,8265
+os/windows,8266
+pending changes,8267
+expedition module,8268
+cant reproduce,8269
+cncf-cla: no,8270
+component-readers,8271
+planing,8272
+opsys-all,8273
+ready_for_testing,8274
+status:available,8679
+area:sdk,8276
+cr+,8277
+new integration,8278
+road map,8279
+c: json api,8280
+area:testing,8281
+needs: upstream action,8282
+react.js,8283
+cve-2017-5638,8284
+waiting answer,8285
+tvmaze,8286
+ci & tests,8287
+cloudsearch,8288
+platform: recorder.models,8289
+a-question,5729
+zbackport 2.7.1,8291
+platform: lock.vera,8292
+0.9,8293
+platform: climate.wink,8294
+spec-conformity,8295
+priority: mid,6051
+priority - high,8297
+0.3,8298
+tax,6062
+0.4,8300
+0.6,8301
+package:pyqt,4560
+toctree,8303
+assumptions,6076
+needs: feedback from author,8684
+ready for merge,3289
+dependency,8687
+dependency_bug,8308
+makemkv,8309
+brian,8310
+eventyay.com,8311
+input/output,6131
+new pr needed,6134
+{contribute},8314
+probably_already_solved,8315
+youtubeuploader,8316
+platform: sensor.bme280,8317
+0.x,8318
+file backend,8319
+for-a-modest-fee,8320
+contributor/has-workaround,8322
+platform: media_player.apple_tv,8323
+docs_pull_request,8324
+collector: nvidia_smi,8325
+per_dir_config,8326
+freebsd,8327
+needs: more user information,8328
+v2 port ✅,8329
+area/core,8330
+forms-tester,8331
+component: ios,8332
+difficulty-moderate,8333
+0 - idea/discussion,8334
+pri:  important,4159
+cornice 2.0,8335
+opsys-unix,8336
+constants and physical data,8337
+priority: 1 - middle,8338
+synology,8339
+post-exploitation,8340
+component: autoscaling,8341
+multithreading,6346
+conformance,8343
+pending,8344
+component/vfile,8345
+crash,8346
+backport-0.7,8347
+pending: response,8348
+backport-0.8,8349
+indexing,8350
+component: elasticsearch results backend,8351
+milestone-release0.8,8352
+component-rapi,8353
+platform: sensor.airvisual,8354
+milestone-release0.3,8355
+milestone-release0.5,8356
+milestone-release0.7,8357
+5.0.3,8358
+c:executor/module_common,6424
+kind: openstack,8360
+edit,8361
+release_notes,8362
+platform: climate.radiotherm,8363
+lib2to3 bug,6442
+status: not a bug,8365
+good sprint project,8366
+module_utils/powershell,8367
+v - 10.5,8368
+component: script,8369
+nice for plugin,6499
+gcm/fcm,8371
+cla signed,8372
+comp-multivariate,8373
+pandas-like,8374
+when: in progress,8375
+!! urgent !!,8376
+group/api-upgrade,8377
+reso:already-fixed,8378
+geos,8379
+crasher,8380
+pr: don't merge - needs cla,8381
+✓✓✓,8382
+waiting on sustaining,8383
+platform: sensor.template,8384
+integrated,8385
+area:compiler,4129
+cat: testing,8387
+depends on other pr,8388
+dictionary,8389
+focus - tool,8390
+plone-tune-up,8391
+must-have,8392
+invalid: duplicate,6617
+merge when ci passes,8394
+category: project governance,8395
+category: inference,8396
+platform: switch.doorbird,8699
+development_workflow,8398
+awaiting-response,8399
+ui change,5805
+ltm,8401
+topic: rewrite,8402
+apps,8701
+dev-version,8404
+c:inventory/ini,8405
+infra-related,8406
+nice to have,8407
+v - arcgis pro,8408
+contribution wanted,8409
+unknown,8410
+classification:performance,8411
+new instant answer,8412
+area: accessibility,6745
+tomovetootherrepo,8703
+priority,8415
+th_rss,8704
+ruleset-enhancement,8417
+component: scene,8418
+platform: sensor.rest,8419
+siegelmf,8420
+expected behavior,8421
+ice box,8422
+shell,8423
+platform: sensor.crimereports,8424
+in-progress,8425
+user/ui,6781
+osgeo-incubation,8427
+component-assembling,8428
+api design,8429
+component: rpc results backend,8430
+c:b:tmux,8431
+app specific: skype for desktop,8432
+user/ux,8433
+needs discussion,8434
+area: apache,8435
+notes and todo,8436
+bwic,8437
+vocabularies,8438
+ast-generation/bug,8439
+waiting on user,8440
+dynamo,4173
+c-dat,6864
+mgxs,7672
+1.0,8444
+1.1,8445
+api: datastore,8446
+platform: sensor.glances,8447
+sprint:djangocon2017,8448
+c:b:vim,8449
+jira: in progress,2863
+status:invalid,8450
+user friendly,8451
+waiting on t&l,8452
+pinboardimport,8453
+scons,8454
+package-expert,8455
+minion seal of approval,8456
+v0.7,8457
+v0.2,8458
+ckan-integration,6982
+needs-response,8460
+q/r,8461
+area/usability,8462
+new guide,8463
+milestone-0.5.2,8464
+milestone-0.5.1,8465
+design-required,4225
+user-request,7008
+cli/,8468
+filmy online - mrknow,8469
+design discussion,8470
+prio: low,8471
+platform: switch.android_ip_webcam,8472
+paused pull requests,8473
+s3api,8474
+do-the-needful,7052
+feedback_needed,8476
+c:crypto,8477
+diagnostics,8478
+superseded,8479
+need-opinions,8480
+stage: revising,8481
+status: team discussion,8482
+code review pending,8483
+✓✓,8484
+api breakage,8485
+planning,8486
+debate,8487
+fixed-in-git,8488
+stage: drafting,8489
+two phase lottery ui,8490
+xmlrpclib.fault,8491
+cache,8492
+operational,8493
+bash on windows,8494
+format-lammps,8495
+backends/digital-ocean,8496
+importance/low,8497
+chapter7,8498
+component: discovery,8499
+vaitk,8500
+patch: cosmetic code change,8501
+documention,8502
+pypy,8503
+bitesized,8504
+qt,8505
+type-review,8506
+kind: feature-request,8507
+qa,8508
+bug:upstream,8509
+area:plugins-hooks,8510
+plugins/filter,8511
+text/unicode,8512
+integrations: drf,7285
+needs: ops,8514
+scipy.fftpack,7291
+tag: feature,8516
+non breaking,8517
+can't replicate,8518
+module,8519
+area: registers,8520
+affects ubuntu,8521
+nested context,8522
+gmail,8523
+tier1,8524
+tier3,8525
+tier2,8526
+resource/account,4866
+platform-ppc,8528
+component: tests,8529
+component: mysensors,8530
+ready to get merged,8531
+component-docs,8532
+area: analytics,8533
+status-verified,8534
+data-import,8535
+bump after 2018 launch,8536
+base functionality,2042
+lazy evaluation,6719
+platform: light.mipow,8538
+takeover,8539
+webapp,8540
+commands,8541
+planned,8542
+pending contributor,8543
+component-engine,8544
+close?,8545
+module: uploads,8546
+cmd: extract,8547
+unclear,8548
+component:search,8549
+localfields,8550
+environments,8551
+platform: sensor.amcrest,8552
+docs: developer,7516
+pygments,8554
+nobug,8555
+table,8556
+theme:expand-scope,8557
+withdrawn,8558
+fallout4,8559
+c:module_utils/urls,8560
+x: edison,8561
+platform: sensor.speedtest,8562
+ruleset,8563
+component:editor,8564
+platform: media_player.braviatv,8565
+questions for fms,8566
+status: tolerated,8567
+severity: trivial,8568
+c:executor/task_queue_manager,8569
+pypln-monitor,7608
+一定解决这个问题,8571
+tag: component: tests,8572
+hmf,8573
+status: rejected,8574
+feedback-wanted,8575
+platform: calendar.demo,8576
+abandoned,8577
+c-packer,8578
+needs response on forums,8579
+platform: cover.rpi_gpio,8580
+depreciation,7350
+chair action needed,8582
+pr ready to merge,8583
+easy(ish),8584
+pending-verification,8585
+provider/vsphere,8586
+partial fix,8587
+need-discussion,8588
+restructure,8589
+non-functional requirement,8590
+type: user feedback,8591
+style & api,5375
+ansible,8593
+avi,8594
+opendap,8595
+http-bridge,8596
+component: enocean,8597
+type-refactoring,8598
+k-related-work,8599
+dataset bug,7760
+enumeration,8601
+member,8602
+googlestorage,8603
+needs_rebase,8604
+units,8605
+difficult,8606
+io msgpack,8607
+component: orchestration,8608
+paid development,8609
+recline,8610
+functions,8611
+automation,8612
+component: devhub,8613
+openoffice,8614
+api-addition,8739
+webserver,8615
+pyjams,8616
+contest,4358
+k-model,8618
+changesource,8619
+cat:ui,8620
+need_doc,8621
+gsoc-2017-git,8622
+prio-normal,8623
+bbdb,8624
+webui,7918
+untested,8626
+ask hn,6673
+py3k,8627
+affects_3.5,8628
+affects_3.4,8629
+affects_3.7,8630
+affects_3.6,8631
+console,8632
+sublime,8633
+affects_3.3,8634
+release-branch,8655
+platform-win,8635
+apparmor,8636
+usage,8637
+project: amo health,8638
+cluster infrastructure,8639
+recoveryservices,8014
+autoscaling,8641
+footprint-reduction,8642
+xenial,8643
+_minor,8644
+platform: sensor.dweet,8645
+need-decision,8646
+python4,7785
+in dev,8041
+contrib: maybe good first bug,8649
+python3,8650
+python2,8651
+perpetual,8070
+platform: sensor.moon,8653
+io.registry,8654
+blockingconnection,8103
+bug-meta5,8656
+kde,8657
+opencloud,8658
+board-minispartan6,8659
+release-blocker,8660
+pr ready for review,8661
+package-novice,8662
+component:ui,8663
+rhel6-branch,8664
+bug_external,8665
+feature removal,8666
+site support,8667
+pretix.control,8668
+platform: media_player.squeezebox,8669
+pycon,8670
+category: learning,8671
+code freeze,8748
+qe+,8672
+s:not a bug,8673
+pr: sympy's turn,8674
+for-new-contributors,8675
+neededforblackbox,8676
+wrong result,8677
+add-on management,4530
+waiting for feedback,8275
+toolchain,8680
+pypln-web,8681
+extension,8682
+information-leakage,8683
+urged,8305
+pr: don't merge - replaced,8685
+war file,8686
+scipy2014 sprint,8307
+st2-packages,8321
+status/needs info,8689
+platform: switch.abode,8690
+cf conventions,8691
+need_test,8692
+component: permissions,8693
+py 2.6 incompat,8694
+resolved-by-pr,8695
+registration,6288
+@@ltucker,8697
+generic indexer,8698
+i - oaconnect,8397
+*,8700
+kind - maintenance,8403
+collector: network,8702
+workaround-available,8414
+macvim bug,8416
+mac-app,8705
+ndeploy4,8706
+partially implemented,8707
+agent development,8708
+help appreciated,8709
+buildout3,8710
+ebpub,8711
+django-admin,8712
+platform: binary_sensor.template,8713
+needs-analysis,8714
+help-needed,8715
+demo idea,8716
+type/test,8717
+do-in-datalad,8718
+status:duplicate,8719
+tomcat,8720
+coding standards,8721
+hackathon2016,8722
+jira: to do,8723
+type-feature,8724
+replay,2907
+hunspell,8726
+waiting-for-merge,3588
+p4 - minor,7267
+issue type: feature request,8728
+pr: needs qa/testing,8729
+readthedocs,8730
+milestone-0.5.0,8466
+pull request only,8731
+component: eta/countdown,8732
+platform: climate.vera,8733
+effort-weeks,8734
+cli toolkit,8735
+manually tested,8736
+in the margins,8737
+new editor,8738
+mraptor,57
+hard-to-fix,8740
+execution module,8741
+well-defined-task-definitely-do-this,8742
+other,8743
+cross esx multi tenancy,8744
+1.7.0,8745
+plat: ie,8746
+need-rebase,8747
+api-break,4384
+shortlist-to-fix,8749
+ui code (js/css),6234
+tech:javascript,5510
+psf-membership,8752
+not for current release,8753
+debian,8754
+category: tests,8755
+path handling,7908
+zreleased - 2017.7.1,8757
+good first contribution,8758
+api: translate,8759
+zreleased - 2017.7.0,8760
+aircraft model,8761
+backwards incompat,8762
+sasl,8763
+area: ncss,8764
