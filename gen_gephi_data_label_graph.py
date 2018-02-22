@@ -70,6 +70,7 @@ if __name__ == '__main__':
     # pickle.dump(G, open(dumped_graph, 'w'))
     G = pickle.load(open(dumped_graph))
     merged_G = merge_graph(G)
+    pickle.dump(merged_G, open(dumped_merged_graph, 'w'))
 
     merged_G_node2id = gen_node2id_dic(merged_G)
     pickle.dump(merged_G_node2id, open(dumped_node2id, 'w'))
