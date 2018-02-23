@@ -74,10 +74,11 @@ def construct_G_from_collection(collection_names, vertex_is_project=True, cross_
                             target = str(item[u'_id'][u'target'])
                         if source and target:
                             G.add_edge(source, target)
+
     return G
 
 
-if __name__ == '__main__':
+def main():
     dump_file_G = config.DATA_DIR + 'AllMultiDiGraph.txt'
     dump_file_node2id = config.DATA_DIR + 'AllMultiDiGraph.Node2ID'
     res_id2id = config.DATA_DIR + './AllMultiDiGraph.id2id.rmBadPrj.csv'
@@ -105,3 +106,10 @@ if __name__ == '__main__':
 
     # Check the degree
     graph_utils.sort_by_in_degree(G)
+
+
+if __name__ == '__main__':
+    # main()
+    dump_file_G = config.DATA_DIR + 'AllMultiDiGraph.txt'
+    G = pickle.load(open(dump_file_G))
+    graph_utils.sort_by_out_degree(G)
