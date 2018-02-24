@@ -10,9 +10,10 @@ nodes_need_merge = [
     ('testing', 'tests')
 ]
 
+nodes_dic = {}
+
 
 def extract_edges(edges_f, nodes_f):
-    nodes_dic = {}
     with open(nodes_f, 'rb') as f:
         csv_reader = csv.reader(f)
         next(csv_reader)  # skip header
@@ -64,7 +65,17 @@ def main():
             extract_edges(edges_f, nodes_f)
         )
     )
-    plot_graph(merged_G)
+    import graph_utils
+    node2id = graph_utils.gen_node2id_dic(merged_G)
+    import gen_gephi_data
+    gen_gephi_data.writeG2csv(
+        merged_G,
+        node2id,
+        './result/merged_label_graph_id2id_final_V2.csv',
+        './result/merged_label_graph_node2id_final_V2.csv',
+        weight=True
+    )
+    # plot_graph(merged_G)
 
 
 if __name__ == '__main__':

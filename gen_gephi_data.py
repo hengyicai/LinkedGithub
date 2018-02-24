@@ -13,18 +13,24 @@ PORT = config.MONGO_PORT
 BAD_PRJS = ["pytest-dev/pytest"]
 
 
-def writeG2csv(G, node2id, path_id2id, path_node2id, exclusive_nodes=None):
+def writeG2csv(G, node2id, path_id2id, path_node2id, exclusive_nodes=None, weight=False):
     with open(path_id2id, 'w') as f:
         f.write(','.join(['Source', 'Target']))
+        if weight:
+            f.write(',Weight')
         f.write('\n')
-        for e in G.edges_iter():
-            f.write(','.join([str(node2id[item]) for item in e]))
+        for e in G.edges_iter(data=weight):
+            if weight:
+                f.write(','.join([str(node2id[item]) for item in e[:2]] + [str(e[-1]['weight'])]))
+            else:
+                f.write(','.join([str(node2id[item]) for item in e]))
+
             f.write('\n')
     with open(path_node2id, 'w') as f:
         f.write(','.join(['Label', 'Id']))
         f.write('\n')
         for node, id in dict(node2id).iteritems():
-            if exclusive_nodes is not None and node not in exclusive_nodes:
+            if exclusive_nodes is None or (exclusive_nodes is not None and node not in exclusive_nodes):
                 f.write(node)
                 f.write(',')
                 f.write(str(id))
