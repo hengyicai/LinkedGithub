@@ -8,11 +8,12 @@ import graph_utils
 IP = config.MONGO_IP
 PORT = config.MONGO_PORT
 
-BAD_PRJS = ["pytest", "ansible", "ansible-modules-core", "pip", "ansible-modules-extras", "easybuild-easyblocks",
-            "pytest-cov", "travis-ci", "ipython", "sh", "conda"]
+# BAD_PRJS = ["pytest", "ansible", "ansible-modules-core", "pip", "ansible-modules-extras", "easybuild-easyblocks",
+#            "pytest-cov", "travis-ci", "ipython", "sh", "conda"]
+BAD_PRJS = ["pytest-dev/pytest"]
 
 
-def writeG2csv(G, node2id, path_id2id, path_node2id):
+def writeG2csv(G, node2id, path_id2id, path_node2id, exclusive_nodes=None):
     with open(path_id2id, 'w') as f:
         f.write(','.join(['Source', 'Target']))
         f.write('\n')
@@ -23,7 +24,7 @@ def writeG2csv(G, node2id, path_id2id, path_node2id):
         f.write(','.join(['Label', 'Id']))
         f.write('\n')
         for node, id in dict(node2id).iteritems():
-            if node not in BAD_PRJS:
+            if exclusive_nodes is not None and node not in exclusive_nodes:
                 f.write(node)
                 f.write(',')
                 f.write(str(id))
@@ -38,8 +39,6 @@ def construct_G_from_collection(collection_names, vertex_is_project=True, cross_
     :return: Graph
     '''
     mongo_client = MyMongoClient(ip=IP, port=PORT)
-
-    # colls = ['i_i', 'i_p', 'p_p', 'p_i']
 
     collections = []
     for col in collection_names:
@@ -58,8 +57,8 @@ def construct_G_from_collection(collection_names, vertex_is_project=True, cross_
                             source = str(item[u'_id'][u'source']).split('/')[4]
                             target = str(item[u'_id'][u'target']).split('/')[4]
                         else:
-                            source = str(item[u'_id'][u'source'])
-                            target = str(item[u'_id'][u'target'])
+                            source = '/'.join(str(item[u'_id'][u'source']).split('/')[3:5])
+                            target = '/'.join(str(item[u'_id'][u'target']).split('/')[3:5])
                         if source and target:
                             G.add_edge(source, target)
                 elif not cross_project:
@@ -79,37 +78,36 @@ def construct_G_from_collection(collection_names, vertex_is_project=True, cross_
 
 
 def main():
-    dump_file_G = config.DATA_DIR + 'AllMultiDiGraph.txt'
-    dump_file_node2id = config.DATA_DIR + 'AllMultiDiGraph.Node2ID'
-    res_id2id = config.DATA_DIR + './AllMultiDiGraph.id2id.rmBadPrj.csv'
-    res_node2id = config.DATA_DIR + './AllMultiDiGraph.node2id.rmBadPrj.csv'
+    dump_file_G = config.DATA_DIR + 'AllMultiDiGraph_UserPrj.txt'
+    dump_file_node2id = config.DATA_DIR + 'AllMultiDiGraph_UserPrj.Node2ID'
+    res_id2id = config.DATA_DIR + 'AllMultiDiGraph_UserPrj.id2id.rmBadPrj.csv'
+    res_node2id = config.DATA_DIR + 'AllMultiDiGraph_UserPrj.node2id.rmBadPrj.csv'
 
     # Construct graph then dump it
-    # G = construct_G_from_collection(['i_i', 'i_p'], vertex_is_project=False, cross_project=True)
-    # pickle.dump(G, open(dump_file_G, 'w'))
+    G = construct_G_from_collection(['i_i', 'i_p', 'p_p', 'p_i'], vertex_is_project=False, cross_project=True)
+    pickle.dump(G, open(dump_file_G, 'w'))
 
     # Load dumped graph into G
-    G = pickle.load(open(dump_file_G))
+    # G = pickle.load(open(dump_file_G))
 
     # Generate the node->id dict then dump it
-    # node2id = gen_node2id_dic(G)
-    # pickle.dump(node2id, open(dump_file_node2id,'w'))
+    node2id = graph_utils.gen_node2id_dic(G)
+    pickle.dump(node2id, open(dump_file_node2id, 'w'))
 
     # Load dumped node2id and write result to disk
     # node2id = pickle.load(open(dump_file_node2id))
-    node2id = graph_utils.gen_node2id_dic(G)
     # Remove some nodes in G
     for bad_prj in BAD_PRJS:
         G.remove_node(bad_prj)
 
-    writeG2csv(G, node2id, res_id2id, res_node2id)
+    writeG2csv(G, node2id, res_id2id, res_node2id, exclusive_nodes=BAD_PRJS)
 
     # Check the degree
-    graph_utils.sort_by_in_degree(G)
+    # graph_utils.sort_by_in_degree(G)
 
 
 if __name__ == '__main__':
     # main()
-    dump_file_G = config.DATA_DIR + 'AllMultiDiGraph.txt'
+    dump_file_G = config.DATA_DIR + 'AllMultiDiGraph_UserPrj.txt'
     G = pickle.load(open(dump_file_G))
-    graph_utils.sort_by_out_degree(G)
+    graph_utils.sort_by_in_degree(G)
