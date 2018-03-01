@@ -52,9 +52,9 @@ def read_map(file_p):
 
 
 def main():
-    # res_map = get_issue_link_count()
+    res_map = get_issue_link_count()
     m_f = './result/issue_unit_map_link_count.csv'
-    # write_map(res_map, m_f)
+    write_map(res_map, m_f)
     issue_unit_map_count = read_map(m_f)
     count_map_issue_unit = {}
     for key, val in dict(issue_unit_map_count).iteritems():
