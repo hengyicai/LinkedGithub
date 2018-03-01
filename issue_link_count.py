@@ -21,7 +21,7 @@ def get_issue_link_count():
                 s_arr = str(item[u'_id'][u'source']).split('/')
                 # t_arr = str(item[u'_id'][u'target']).split('/')
                 s_flag = s_arr[5][0]
-                source = '/'.join(s_arr[3:5].extend([s_flag, s_arr[6]]))
+                source = '/'.join(s_arr[3:5] + [s_flag, s_arr[6]])
                 # target = '/'.join(t_arr[3:5].extend([t_flag, t_arr[6]]))
             if source:
                 if source in issue_units_map_count:
