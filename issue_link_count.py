@@ -40,9 +40,29 @@ def write_map(m, file_p):
             f.write('\n')
 
 
+def read_map(file_p):
+    ret_map = {}
+    with open(file_p, 'w') as f:
+        line = f.readline()
+        while line:
+            item_arr = line.strip().split(',')
+            ret_map[item_arr[0]] = item_arr[-1]
+            line = f.readline()
+    return ret_map
+
+
 def main():
-    res_map = get_issue_link_count()
-    write_map(res_map, './result/issue_unit_map_link_count.csv')
+    # res_map = get_issue_link_count()
+    m_f = './result/issue_unit_map_link_count.csv'
+    # write_map(res_map, m_f)
+    issue_unit_map_count = read_map(m_f)
+    count_map_issue_unit = {}
+    for key, val in dict(issue_unit_map_count).iteritems():
+        if val in count_map_issue_unit:
+            count_map_issue_unit[val] += 1
+        else:
+            count_map_issue_unit[val] = 1
+    write_map(count_map_issue_unit, './result/count_map_issue_unit.csv')
 
 
 if __name__ == '__main__':
