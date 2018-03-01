@@ -42,7 +42,7 @@ def write_map(m, file_p):
 
 def read_map(file_p):
     ret_map = {}
-    with open(file_p, 'w') as f:
+    with open(file_p) as f:
         line = f.readline()
         while line:
             item_arr = line.strip().split(',')
