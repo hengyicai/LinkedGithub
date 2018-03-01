@@ -57,8 +57,8 @@ def construct_G_from_collection(collection_names, vertex_is_project=True, cross_
             if u'type' in item:
                 if cross_project and item[u'type'] == u'crossed':
                     if item[u'_id'] and \
-                                    u'source' in item[u'_id'] and \
-                                    u'target' in item[u'_id']:
+                            u'source' in item[u'_id'] and \
+                            u'target' in item[u'_id']:
                         if vertex_is_project:
                             source = str(item[u'_id'][u'source']).split('/')[4]
                             target = str(item[u'_id'][u'target']).split('/')[4]
@@ -69,8 +69,8 @@ def construct_G_from_collection(collection_names, vertex_is_project=True, cross_
                             G.add_edge(source, target)
                 elif not cross_project:
                     if item[u'_id'] and \
-                                    u'source' in item[u'_id'] and \
-                                    u'target' in item[u'_id']:
+                            u'source' in item[u'_id'] and \
+                            u'target' in item[u'_id']:
                         if vertex_is_project:
                             source = str(item[u'_id'][u'source']).split('/')[4]
                             target = str(item[u'_id'][u'target']).split('/')[4]
@@ -86,34 +86,36 @@ def construct_G_from_collection(collection_names, vertex_is_project=True, cross_
 def main():
     dump_file_G = config.DATA_DIR + 'AllMultiDiGraph_UserPrj.txt'
     dump_file_node2id = config.DATA_DIR + 'AllMultiDiGraph_UserPrj.Node2ID'
-    res_id2id = config.DATA_DIR + 'AllMultiDiGraph_UserPrj.id2id.rmBadPrj.csv'
-    res_node2id = config.DATA_DIR + 'AllMultiDiGraph_UserPrj.node2id.rmBadPrj.csv'
+    res_id2id = config.DATA_DIR + 'AllMultiDiGraph_UserPrj.id2id.csv'
+    res_node2id = config.DATA_DIR + 'AllMultiDiGraph_UserPrj.node2id.csv'
 
     # Construct graph then dump it
-    G = construct_G_from_collection(['i_i', 'i_p', 'p_p', 'p_i'], vertex_is_project=False, cross_project=True)
-    pickle.dump(G, open(dump_file_G, 'w'))
+    # G = construct_G_from_collection(['i_i', 'i_p', 'p_p', 'p_i'], vertex_is_project=False, cross_project=True)
+    # pickle.dump(G, open(dump_file_G, 'w'))
 
     # Load dumped graph into G
-    # G = pickle.load(open(dump_file_G))
+    G = pickle.load(open(dump_file_G))
 
     # Generate the node->id dict then dump it
-    node2id = graph_utils.gen_node2id_dic(G)
-    pickle.dump(node2id, open(dump_file_node2id, 'w'))
+    # node2id = graph_utils.gen_node2id_dic(G)
+    # pickle.dump(node2id, open(dump_file_node2id, 'w'))
 
     # Load dumped node2id and write result to disk
-    # node2id = pickle.load(open(dump_file_node2id))
+    node2id = pickle.load(open(dump_file_node2id))
     # Remove some nodes in G
-    for bad_prj in BAD_PRJS:
-        G.remove_node(bad_prj)
+    # for bad_prj in BAD_PRJS:
+    #    G.remove_node(bad_prj)
 
-    writeG2csv(G, node2id, res_id2id, res_node2id, exclusive_nodes=BAD_PRJS)
+    writeG2csv(G, node2id, res_id2id, res_node2id)
 
     # Check the degree
     # graph_utils.sort_by_in_degree(G)
 
 
 if __name__ == '__main__':
-    # main()
+    main()
+    '''
     dump_file_G = config.DATA_DIR + 'AllMultiDiGraph_UserPrj.txt'
     G = pickle.load(open(dump_file_G))
     graph_utils.sort_by_in_degree(G)
+    '''
