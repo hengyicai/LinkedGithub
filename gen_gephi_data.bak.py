@@ -54,13 +54,31 @@ def construct_G_from_collection(collection_names, vertex_is_project=True, cross_
 
     for m_collection in collections:
         for item in m_collection:
-            if item[u'project_link'] and \
-                    u'source' in item[u'project_link'] and \
-                    u'target' in item[u'project_link']:
-                source = item[u'project_link'][u'source']
-                target = item[u'project_link'][u'target']
-                if source and target:
-                    G.add_edge(source, target)
+            if u'type' in item:
+                if cross_project and item[u'type'] == u'crossed':
+                    if item[u'_id'] and \
+                            u'source' in item[u'_id'] and \
+                            u'target' in item[u'_id']:
+                        if vertex_is_project:
+                            source = str(item[u'_id'][u'source']).split('/')[4]
+                            target = str(item[u'_id'][u'target']).split('/')[4]
+                        else:
+                            source = '/'.join(str(item[u'_id'][u'source']).split('/')[3:5])
+                            target = '/'.join(str(item[u'_id'][u'target']).split('/')[3:5])
+                        if source and target:
+                            G.add_edge(source, target)
+                elif not cross_project:
+                    if item[u'_id'] and \
+                            u'source' in item[u'_id'] and \
+                            u'target' in item[u'_id']:
+                        if vertex_is_project:
+                            source = str(item[u'_id'][u'source']).split('/')[4]
+                            target = str(item[u'_id'][u'target']).split('/')[4]
+                        else:
+                            source = str(item[u'_id'][u'source'])
+                            target = str(item[u'_id'][u'target'])
+                        if source and target:
+                            G.add_edge(source, target)
 
     return G
 
@@ -73,14 +91,14 @@ def main():
 
     # Construct graph then dump it
     G = construct_G_from_collection(['project_link'], vertex_is_project=False, cross_project=True)
-    pickle.dump(G, open(dump_file_G, 'w'))
+    # pickle.dump(G, open(dump_file_G, 'w'))
 
     # Load dumped graph into G
     G = pickle.load(open(dump_file_G))
 
     # Generate the node->id dict then dump it
-    node2id = graph_utils.gen_node2id_dic(G)
-    pickle.dump(node2id, open(dump_file_node2id, 'w'))
+    # node2id = graph_utils.gen_node2id_dic(G)
+    # pickle.dump(node2id, open(dump_file_node2id, 'w'))
 
     # Load dumped node2id and write result to disk
     node2id = pickle.load(open(dump_file_node2id))
